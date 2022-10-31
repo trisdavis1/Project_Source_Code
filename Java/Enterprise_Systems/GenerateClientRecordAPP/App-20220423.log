@@ -1,0 +1,77 @@
+2022-04-23 11:22:25.683 [main] INFO  App - Starting
+
+2022-04-23 11:22:25.693 [main] TRACE App - This is step 1!
+
+2022-04-23 11:22:25.696 [main] INFO  App - Step 1: args[0] is query
+2022-04-23 11:22:25.696 [main] INFO  App - Step 1: args[1] is mitsue.json
+2022-04-23 11:22:25.696 [main] INFO  App - Step 1: args[2] is clients.csv
+2022-04-23 11:22:25.696 [main] INFO  App - Step 1: args[3] is 917
+2022-04-23 11:22:25.697 [main] INFO  App - Done with step 1
+
+2022-04-23 11:22:25.697 [main] TRACE App - Moving on to step 2!
+
+2022-04-23 11:22:25.767 [main] INFO  App - Step 2: "client": {"number":"0", "first_name":"?", "last_name":"?", "company":"?", "address":"?", "city":"?", "county":"?", "state":"?", "postal_code":"0", "risk_factor":"0.0", "phone1":"?", "phon2":"?", "email":"@", "web":"http://"}
+2022-04-23 11:22:25.767 [main] INFO  App - Done with step 2
+
+2022-04-23 11:22:26.321 [main] TRACE App - Moving on to step 3!
+
+2022-04-23 11:22:26.322 [main] INFO  App - Step 3: Printed Records: 19
+2022-04-23 11:22:26.323 [main] INFO  App - Step 3: "client": {"number":"730", "first_name":"James", "last_name":"Butt", "company":"Benton, John B Jr", "address":"6649 N Blue Gum St", "city":"New Orleans", "county":"Orleans", "state":"LA", "postal_code":"70116", "risk_factor":"1.30104582103399", "phone1":"504-621-8927", "phon2":"504-845-1427", "email":"jbutt@gmail.com", "web":"http://www.bentonjohnbjr.com"}
+2022-04-23 11:22:26.324 [main] TRACE App - Done with step 3
+
+2022-04-23 11:22:26.324 [main] TRACE App - Moving on to step 4!
+
+2022-04-23 11:22:26.394 [main] INFO  App - Step 4: Client list dumped. Created Json file: 'clients.json'
+2022-04-23 11:22:26.394 [main] TRACE App - Done with step 4
+
+2022-04-23 11:22:26.395 [main] TRACE App - Moving on to step 5!
+
+2022-04-23 11:22:26.402 [main] INFO  App - "client": {"number":"917", "first_name":"Mitsue", "last_name":"Tollner", "company":"Morlong Associates", "address":"7 Eads St", "city":"Chicago", "county":"Cook", "state":"IL", "postal_code":"60632", "risk_factor":"4.86015778395839", "phone1":"773-573-6914", "phon2":"773-924-8565", "email":"mitsue_tollner@yahoo.com", "web":"http://www.morlongassociates.com"}
+2022-04-23 11:22:26.403 [main] TRACE App - Done with step 5
+
+2022-04-23 11:22:26.403 [main] TRACE App - Moving on to step 6!
+2022-04-23 11:22:26.403 [main] INFO  App - Successfully connected to URL...
+
+2022-04-23 11:22:27.602 [main] INFO  App - Step 6: Postal Code = 60632
+2022-04-23 11:22:27.603 [main] INFO  App - Step 6: Longitude = -87.7052
+2022-04-23 11:22:27.604 [main] INFO  App - Step 6: Latitude = 41.8093
+2022-04-23 11:22:27.604 [main] TRACE App - Done with step 6
+
+2022-04-23 11:22:28.210 [main] TRACE App - Moving on to step 7!
+
+2022-04-23 11:22:28.210 [main] INFO  App - In readDatabase(). Reading records from the database...
+2022-04-23 11:22:28.682 [main] INFO  App - At least one demographic found
+2022-04-23 11:22:28.683 [main] INFO  App - Step 7: Median Age = 34.2
+2022-04-23 11:22:28.684 [main] INFO  App - Step 7: Population Age = 2720556
+2022-04-23 11:22:29.487 [main] TRACE App - Done with step 7
+
+2022-04-23 11:22:29.487 [main] TRACE App - Skipping step 8, Moving on to step 9!
+
+2022-04-23 11:22:29.495 [main] INFO  App - Json file "mitsue.json" created!
+2022-04-23 11:22:29.496 [main] INFO  App - Below is what the Json file looks like!
+2022-04-23 11:22:29.496 [main] INFO  App - 
+{
+  "client": {
+    "number": "917",
+    "first_name": "Mitsue",
+    "last_name": "Tollner",
+    "company": "Morlong Associates",
+    "address": "7 Eads St",
+    "city": "Chicago",
+    "county": "Cook",
+    "state": "IL",
+    "postal_code": "60632",
+    "risk_factor": "4.86015778395839",
+    "phone1": "773-573-6914",
+    "phon2": "773-924-8565",
+    "email": "mitsue_tollner@yahoo.com",
+    "web": "http://www.morlongassociates.com"
+  },
+  "longitude": "-87.7052",
+  "latitude": "41.8093",
+  "medianage": "34.2",
+  "population": "2720556"
+}
+2022-04-23 11:22:29.496 [main] TRACE App - Done with step 9
+
+2022-04-23 11:22:29.497 [main] INFO  App - Done!

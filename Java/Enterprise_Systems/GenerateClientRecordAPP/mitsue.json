@@ -1,0 +1,22 @@
+{
+  "client": {
+    "number": "917",
+    "first_name": "Mitsue",
+    "last_name": "Tollner",
+    "company": "Morlong Associates",
+    "address": "7 Eads St",
+    "city": "Chicago",
+    "county": "Cook",
+    "state": "IL",
+    "postal_code": "60632",
+    "risk_factor": "4.86015778395839",
+    "phone1": "773-573-6914",
+    "phon2": "773-924-8565",
+    "email": "mitsue_tollner@yahoo.com",
+    "web": "http://www.morlongassociates.com"
+  },
+  "longitude": "-87.7052",
+  "latitude": "41.8093",
+  "medianage": "34.2",
+  "population": "2720556"
+}

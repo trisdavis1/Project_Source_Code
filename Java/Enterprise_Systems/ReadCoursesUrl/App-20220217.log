@@ -1,0 +1,102 @@
+2022-02-17 18:58:49.877 [main] INFO  App - INFO: Starting the program
+2022-02-17 18:58:51.172 [main] INFO  App - INFO: Successfully connected to the URL
+2022-02-17 18:58:51.177 [main] DEBUG App - Cells in line: 1
+2022-02-17 18:58:51.178 [main] DEBUG App - Cells in line: 4
+2022-02-17 18:58:51.180 [main] DEBUG App - CSC 184      Intro to Computer Programming    Yan            3
+2022-02-17 18:58:51.180 [main] DEBUG App - Cells in line: 4
+2022-02-17 18:58:51.180 [main] DEBUG App - CSC 346      Enterprise Systems with Java     Noynaert       3
+2022-02-17 18:58:51.181 [main] DEBUG App - Cells in line: 4
+2022-02-17 18:58:51.181 [main] DEBUG App - MAT 111 E    Introductory Statistics          Mutua          4
+2022-02-17 18:58:51.181 [main] DEBUG App - Cells in line: 4
+2022-02-17 18:58:51.181 [main] DEBUG App - ACT 490      IT Career Preparation            Pickett        1
+2022-02-17 18:58:51.182 [main] DEBUG App - Cells in line: 4
+2022-02-17 18:58:51.182 [main] DEBUG App - MUS 101      Perspectives in Music            Grant          3
+2022-02-17 18:58:51.182 [main] DEBUG App - Cells in line: 4
+2022-02-17 18:58:51.182 [main] DEBUG App - ART 326      Introduction to Game Design      Stout          3
+2022-02-17 18:58:51.183 [main] DEBUG App - Cells in line: 4
+2022-02-17 18:58:51.183 [main] DEBUG App - EXS 160      Cheer and Dance Participation    Dodd           1
+2022-02-17 18:58:51.184 [main] DEBUG App - Cells in line: 4
+2022-02-17 18:58:51.185 [main] DEBUG App - EXS 158      Intercollegiate Sports I         Dodd           0
+2022-02-17 18:58:51.185 [main] DEBUG App - Cells in line: 4
+2022-02-17 18:58:51.188 [main] DEBUG App - MUS 101      Perspectives in Music            Raines-Grew    0
+2022-02-17 18:58:51.188 [main] DEBUG App - Cells in line: 4
+2022-02-17 18:58:51.189 [main] DEBUG App - MUS 101      Perspectives in Music            Harrelson      3
+2022-02-17 18:58:51.189 [main] DEBUG App - Cells in line: 4
+2022-02-17 18:58:51.191 [main] DEBUG App - MAT 111 E    Introductory Statistics          Anderson       0
+2022-02-17 18:58:51.191 [main] DEBUG App - Cells in line: 4
+2022-02-17 18:58:51.191 [main] DEBUG App - MAT 111 E    Introductory Statistics          McCune         4
+2022-02-17 18:58:51.192 [main] DEBUG App - Cells in line: 4
+2022-02-17 18:58:51.192 [main] DEBUG App - MAT 111 E    Introductory Statistics          Halstead       4
+2022-02-17 18:58:51.192 [main] TRACE App - Trace: Finished in readAddress, we have Read the URL
+2022-02-17 18:58:51.192 [main] TRACE App - Trace: Finished in sort, courses have been sorted
+2022-02-17 18:58:51.193 [main] INFO  App - INFO: There are 13 courses
+2022-02-17 18:58:51.224 [main] TRACE App - Trace: Finished in printCourse, courses have been printed
+2022-02-17 18:58:51.224 [main] INFO  App - INFO: Done!
+2022-02-17 19:09:55.139 [main] INFO  App - INFO: Starting the program
+2022-02-17 19:09:55.336 [main] INFO  App - INFO: Successfully connected to the URL
+2022-02-17 19:09:55.340 [main] DEBUG App - Cells in line: 1
+2022-02-17 19:09:55.341 [main] DEBUG App - Cells in line: 4
+2022-02-17 19:09:55.343 [main] DEBUG App - CSC 184      Intro to Computer Programming    Yan            3
+2022-02-17 19:09:55.343 [main] DEBUG App - Cells in line: 4
+2022-02-17 19:09:55.345 [main] DEBUG App - CSC 346      Enterprise Systems with Java     Noynaert       3
+2022-02-17 19:09:55.346 [main] DEBUG App - Cells in line: 4
+2022-02-17 19:09:55.347 [main] DEBUG App - MAT 111 E    Introductory Statistics          Mutua          4
+2022-02-17 19:09:55.348 [main] DEBUG App - Cells in line: 4
+2022-02-17 19:09:55.349 [main] DEBUG App - ACT 490      IT Career Preparation            Pickett        1
+2022-02-17 19:09:55.349 [main] DEBUG App - Cells in line: 4
+2022-02-17 19:09:55.351 [main] DEBUG App - MUS 101      Perspectives in Music            Grant          3
+2022-02-17 19:09:55.354 [main] DEBUG App - Cells in line: 4
+2022-02-17 19:09:55.354 [main] DEBUG App - ART 326      Introduction to Game Design      Stout          3
+2022-02-17 19:09:55.355 [main] DEBUG App - Cells in line: 4
+2022-02-17 19:09:55.355 [main] DEBUG App - EXS 160      Cheer and Dance Participation    Dodd           1
+2022-02-17 19:09:55.356 [main] DEBUG App - Cells in line: 4
+2022-02-17 19:09:55.357 [main] DEBUG App - EXS 158      Intercollegiate Sports I         Dodd           0
+2022-02-17 19:09:55.359 [main] DEBUG App - Cells in line: 4
+2022-02-17 19:09:55.360 [main] DEBUG App - MUS 101      Perspectives in Music            Raines-Grew    0
+2022-02-17 19:09:55.360 [main] DEBUG App - Cells in line: 4
+2022-02-17 19:09:55.361 [main] DEBUG App - MUS 101      Perspectives in Music            Harrelson      3
+2022-02-17 19:09:55.362 [main] DEBUG App - Cells in line: 4
+2022-02-17 19:09:55.362 [main] DEBUG App - MAT 111 E    Introductory Statistics          Anderson       0
+2022-02-17 19:09:55.362 [main] DEBUG App - Cells in line: 4
+2022-02-17 19:09:55.364 [main] DEBUG App - MAT 111 E    Introductory Statistics          McCune         4
+2022-02-17 19:09:55.365 [main] DEBUG App - Cells in line: 4
+2022-02-17 19:09:55.366 [main] DEBUG App - MAT 111 E    Introductory Statistics          Halstead       4
+2022-02-17 19:09:55.366 [main] TRACE App - Trace: Finished in readAddress, we have Read the URL
+2022-02-17 19:09:55.367 [main] TRACE App - Trace: Finished in sort, courses have been sorted
+2022-02-17 19:09:55.367 [main] INFO  App - INFO: There are 13 courses
+2022-02-17 19:09:55.370 [main] TRACE App - Trace: Finished in printCourse, courses have been printed
+2022-02-17 19:09:55.371 [main] INFO  App - INFO: Done
+2022-02-17 19:13:13.100 [main] INFO  App - INFO: Starting the program
+2022-02-17 19:13:13.331 [main] INFO  App - INFO: Successfully connected to the URL
+2022-02-17 19:13:13.334 [main] DEBUG App - Cells in line: 1
+2022-02-17 19:13:13.334 [main] DEBUG App - Cells in line: 4
+2022-02-17 19:13:13.336 [main] DEBUG App - CSC 184      Intro to Computer Programming    Yan            3
+2022-02-17 19:13:13.337 [main] DEBUG App - Cells in line: 4
+2022-02-17 19:13:13.338 [main] DEBUG App - CSC 346      Enterprise Systems with Java     Noynaert       3
+2022-02-17 19:13:13.339 [main] DEBUG App - Cells in line: 4
+2022-02-17 19:13:13.339 [main] DEBUG App - MAT 111 E    Introductory Statistics          Mutua          4
+2022-02-17 19:13:13.340 [main] DEBUG App - Cells in line: 4
+2022-02-17 19:13:13.340 [main] DEBUG App - ACT 490      IT Career Preparation            Pickett        1
+2022-02-17 19:13:13.341 [main] DEBUG App - Cells in line: 4
+2022-02-17 19:13:13.342 [main] DEBUG App - MUS 101      Perspectives in Music            Grant          3
+2022-02-17 19:13:13.343 [main] DEBUG App - Cells in line: 4
+2022-02-17 19:13:13.343 [main] DEBUG App - ART 326      Introduction to Game Design      Stout          3
+2022-02-17 19:13:13.348 [main] DEBUG App - Cells in line: 4
+2022-02-17 19:13:13.349 [main] DEBUG App - EXS 160      Cheer and Dance Participation    Dodd           1
+2022-02-17 19:13:13.349 [main] DEBUG App - Cells in line: 4
+2022-02-17 19:13:13.350 [main] DEBUG App - EXS 158      Intercollegiate Sports I         Dodd           0
+2022-02-17 19:13:13.350 [main] DEBUG App - Cells in line: 4
+2022-02-17 19:13:13.354 [main] DEBUG App - MUS 101      Perspectives in Music            Raines-Grew    0
+2022-02-17 19:13:13.355 [main] DEBUG App - Cells in line: 4
+2022-02-17 19:13:13.355 [main] DEBUG App - MUS 101      Perspectives in Music            Harrelson      3
+2022-02-17 19:13:13.356 [main] DEBUG App - Cells in line: 4
+2022-02-17 19:13:13.357 [main] DEBUG App - MAT 111 E    Introductory Statistics          Anderson       0
+2022-02-17 19:13:13.358 [main] DEBUG App - Cells in line: 4
+2022-02-17 19:13:13.358 [main] DEBUG App - MAT 111 E    Introductory Statistics          McCune         4
+2022-02-17 19:13:13.358 [main] DEBUG App - Cells in line: 4
+2022-02-17 19:13:13.359 [main] DEBUG App - MAT 111 E    Introductory Statistics          Halstead       4
+2022-02-17 19:13:13.359 [main] TRACE App - Trace: Finished in readAddress, we have Read the URL
+2022-02-17 19:13:13.359 [main] TRACE App - Trace: Finished in sort, courses have been sorted
+2022-02-17 19:13:13.360 [main] INFO  App - INFO: There are 13 courses
+2022-02-17 19:13:13.362 [main] TRACE App - Trace: Finished in printCourse, courses have been printed
+2022-02-17 19:13:13.363 [main] INFO  App - INFO: Done
