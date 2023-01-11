@@ -1,0 +1,8 @@
+45A3 Jones,HA 86 88 95
+34K5 Horner,M 67 75 23
+56J8 Gach,T 75 85 90
+34U8 Hunter,C 100 50 75
+42P4 Hinrichs,S 85 75 65
+78T6 Johnson,K 80 78 89
+44L2 Levitte,H 56 66 99
+88I9 Garner,J 95 92 98

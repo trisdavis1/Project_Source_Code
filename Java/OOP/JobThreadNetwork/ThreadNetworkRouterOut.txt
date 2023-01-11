@@ -1,0 +1,19 @@
+Thread 1 created and launched
+Thread 2 created and launched
+Thread 3 created and launched
+Thread 4 created and launched
+Thread 5 created and launched
+Thread 6 created and launched
+Thread 7 created and launched
+Thread 8 created and launched
+Thread 9 created and launched
+Branch PB charged 480.0
+Branch PB charged 700.0
+Branch PB charged 600.0
+Branch FB charged 270.0
+Branch FB charged 1050.0
+Branch FB charged 800.9999999999999
+Branch MB charged 1900.0
+Branch MB charged 1148.0
+Branch MB charged 1282.5
+What are the charges? 8231.5

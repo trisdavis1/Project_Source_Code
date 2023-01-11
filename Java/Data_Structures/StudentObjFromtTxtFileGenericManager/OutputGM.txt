@@ -1,0 +1,591 @@
+Academic Class including student ID, test scores, and letter grade:
+
+Student ID: 45A3
+ Student Name: Jones,H,A
+ Test 1: 86
+ Test 2: 88
+ Test 3: 95
+ Percent Grade: 89
+ Letter Grade: B
+ Year: SR
+ New GPA: 3.411600
+---------------------------
+
+Student ID: 34K5
+ Student Name: Horner,M
+ Test 1: 67
+ Test 2: 75
+ Test 3: 23
+ Percent Grade: 55
+ Letter Grade: F
+ Year: FR
+ New GPA: 1.744737
+---------------------------
+
+Student ID: 56J8
+ Student Name: Gach,T,A
+ Test 1: 75
+ Test 2: 85
+ Test 3: 90
+ Percent Grade: 83
+ Letter Grade: B
+ Year: JR
+ New GPA: 3.725806
+---------------------------
+
+Student ID: 34U8
+ Student Name: Hunter,C
+ Test 1: 100
+ Test 2: 50
+ Test 3: 75
+ Percent Grade: 75
+ Letter Grade: C
+ Year: JR
+ New GPA: 2.584416
+---------------------------
+
+Student ID: 42P4
+ Student Name: Hinrichs,S
+ Test 1: 85
+ Test 2: 75
+ Test 3: 65
+ Percent Grade: 75
+ Letter Grade: C
+ Year: SO
+ New GPA: 3.242222
+---------------------------
+
+Student ID: 78T6
+ Student Name: Johnson,K
+ Test 1: 80
+ Test 2: 78
+ Test 3: 89
+ Percent Grade: 82
+ Letter Grade: B
+ Year: FR
+ New GPA: 2.117647
+---------------------------
+
+Student ID: 44L2
+ Student Name: Levitte,H
+ Test 1: 56
+ Test 2: 66
+ Test 3: 99
+ Percent Grade: 73
+ Letter Grade: C
+ Year: SR
+ New GPA: 2.343137
+---------------------------
+
+Student ID: 88I9
+ Student Name: Garner,J
+ Test 1: 95
+ Test 2: 92
+ Test 3: 98
+ Percent Grade: 95
+ Letter Grade: A
+ Year: SR
+ New GPA: 3.891964
+---------------------------
+
+---------------------------------------------
+New Academic Class including newly added students: 
+
+Student ID: 45A3
+ Student Name: Jones,H,A
+ Test 1: 86
+ Test 2: 88
+ Test 3: 95
+ Percent Grade: 89
+ Letter Grade: B
+ Year: SR
+ New GPA: 3.411600
+---------------------------
+
+Student ID: 34K5
+ Student Name: Horner,M
+ Test 1: 67
+ Test 2: 75
+ Test 3: 23
+ Percent Grade: 55
+ Letter Grade: F
+ Year: FR
+ New GPA: 1.744737
+---------------------------
+
+Student ID: 56J8
+ Student Name: Gach,T,A
+ Test 1: 75
+ Test 2: 85
+ Test 3: 90
+ Percent Grade: 83
+ Letter Grade: B
+ Year: JR
+ New GPA: 3.725806
+---------------------------
+
+Student ID: 34U8
+ Student Name: Hunter,C
+ Test 1: 100
+ Test 2: 50
+ Test 3: 75
+ Percent Grade: 75
+ Letter Grade: C
+ Year: JR
+ New GPA: 2.584416
+---------------------------
+
+Student ID: 42P4
+ Student Name: Hinrichs,S
+ Test 1: 85
+ Test 2: 75
+ Test 3: 65
+ Percent Grade: 75
+ Letter Grade: C
+ Year: SO
+ New GPA: 3.242222
+---------------------------
+
+Student ID: 78T6
+ Student Name: Johnson,K
+ Test 1: 80
+ Test 2: 78
+ Test 3: 89
+ Percent Grade: 82
+ Letter Grade: B
+ Year: FR
+ New GPA: 2.117647
+---------------------------
+
+Student ID: 44L2
+ Student Name: Levitte,H
+ Test 1: 56
+ Test 2: 66
+ Test 3: 99
+ Percent Grade: 73
+ Letter Grade: C
+ Year: SR
+ New GPA: 2.343137
+---------------------------
+
+Student ID: 88I9
+ Student Name: Garner,J
+ Test 1: 95
+ Test 2: 92
+ Test 3: 98
+ Percent Grade: 95
+ Letter Grade: A
+ Year: SR
+ New GPA: 3.891964
+---------------------------
+
+Student ID: 67T4
+ Student Name: Clouse,B
+ Test 1: 80
+ Test 2: 75
+ Test 3: 98
+ Percent Grade: 84
+ Letter Grade: B
+ Year: SR
+ New GPA: 3.637500
+---------------------------
+
+Student ID: 45P5
+ Student Name: Garrison,J
+ Test 1: 75
+ Test 2: 78
+ Test 3: 72
+ Percent Grade: 75
+ Letter Grade: C
+ Year: SO
+ New GPA: 1.857317
+---------------------------
+
+Student ID: 89P0
+ Student Name: Singer,A
+ Test 1: 85
+ Test 2: 95
+ Test 3: 99
+ Percent Grade: 93
+ Letter Grade: A
+ Year: SR
+ New GPA: 3.871969
+---------------------------
+
+---------------------------------------------
+This is the Academic Class after using the Generic Manager sort:
+
+Student ID: 88I9
+ Student Name: Garner,J
+ Test 1: 95
+ Test 2: 92
+ Test 3: 98
+ Percent Grade: 95
+ Letter Grade: A
+ Year: SR
+ New GPA: 3.891964
+---------------------------
+
+Student ID: 89P0
+ Student Name: Singer,A
+ Test 1: 85
+ Test 2: 95
+ Test 3: 99
+ Percent Grade: 93
+ Letter Grade: A
+ Year: SR
+ New GPA: 3.871969
+---------------------------
+
+Student ID: 45A3
+ Student Name: Jones,H,A
+ Test 1: 86
+ Test 2: 88
+ Test 3: 95
+ Percent Grade: 89
+ Letter Grade: B
+ Year: SR
+ New GPA: 3.411600
+---------------------------
+
+Student ID: 67T4
+ Student Name: Clouse,B
+ Test 1: 80
+ Test 2: 75
+ Test 3: 98
+ Percent Grade: 84
+ Letter Grade: B
+ Year: SR
+ New GPA: 3.637500
+---------------------------
+
+Student ID: 56J8
+ Student Name: Gach,T,A
+ Test 1: 75
+ Test 2: 85
+ Test 3: 90
+ Percent Grade: 83
+ Letter Grade: B
+ Year: JR
+ New GPA: 3.725806
+---------------------------
+
+Student ID: 78T6
+ Student Name: Johnson,K
+ Test 1: 80
+ Test 2: 78
+ Test 3: 89
+ Percent Grade: 82
+ Letter Grade: B
+ Year: FR
+ New GPA: 2.117647
+---------------------------
+
+Student ID: 34U8
+ Student Name: Hunter,C
+ Test 1: 100
+ Test 2: 50
+ Test 3: 75
+ Percent Grade: 75
+ Letter Grade: C
+ Year: JR
+ New GPA: 2.584416
+---------------------------
+
+Student ID: 42P4
+ Student Name: Hinrichs,S
+ Test 1: 85
+ Test 2: 75
+ Test 3: 65
+ Percent Grade: 75
+ Letter Grade: C
+ Year: SO
+ New GPA: 3.242222
+---------------------------
+
+Student ID: 45P5
+ Student Name: Garrison,J
+ Test 1: 75
+ Test 2: 78
+ Test 3: 72
+ Percent Grade: 75
+ Letter Grade: C
+ Year: SO
+ New GPA: 1.857317
+---------------------------
+
+Student ID: 44L2
+ Student Name: Levitte,H
+ Test 1: 56
+ Test 2: 66
+ Test 3: 99
+ Percent Grade: 73
+ Letter Grade: C
+ Year: SR
+ New GPA: 2.343137
+---------------------------
+
+Student ID: 34K5
+ Student Name: Horner,M
+ Test 1: 67
+ Test 2: 75
+ Test 3: 23
+ Percent Grade: 55
+ Letter Grade: F
+ Year: FR
+ New GPA: 1.744737
+---------------------------
+
+---------------------------------------------
+The Academic Class is now sorted by grade, highest to lowest:
+
+Student ID: 88I9
+ Student Name: Garner,J
+ Test 1: 95
+ Test 2: 92
+ Test 3: 98
+ Percent Grade: 95
+ Letter Grade: A
+ Year: SR
+ New GPA: 3.891964
+---------------------------
+
+Student ID: 89P0
+ Student Name: Singer,A
+ Test 1: 85
+ Test 2: 95
+ Test 3: 99
+ Percent Grade: 93
+ Letter Grade: A
+ Year: SR
+ New GPA: 3.871969
+---------------------------
+
+Student ID: 45A3
+ Student Name: Jones,H,A
+ Test 1: 86
+ Test 2: 88
+ Test 3: 95
+ Percent Grade: 89
+ Letter Grade: B
+ Year: SR
+ New GPA: 3.411600
+---------------------------
+
+Student ID: 67T4
+ Student Name: Clouse,B
+ Test 1: 80
+ Test 2: 75
+ Test 3: 98
+ Percent Grade: 84
+ Letter Grade: B
+ Year: SR
+ New GPA: 3.637500
+---------------------------
+
+Student ID: 56J8
+ Student Name: Gach,T,A
+ Test 1: 75
+ Test 2: 85
+ Test 3: 90
+ Percent Grade: 83
+ Letter Grade: B
+ Year: JR
+ New GPA: 3.725806
+---------------------------
+
+Student ID: 78T6
+ Student Name: Johnson,K
+ Test 1: 80
+ Test 2: 78
+ Test 3: 89
+ Percent Grade: 82
+ Letter Grade: B
+ Year: FR
+ New GPA: 2.117647
+---------------------------
+
+Student ID: 34U8
+ Student Name: Hunter,C
+ Test 1: 100
+ Test 2: 50
+ Test 3: 75
+ Percent Grade: 75
+ Letter Grade: C
+ Year: JR
+ New GPA: 2.584416
+---------------------------
+
+Student ID: 42P4
+ Student Name: Hinrichs,S
+ Test 1: 85
+ Test 2: 75
+ Test 3: 65
+ Percent Grade: 75
+ Letter Grade: C
+ Year: SO
+ New GPA: 3.242222
+---------------------------
+
+Student ID: 45P5
+ Student Name: Garrison,J
+ Test 1: 75
+ Test 2: 78
+ Test 3: 72
+ Percent Grade: 75
+ Letter Grade: C
+ Year: SO
+ New GPA: 1.857317
+---------------------------
+
+Student ID: 44L2
+ Student Name: Levitte,H
+ Test 1: 56
+ Test 2: 66
+ Test 3: 99
+ Percent Grade: 73
+ Letter Grade: C
+ Year: SR
+ New GPA: 2.343137
+---------------------------
+
+Student ID: 34K5
+ Student Name: Horner,M
+ Test 1: 67
+ Test 2: 75
+ Test 3: 23
+ Percent Grade: 55
+ Letter Grade: F
+ Year: FR
+ New GPA: 1.744737
+---------------------------
+
+---------------------------------------------
+The following students have dropped the class:
+
+Student ID: 45A3
+ Student Name: Jones,H,A
+ Test 1: 86
+ Test 2: 88
+ Test 3: 95
+ Percent Grade: 89
+ Letter Grade: B
+ Year: SR
+ New GPA: 3.411600
+---------------------------
+
+Student ID: 42P4
+ Student Name: Hinrichs,S
+ Test 1: 85
+ Test 2: 75
+ Test 3: 65
+ Percent Grade: 75
+ Letter Grade: C
+ Year: SO
+ New GPA: 3.242222
+---------------------------
+
+---------------------------------------------
+Academic Class after removing dropped students:
+ 
+Student ID: 88I9
+ Student Name: Garner,J
+ Test 1: 95
+ Test 2: 92
+ Test 3: 98
+ Percent Grade: 95
+ Letter Grade: A
+ Year: SR
+ New GPA: 3.891964
+---------------------------
+
+Student ID: 89P0
+ Student Name: Singer,A
+ Test 1: 85
+ Test 2: 95
+ Test 3: 99
+ Percent Grade: 93
+ Letter Grade: A
+ Year: SR
+ New GPA: 3.871969
+---------------------------
+
+Student ID: 67T4
+ Student Name: Clouse,B
+ Test 1: 80
+ Test 2: 75
+ Test 3: 98
+ Percent Grade: 84
+ Letter Grade: B
+ Year: SR
+ New GPA: 3.637500
+---------------------------
+
+Student ID: 56J8
+ Student Name: Gach,T,A
+ Test 1: 75
+ Test 2: 85
+ Test 3: 90
+ Percent Grade: 83
+ Letter Grade: B
+ Year: JR
+ New GPA: 3.725806
+---------------------------
+
+Student ID: 78T6
+ Student Name: Johnson,K
+ Test 1: 80
+ Test 2: 78
+ Test 3: 89
+ Percent Grade: 82
+ Letter Grade: B
+ Year: FR
+ New GPA: 2.117647
+---------------------------
+
+Student ID: 34U8
+ Student Name: Hunter,C
+ Test 1: 100
+ Test 2: 50
+ Test 3: 75
+ Percent Grade: 75
+ Letter Grade: C
+ Year: JR
+ New GPA: 2.584416
+---------------------------
+
+Student ID: 45P5
+ Student Name: Garrison,J
+ Test 1: 75
+ Test 2: 78
+ Test 3: 72
+ Percent Grade: 75
+ Letter Grade: C
+ Year: SO
+ New GPA: 1.857317
+---------------------------
+
+Student ID: 44L2
+ Student Name: Levitte,H
+ Test 1: 56
+ Test 2: 66
+ Test 3: 99
+ Percent Grade: 73
+ Letter Grade: C
+ Year: SR
+ New GPA: 2.343137
+---------------------------
+
+Student ID: 34K5
+ Student Name: Horner,M
+ Test 1: 67
+ Test 2: 75
+ Test 3: 23
+ Percent Grade: 55
+ Letter Grade: F
+ Year: FR
+ New GPA: 1.744737
+---------------------------
+
+null
+null

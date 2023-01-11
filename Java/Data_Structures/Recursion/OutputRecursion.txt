@@ -1,0 +1,122 @@
+Testing recursive functions...
+--------------------------------------------
+In NFactorial calculating for factorial 12
+In NFactorial calculating for factorial 11
+In NFactorial calculating for factorial 10
+In NFactorial calculating for factorial 9
+In NFactorial calculating for factorial 8
+In NFactorial calculating for factorial 7
+In NFactorial calculating for factorial 6
+In NFactorial calculating for factorial 5
+In NFactorial calculating for factorial 4
+In NFactorial calculating for factorial 3
+In NFactorial calculating for factorial 2
+In NFactorial calculating for factorial 1
+In NFactorial calculating for factorial 0
+In NFactorial returning factorial 0 = 1
+Evaluation of 1 factorial for N 0 = 1(1)
+Evaluation of 2 factorial for N 1 = 1(2)
+Evaluation of 3 factorial for N 2 = 2(3)
+Evaluation of 4 factorial for N 3 = 6(4)
+Evaluation of 5 factorial for N 4 = 24(5)
+Evaluation of 6 factorial for N 5 = 120(6)
+Evaluation of 7 factorial for N 6 = 720(7)
+Evaluation of 8 factorial for N 7 = 5040(8)
+Evaluation of 9 factorial for N 8 = 40320(9)
+Evaluation of 10 factorial for N 9 = 362880(10)
+Evaluation of 11 factorial for N 10 = 3628800(11)
+Evaluation of 12 factorial for N 11 = 39916800(12)
+Computing Nfactorial number at 12 terms is: 479001600
+In NFactorial calculating for factorial 25
+In NFactorial calculating for factorial 24
+In NFactorial calculating for factorial 23
+In NFactorial calculating for factorial 22
+In NFactorial calculating for factorial 21
+In NFactorial calculating for factorial 20
+In NFactorial calculating for factorial 19
+In NFactorial calculating for factorial 18
+In NFactorial calculating for factorial 17
+In NFactorial calculating for factorial 16
+In NFactorial calculating for factorial 15
+In NFactorial calculating for factorial 14
+In NFactorial calculating for factorial 13
+In NFactorial calculating for factorial 12
+In NFactorial calculating for factorial 11
+In NFactorial calculating for factorial 10
+In NFactorial calculating for factorial 9
+In NFactorial calculating for factorial 8
+In NFactorial calculating for factorial 7
+In NFactorial calculating for factorial 6
+In NFactorial calculating for factorial 5
+In NFactorial calculating for factorial 4
+In NFactorial calculating for factorial 3
+In NFactorial calculating for factorial 2
+In NFactorial calculating for factorial 1
+In NFactorial calculating for factorial 0
+In NFactorial returning factorial 0 = 1
+Evaluation of 1 factorial for N 0 = 1(1)
+Evaluation of 2 factorial for N 1 = 1(2)
+Evaluation of 3 factorial for N 2 = 2(3)
+Evaluation of 4 factorial for N 3 = 6(4)
+Evaluation of 5 factorial for N 4 = 24(5)
+Evaluation of 6 factorial for N 5 = 120(6)
+Evaluation of 7 factorial for N 6 = 720(7)
+Evaluation of 8 factorial for N 7 = 5040(8)
+Evaluation of 9 factorial for N 8 = 40320(9)
+Evaluation of 10 factorial for N 9 = 362880(10)
+Evaluation of 11 factorial for N 10 = 3628800(11)
+Evaluation of 12 factorial for N 11 = 39916800(12)
+Evaluation of 13 factorial for N 12 = 479001600(13)
+Evaluation of 14 factorial for N 13 = 1932053504(14)
+Evaluation of 15 factorial for N 14 = 1278945280(15)
+Evaluation of 16 factorial for N 15 = 2004310016(16)
+Evaluation of 17 factorial for N 16 = 2004189184(17)
+Evaluation of 18 factorial for N 17 = -288522240(18)
+Evaluation of 19 factorial for N 18 = -898433024(19)
+Evaluation of 20 factorial for N 19 = 109641728(20)
+Evaluation of 21 factorial for N 20 = -2102132736(21)
+Evaluation of 22 factorial for N 21 = -1195114496(22)
+Evaluation of 23 factorial for N 22 = -522715136(23)
+Evaluation of 24 factorial for N 23 = 862453760(24)
+Evaluation of 25 factorial for N 24 = -775946240(25)
+Computing Nfactorial number at 25 terms is: 2076180480
+In NFactorial calculating for factorial -5
+Cannot have negative factorial...
+Factorial is Undefined...
+Computing Nfactorial number at -5 terms is: -5
+In Fib calculating for Fibonacci number 5
+In Fib calculating for Fibonacci number 3
+In Fib calculating for Fibonacci number 1
+In Fib returning fibonacci number 
+Evaluation of 3 fibonacci for n 1 = 1 + (3 - 1)
+Evaluation of 5 fibonacci for n 3 = 3 + (5 - 1)
+Computing Fib number at 5 terms is: 7
+In Fib calculating for Fibonacci number 12
+In Fib calculating for Fibonacci number 10
+In Fib calculating for Fibonacci number 8
+In Fib calculating for Fibonacci number 6
+In Fib calculating for Fibonacci number 4
+In Fib calculating for Fibonacci number 2
+In Fib calculating for Fibonacci number 0
+In Fib returning fibonacci number 
+Evaluation of 2 fibonacci for n 0 = 0 + (2 - 1)
+Evaluation of 4 fibonacci for n 2 = 1 + (4 - 1)
+Evaluation of 6 fibonacci for n 4 = 4 + (6 - 1)
+Evaluation of 8 fibonacci for n 6 = 9 + (8 - 1)
+Evaluation of 10 fibonacci for n 8 = 16 + (10 - 1)
+Evaluation of 12 fibonacci for n 10 = 25 + (12 - 1)
+Computing Fib number at 12 terms is: 36
+In Fib calculating for Fibonacci number 1
+In Fib returning fibonacci number 
+Computing Fib number at 1 terms is: 1
+In Fib calculating for Fibonacci number 8
+In Fib calculating for Fibonacci number 6
+In Fib calculating for Fibonacci number 4
+In Fib calculating for Fibonacci number 2
+In Fib calculating for Fibonacci number 0
+In Fib returning fibonacci number 
+Evaluation of 2 fibonacci for n 0 = 0 + (2 - 1)
+Evaluation of 4 fibonacci for n 2 = 1 + (4 - 1)
+Evaluation of 6 fibonacci for n 4 = 4 + (6 - 1)
+Evaluation of 8 fibonacci for n 6 = 9 + (8 - 1)
+Computing Fib number at 8 terms is: 16

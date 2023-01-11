@@ -1,0 +1,334 @@
+Pushing on 37
+in pushnode 0x is 37
+leaving pushnode...
+Pushing on 44
+in pushnode 1x is 44
+leaving pushnode...
+Pushing on 23
+in pushnode 2x is 23
+leaving pushnode...
+We have the following stack number 3
+Peek 23
+Pop node 23
+We have the following stack number 2
+Peek 44
+Pop node 44
+We have the following stack number 1
+Peek 37
+Pop node 37
+The stack is empty, we hope, lets check what number it is 0
+Lets add more to the stack...
+
+in pushnode 0x is 45
+leaving pushnode...
+in pushnode 1x is 23
+leaving pushnode...
+in pushnode 2x is 17
+leaving pushnode...
+in pushnode 3x is 21
+leaving pushnode...
+in pushnode 4x is 76
+leaving pushnode...
+We have the following stack number 5
+Peek 76
+Pop node 76
+We have the following stack number 4
+Peek 21
+Pop node 21
+We have the following stack number 3
+Peek 17
+Pop node 17
+We have the following stack number 2
+Peek 23
+Pop node 23
+We have the following stack number 1
+Peek 45
+Pop node 45
+This is the end of the GenericManagerStack Test ... test is Generic.
+Pushing operator # with priority -100
+in pushnode 0x is com.company.Opertobject@7cca494b
+leaving pushnode...
+in pushnode 1x is com.company.Opertobject@7ba4f24f
+leaving pushnode...
+Parsing... A
+This is an operand A
+Found this char value A is 8
+Were pushing it onto the operand stack 8
+in pushnode 0x is 8
+leaving pushnode...
+Parsing... @
+This is an operator @
+Found this char value @ is 3
+Peeking at the top of the stack -100
+Pushing operator @ with priority 3
+in pushnode 2x is com.company.Opertobject@16b98e56
+leaving pushnode...
+Parsing... (
+This is an operator (
+Pushing on operator stack (
+in pushnode 3x is com.company.Opertobject@7ef20235
+leaving pushnode...
+Parsing... 2
+This is an operand 2
+Found this char value 2 is 2
+Were pushing it onto the operand stack 2
+in pushnode 1x is 2
+leaving pushnode...
+Parsing... *
+This is an operator *
+Found this char value * is 2
+Peeking at the top of the stack -99
+Pushing operator * with priority 2
+in pushnode 4x is com.company.Opertobject@27d6c5e0
+leaving pushnode...
+Parsing... (
+This is an operator (
+Pushing on operator stack (
+in pushnode 5x is com.company.Opertobject@4f3f5b24
+leaving pushnode...
+Parsing... A
+This is an operand A
+Found this char value A is 8
+Were pushing it onto the operand stack 8
+in pushnode 2x is 8
+leaving pushnode...
+Parsing... -
+This is an operator -
+Found this char value - is 1
+Peeking at the top of the stack -99
+Pushing operator - with priority 1
+in pushnode 6x is com.company.Opertobject@15aeb7ab
+leaving pushnode...
+Parsing... C
+This is an operand C
+Found this char value C is 2
+Were pushing it onto the operand stack 2
+in pushnode 3x is 2
+leaving pushnode...
+Parsing... *
+This is an operator *
+Found this char value * is 2
+Peeking at the top of the stack 1
+Pushing operator * with priority 2
+in pushnode 7x is com.company.Opertobject@7b23ec81
+leaving pushnode...
+Parsing... D
+This is an operand D
+Found this char value D is 15
+Were pushing it onto the operand stack 15
+in pushnode 4x is 15
+leaving pushnode...
+Parsing... )
+This is an operator )
+in pop Eval 2*15
+***Evaluate: 2*15**Result = 30
+in pushnode 3x is 30
+leaving pushnode...
+in pop Eval 8-30
+***Evaluate: 8-30**Result = -22
+in pushnode 2x is -22
+leaving pushnode...
+Parsing... )
+This is an operator )
+in pop Eval 2*-22
+***Evaluate: 2*-22**Result = -44
+in pushnode 1x is -44
+leaving pushnode...
+Parsing... +
+This is an operator +
+Found this char value + is 1
+Peeking at the top of the stack 3
+in pop Eval 8@-44
+***Evaluate: 8@-44**Result = 0
+in pushnode 0x is 0
+leaving pushnode...
+Pushing operator + with priority 1
+in pushnode 2x is com.company.Opertobject@70177ecd
+leaving pushnode...
+Parsing... (
+This is an operator (
+Pushing on operator stack (
+in pushnode 3x is com.company.Opertobject@1e80bfe8
+leaving pushnode...
+Parsing... 9
+This is an operand 9
+Found this char value 9 is 9
+Were pushing it onto the operand stack 9
+in pushnode 1x is 9
+leaving pushnode...
+Parsing... *
+This is an operator *
+Found this char value * is 2
+Peeking at the top of the stack -99
+Pushing operator * with priority 2
+in pushnode 4x is com.company.Opertobject@66a29884
+leaving pushnode...
+Parsing... B
+This is an operand B
+Found this char value B is 12
+Were pushing it onto the operand stack 12
+in pushnode 2x is 12
+leaving pushnode...
+Parsing... /
+This is an operator /
+Found this char value / is 2
+Peeking at the top of the stack 2
+in pop Eval 9*12
+***Evaluate: 9*12**Result = 108
+in pushnode 1x is 108
+leaving pushnode...
+Pushing operator / with priority 2
+in pushnode 4x is com.company.Opertobject@4769b07b
+leaving pushnode...
+Parsing... (
+This is an operator (
+Pushing on operator stack (
+in pushnode 5x is com.company.Opertobject@cc34f4d
+leaving pushnode...
+Parsing... 2
+This is an operand 2
+Found this char value 2 is 2
+Were pushing it onto the operand stack 2
+in pushnode 2x is 2
+leaving pushnode...
+Parsing... *
+This is an operator *
+Found this char value * is 2
+Peeking at the top of the stack -99
+Pushing operator * with priority 2
+in pushnode 6x is com.company.Opertobject@17a7cec2
+leaving pushnode...
+Parsing... C
+This is an operand C
+Found this char value C is 2
+Were pushing it onto the operand stack 2
+in pushnode 3x is 2
+leaving pushnode...
+Parsing... +
+This is an operator +
+Found this char value + is 1
+Peeking at the top of the stack 2
+in pop Eval 2*2
+***Evaluate: 2*2**Result = 4
+in pushnode 2x is 4
+leaving pushnode...
+Pushing operator + with priority 1
+in pushnode 6x is com.company.Opertobject@65b3120a
+leaving pushnode...
+Parsing... 1
+This is an operand 1
+Found this char value 1 is 1
+Were pushing it onto the operand stack 1
+in pushnode 3x is 1
+leaving pushnode...
+Parsing... )
+This is an operator )
+in pop Eval 4+1
+***Evaluate: 4+1**Result = 5
+in pushnode 2x is 5
+leaving pushnode...
+Parsing... -
+This is an operator -
+Found this char value - is 1
+Peeking at the top of the stack 2
+in pop Eval 108/5
+***Evaluate: 108/5**Result = 21
+in pushnode 1x is 21
+leaving pushnode...
+Pushing operator - with priority 1
+in pushnode 4x is com.company.Opertobject@6f539caf
+leaving pushnode...
+Parsing... B
+This is an operand B
+Found this char value B is 12
+Were pushing it onto the operand stack 12
+in pushnode 2x is 12
+leaving pushnode...
+Parsing... *
+This is an operator *
+Found this char value * is 2
+Peeking at the top of the stack 1
+Pushing operator * with priority 2
+in pushnode 5x is com.company.Opertobject@79fc0f2f
+leaving pushnode...
+Parsing... 3
+This is an operand 3
+Found this char value 3 is 3
+Were pushing it onto the operand stack 3
+in pushnode 3x is 3
+leaving pushnode...
+Parsing... )
+This is an operator )
+in pop Eval 12*3
+***Evaluate: 12*3**Result = 36
+in pushnode 2x is 36
+leaving pushnode...
+in pop Eval 21-36
+***Evaluate: 21-36**Result = -15
+in pushnode 1x is -15
+leaving pushnode...
+Parsing... +
+This is an operator +
+Found this char value + is 1
+Peeking at the top of the stack 1
+in pop Eval 0+-15
+***Evaluate: 0+-15**Result = -15
+in pushnode 0x is -15
+leaving pushnode...
+Pushing operator + with priority 1
+in pushnode 2x is com.company.Opertobject@50040f0c
+leaving pushnode...
+Parsing... E
+This is an operand E
+Found this char value E is 3
+Were pushing it onto the operand stack 3
+in pushnode 1x is 3
+leaving pushnode...
+Parsing... %
+This is an operator %
+Found this char value % is 2
+Peeking at the top of the stack 1
+Pushing operator % with priority 2
+in pushnode 3x is com.company.Opertobject@2dda6444
+leaving pushnode...
+Parsing... (
+This is an operator (
+Pushing on operator stack (
+in pushnode 4x is com.company.Opertobject@5e9f23b4
+leaving pushnode...
+Parsing... F
+This is an operand F
+Found this char value F is 4
+Were pushing it onto the operand stack 4
+in pushnode 2x is 4
+leaving pushnode...
+Parsing... -
+This is an operator -
+Found this char value - is 1
+Peeking at the top of the stack -99
+Pushing operator - with priority 1
+in pushnode 5x is com.company.Opertobject@4783da3f
+leaving pushnode...
+Parsing... A
+This is an operand A
+Found this char value A is 8
+Were pushing it onto the operand stack 8
+in pushnode 3x is 8
+leaving pushnode...
+Parsing... )
+This is an operator )
+in pop Eval 4-8
+***Evaluate: 4-8**Result = -4
+in pushnode 2x is -4
+leaving pushnode...
+in pop Eval 3%-4
+***Evaluate: 3%-4**Result = 3
+in pushnode 1x is 3
+leaving pushnode...
+in pop Eval -15+3
+***Evaluate: -15+3**Result = -12
+in pushnode 0x is -12
+leaving pushnode...
+The value of this expression is -12
+
+------------------------------------

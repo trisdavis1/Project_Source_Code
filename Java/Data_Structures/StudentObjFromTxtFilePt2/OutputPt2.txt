@@ -1,0 +1,385 @@
+Academic Class including student ID, test scores, and letter grade:
+
+Student ID: 45A3
+ Student Name: Jones,H,A
+ Test 1: 86
+ Test 2: 88
+ Test 3: 95
+ Percent Grade: 89
+ Letter Grade: B
+---------------------------
+
+Student ID: 34K5
+ Student Name: Horner,M
+ Test 1: 67
+ Test 2: 75
+ Test 3: 23
+ Percent Grade: 55
+ Letter Grade: F
+---------------------------
+
+Student ID: 56J8
+ Student Name: Gach,T,A
+ Test 1: 75
+ Test 2: 85
+ Test 3: 90
+ Percent Grade: 83
+ Letter Grade: B
+---------------------------
+
+Student ID: 34U8
+ Student Name: Hunter,C
+ Test 1: 100
+ Test 2: 50
+ Test 3: 75
+ Percent Grade: 75
+ Letter Grade: C
+---------------------------
+
+Student ID: 42P4
+ Student Name: Hinrichs,S
+ Test 1: 85
+ Test 2: 75
+ Test 3: 65
+ Percent Grade: 75
+ Letter Grade: C
+---------------------------
+
+Student ID: 78T6
+ Student Name: Johnson,K
+ Test 1: 80
+ Test 2: 78
+ Test 3: 89
+ Percent Grade: 82
+ Letter Grade: B
+---------------------------
+
+Student ID: 44L2
+ Student Name: Levitte,H
+ Test 1: 56
+ Test 2: 66
+ Test 3: 99
+ Percent Grade: 73
+ Letter Grade: C
+---------------------------
+
+Student ID: 88I9
+ Student Name: Garner,J
+ Test 1: 95
+ Test 2: 92
+ Test 3: 98
+ Percent Grade: 95
+ Letter Grade: A
+---------------------------
+
+---------------------------------------------
+New Academic Class including newly added students: 
+
+Student ID: 45A3
+ Student Name: Jones,H,A
+ Test 1: 86
+ Test 2: 88
+ Test 3: 95
+ Percent Grade: 89
+ Letter Grade: B
+---------------------------
+
+Student ID: 34K5
+ Student Name: Horner,M
+ Test 1: 67
+ Test 2: 75
+ Test 3: 23
+ Percent Grade: 55
+ Letter Grade: F
+---------------------------
+
+Student ID: 56J8
+ Student Name: Gach,T,A
+ Test 1: 75
+ Test 2: 85
+ Test 3: 90
+ Percent Grade: 83
+ Letter Grade: B
+---------------------------
+
+Student ID: 34U8
+ Student Name: Hunter,C
+ Test 1: 100
+ Test 2: 50
+ Test 3: 75
+ Percent Grade: 75
+ Letter Grade: C
+---------------------------
+
+Student ID: 42P4
+ Student Name: Hinrichs,S
+ Test 1: 85
+ Test 2: 75
+ Test 3: 65
+ Percent Grade: 75
+ Letter Grade: C
+---------------------------
+
+Student ID: 78T6
+ Student Name: Johnson,K
+ Test 1: 80
+ Test 2: 78
+ Test 3: 89
+ Percent Grade: 82
+ Letter Grade: B
+---------------------------
+
+Student ID: 44L2
+ Student Name: Levitte,H
+ Test 1: 56
+ Test 2: 66
+ Test 3: 99
+ Percent Grade: 73
+ Letter Grade: C
+---------------------------
+
+Student ID: 88I9
+ Student Name: Garner,J
+ Test 1: 95
+ Test 2: 92
+ Test 3: 98
+ Percent Grade: 95
+ Letter Grade: A
+---------------------------
+
+Student ID: 67T4
+ Student Name: Clouse,B
+ Test 1: 80
+ Test 2: 75
+ Test 3: 98
+ Percent Grade: 84
+ Letter Grade: B
+---------------------------
+
+Student ID: 45P5
+ Student Name: Garrison,J
+ Test 1: 75
+ Test 2: 78
+ Test 3: 72
+ Percent Grade: 75
+ Letter Grade: C
+---------------------------
+
+Student ID: 89P0
+ Student Name: Singer,A
+ Test 1: 85
+ Test 2: 95
+ Test 3: 99
+ Percent Grade: 93
+ Letter Grade: A
+---------------------------
+
+---------------------------------------------
+The Academic Class is now sorted by grade, highest to lowest:
+
+Student ID: 88I9
+ Student Name: Garner,J
+ Test 1: 95
+ Test 2: 92
+ Test 3: 98
+ Percent Grade: 95
+ Letter Grade: A
+---------------------------
+
+Student ID: 89P0
+ Student Name: Singer,A
+ Test 1: 85
+ Test 2: 95
+ Test 3: 99
+ Percent Grade: 93
+ Letter Grade: A
+---------------------------
+
+Student ID: 45A3
+ Student Name: Jones,H,A
+ Test 1: 86
+ Test 2: 88
+ Test 3: 95
+ Percent Grade: 89
+ Letter Grade: B
+---------------------------
+
+Student ID: 67T4
+ Student Name: Clouse,B
+ Test 1: 80
+ Test 2: 75
+ Test 3: 98
+ Percent Grade: 84
+ Letter Grade: B
+---------------------------
+
+Student ID: 56J8
+ Student Name: Gach,T,A
+ Test 1: 75
+ Test 2: 85
+ Test 3: 90
+ Percent Grade: 83
+ Letter Grade: B
+---------------------------
+
+Student ID: 78T6
+ Student Name: Johnson,K
+ Test 1: 80
+ Test 2: 78
+ Test 3: 89
+ Percent Grade: 82
+ Letter Grade: B
+---------------------------
+
+Student ID: 34U8
+ Student Name: Hunter,C
+ Test 1: 100
+ Test 2: 50
+ Test 3: 75
+ Percent Grade: 75
+ Letter Grade: C
+---------------------------
+
+Student ID: 42P4
+ Student Name: Hinrichs,S
+ Test 1: 85
+ Test 2: 75
+ Test 3: 65
+ Percent Grade: 75
+ Letter Grade: C
+---------------------------
+
+Student ID: 45P5
+ Student Name: Garrison,J
+ Test 1: 75
+ Test 2: 78
+ Test 3: 72
+ Percent Grade: 75
+ Letter Grade: C
+---------------------------
+
+Student ID: 44L2
+ Student Name: Levitte,H
+ Test 1: 56
+ Test 2: 66
+ Test 3: 99
+ Percent Grade: 73
+ Letter Grade: C
+---------------------------
+
+Student ID: 34K5
+ Student Name: Horner,M
+ Test 1: 67
+ Test 2: 75
+ Test 3: 23
+ Percent Grade: 55
+ Letter Grade: F
+---------------------------
+
+---------------------------------------------
+The following students have dropped the class:
+
+Student ID: 45A3
+ Student Name: Jones,H,A
+ Test 1: 86
+ Test 2: 88
+ Test 3: 95
+ Percent Grade: 89
+ Letter Grade: B
+---------------------------
+
+Student ID: 42P4
+ Student Name: Hinrichs,S
+ Test 1: 85
+ Test 2: 75
+ Test 3: 65
+ Percent Grade: 75
+ Letter Grade: C
+---------------------------
+
+---------------------------------------------
+Academic Class after removing dropped students:
+ 
+Student ID: 88I9
+ Student Name: Garner,J
+ Test 1: 95
+ Test 2: 92
+ Test 3: 98
+ Percent Grade: 95
+ Letter Grade: A
+---------------------------
+
+Student ID: 89P0
+ Student Name: Singer,A
+ Test 1: 85
+ Test 2: 95
+ Test 3: 99
+ Percent Grade: 93
+ Letter Grade: A
+---------------------------
+
+Student ID: 67T4
+ Student Name: Clouse,B
+ Test 1: 80
+ Test 2: 75
+ Test 3: 98
+ Percent Grade: 84
+ Letter Grade: B
+---------------------------
+
+Student ID: 56J8
+ Student Name: Gach,T,A
+ Test 1: 75
+ Test 2: 85
+ Test 3: 90
+ Percent Grade: 83
+ Letter Grade: B
+---------------------------
+
+Student ID: 78T6
+ Student Name: Johnson,K
+ Test 1: 80
+ Test 2: 78
+ Test 3: 89
+ Percent Grade: 82
+ Letter Grade: B
+---------------------------
+
+Student ID: 34U8
+ Student Name: Hunter,C
+ Test 1: 100
+ Test 2: 50
+ Test 3: 75
+ Percent Grade: 75
+ Letter Grade: C
+---------------------------
+
+Student ID: 45P5
+ Student Name: Garrison,J
+ Test 1: 75
+ Test 2: 78
+ Test 3: 72
+ Percent Grade: 75
+ Letter Grade: C
+---------------------------
+
+Student ID: 44L2
+ Student Name: Levitte,H
+ Test 1: 56
+ Test 2: 66
+ Test 3: 99
+ Percent Grade: 73
+ Letter Grade: C
+---------------------------
+
+Student ID: 34K5
+ Student Name: Horner,M
+ Test 1: 67
+ Test 2: 75
+ Test 3: 23
+ Percent Grade: 55
+ Letter Grade: F
+---------------------------
+
+null
+null

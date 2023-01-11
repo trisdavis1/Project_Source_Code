@@ -1,0 +1,148 @@
+WLFU Team employees:
+-----------------------
+Dr. I.M. Bones
+Race: African American
+SSN: 455657890
+Base Salary: 155000.0
+COLA: 23250.0
+Patient Adjustment: 38750.0
+Total Salary: 217000.0
+Federal Tax: 54250.0
+Mass. State Tax: 10850.0
+-----------------------
+Administrative Nurse: U.R. Temp
+Race: Caucasian
+SSN: 789302345
+Base Salary: 65000.0
+COLA: 9750.0
+Compensation: 13000.0
+Total Salary: 87750.0
+Federal Tax: 21937.5
+Mass. State Tax: 4387.5
+-----------------------
+Dr. D.V.M. Frakes
+Race: Caucasian
+SSN: 786456712
+Base Salary: 155000.0
+COLA: 23250.0
+Patient Adjustment: 46500.0
+Total Salary: 224750.0
+Federal Tax: 56187.5
+Mass. State Tax: 11237.5
+-----------------------
+Senior Executive: I.M. Boss
+Race: Hispanic
+SSN: 543126787
+Base Salary: 400000.0
+COLA: 60000.0
+Bonus: 80000.0
+Total Salary: 540000.0
+Federal Tax: 135000.0
+Mass. State Tax: 27000.0
+-----------------------
+WLFU Team after sort:
+-----------------------
+Administrative Nurse: U.R. Temp
+Race: Caucasian
+SSN: 789302345
+Base Salary: 65000.0
+COLA: 9750.0
+Compensation: 13000.0
+Total Salary: 87750.0
+Federal Tax: 21937.5
+Mass. State Tax: 4387.5
+-----------------------
+Dr. I.M. Bones
+Race: African American
+SSN: 455657890
+Base Salary: 155000.0
+COLA: 23250.0
+Patient Adjustment: 38750.0
+Total Salary: 217000.0
+Federal Tax: 54250.0
+Mass. State Tax: 10850.0
+-----------------------
+Dr. D.V.M. Frakes
+Race: Caucasian
+SSN: 786456712
+Base Salary: 155000.0
+COLA: 23250.0
+Patient Adjustment: 46500.0
+Total Salary: 224750.0
+Federal Tax: 56187.5
+Mass. State Tax: 11237.5
+-----------------------
+Senior Executive: I.M. Boss
+Race: Hispanic
+SSN: 543126787
+Base Salary: 400000.0
+COLA: 60000.0
+Bonus: 80000.0
+Total Salary: 540000.0
+Federal Tax: 135000.0
+Mass. State Tax: 27000.0
+-----------------------
+Employee objects added using WLFUManager...
+-----------------------
+Using the WLFUManager to print the 3rd element:
+-----------------------
+Senior Executive: I.M. Boss
+Race: Hispanic
+SSN: 543126787
+Base Salary: 400000.0
+COLA: 60000.0
+Bonus: 80000.0
+Total Salary: 540000.0
+Federal Tax: 135000.0
+Mass. State Tax: 27000.0
+-----------------------
+Using the WLFUManager to sort the employee objects:
+-----------------------
+Administrative Nurse: U.R. Temp
+Race: Caucasian
+SSN: 789302345
+Base Salary: 65000.0
+COLA: 9750.0
+Compensation: 13000.0
+Total Salary: 87750.0
+Federal Tax: 21937.5
+Mass. State Tax: 4387.5
+-----------------------
+Dr. I.M. Bones
+Race: African American
+SSN: 455657890
+Base Salary: 155000.0
+COLA: 23250.0
+Patient Adjustment: 38750.0
+Total Salary: 217000.0
+Federal Tax: 54250.0
+Mass. State Tax: 10850.0
+-----------------------
+Dr. D.V.M. Frakes
+Race: Caucasian
+SSN: 786456712
+Base Salary: 155000.0
+COLA: 23250.0
+Patient Adjustment: 46500.0
+Total Salary: 224750.0
+Federal Tax: 56187.5
+Mass. State Tax: 11237.5
+-----------------------
+Senior Executive: I.M. Boss
+Race: Hispanic
+SSN: 543126787
+Base Salary: 400000.0
+COLA: 60000.0
+Bonus: 80000.0
+Total Salary: 540000.0
+Federal Tax: 135000.0
+Mass. State Tax: 27000.0
+-----------------------
+Proving the WLFUManager is generic:
+-----------------------
+-34
+6
+12
+17
+21
+78

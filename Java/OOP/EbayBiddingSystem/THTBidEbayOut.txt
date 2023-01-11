@@ -1,0 +1,9 @@
+Sorry 5283, bid could not be processed... the minimum bid is 5000.0
+You only bidded 4000.0
+Congratulations 4681, you are currently the highest bidder for item 4827: Dutch Masters Oil Painting, but keep watching good stuff goes fast on eBay!
+Sorry 5283, this is not enough for 4827, Dutch Masters Oil Painting
+Congratulations 5283, you are currently the highest bidder for item 4827: Dutch Masters Oil Painting, but keep watching good stuff goes fast on eBay!
+Congratulations 4681, you are currently the highest bidder for item 4827: Dutch Masters Oil Painting, but keep watching good stuff goes fast on eBay!
+Sorry 5283 time has expired. Bid of 32000.0 could not be processed
+ITEM SOLD!!
+Bidder 4681 with a bid of 25000.0

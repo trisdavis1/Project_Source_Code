@@ -1,0 +1,46 @@
+These are the solids
+Cube with length: 4
+Area: 96.0
+Volume: 64.0
+Cube with length: 8
+Area: 384.0
+Volume: 512.0
+Sphere with Radius: 3
+Area: 113.0976
+Volume: 113.09759999999997
+Sphere with Radius: 6
+Area: 452.3904
+Volume: 904.7807999999998
+Cone with Height: 6 and Radius: 5
+Area: 172.788
+Volume: 157.07999999999998
+Cone with Height: 12 and Radius: 3
+Area: 141.372
+Volume: 113.09759999999997
+Brick with Length: 3 Width: 6 Height 9
+Area: 198.0
+Volume: 162.0
+Brick with Length: 2 Width: 4 Height 6
+Area: 88.0
+Volume: 48.0
+Truncated Cone with Height: 6 Radius1: 5 and Radius2: 3
+Area: 158.9537839549597
+Volume: 307.87679999999995
+Truncated Cone with Height: 4 Radius1: 8 and Radius2: 6
+Area: 196.6952724271735
+Volume: 619.9423999999999
+The Total Area of all solids is: 2001.2970563821334
+The Total Volume of all solids is: 3001.8751999999995
+The Maximum Area is: 452.3904
+The Minimum Area is: 88.0
+Array after Sort: 
+904.7807999999998
+619.9423999999999
+512.0
+307.87679999999995
+162.0
+157.07999999999998
+113.09759999999997
+113.09759999999997
+64.0
+48.0
