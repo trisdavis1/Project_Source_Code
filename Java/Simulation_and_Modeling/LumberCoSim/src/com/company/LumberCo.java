@@ -1,13 +1,8 @@
+package com.company;
 
 import java.io.*;
-import java.io.IOException;
-import javax.swing.*;
-import java.util.*;
 import java.io.File;
-import java.io.FileNotFoundException;
 import java.lang.*;
-import java.util.NoSuchElementException;
-import java.math.*;
 
 
 public class LumberCo {
@@ -165,7 +160,7 @@ public class LumberCo {
             aspray = ttrees34 * spraytree;
 
             //System.out.println("For year: " + year + ", percent trees sprayed = " + spraytree +
-                    //", total 3/4yr old trees = " + ttrees + ", possible trees sprayed = " + sprayedtrees);
+            //", total 3/4yr old trees = " + ttrees + ", possible trees sprayed = " + sprayedtrees);
 
             if((year >= 45) && (year <= 55)){
                 System.out.println("For year: " + year + ", percent trees sprayed = " + spraytree +
@@ -236,13 +231,13 @@ public class LumberCo {
 
         if(x < 11) rtype = 0;
         else
-            if(x < 93) rtype = 1;
-            else
-                rtype = 2;
+        if(x < 93) rtype = 1;
+        else
+            rtype = 2;
 
-            System.out.println("No Seeding occurance X was %" + x + " and rain type was " + rtype);
+        System.out.println("No Seeding occurance X was %" + x + " and rain type was " + rtype);
 
-            return rtype;
+        return rtype;
 
     }
 
@@ -253,13 +248,13 @@ public class LumberCo {
 
         if(x <= 3) rstype = 0;
         else
-            if(x <= 85) rstype = 1;
-            else
-                rstype = 2;
+        if(x <= 85) rstype = 1;
+        else
+            rstype = 2;
 
-            System.out.println("Seeding occurane X was %" + x + " and rain type was " + rstype);
+        System.out.println("Seeding occurane X was %" + x + " and rain type was " + rstype);
 
-            return rstype;
+        return rstype;
     }
 }//end of LumberCo
 
@@ -271,23 +266,23 @@ class Trees{
 
     //the percent of trees that are dying
     private double rain[] = {0.0, 0.0, 0.0};
-                    //{0.0, 0.0, 0.0, 0.0}},
-            //{{0.0, 0.0, 0.0, 0.0}, {0.0, 0.0, 0.0, 0.0}},
-            //{{0.0, 0.0, 0.0, 0.0}, {0.0, 0.0, 0.0, 0.0}}
-            //{{0.0, 0.0}, {0.0, 0.0}, {0.0, 0.0}}
+    //{0.0, 0.0, 0.0, 0.0}},
+    //{{0.0, 0.0, 0.0, 0.0}, {0.0, 0.0, 0.0, 0.0}},
+    //{{0.0, 0.0, 0.0, 0.0}, {0.0, 0.0, 0.0, 0.0}}
+    //{{0.0, 0.0}, {0.0, 0.0}, {0.0, 0.0}}
     //};
     //the percent of trees that are not growing
     private double rain1[] = {0.0, 0.0, 0.0};
 
     //the percent of trees attacked by beetles
     private double beetles[] = {0.0, 0.0, 0.0};
-            //{0.0, 0.0, 0.0, 0.0},
-            //{0.0, 0.0, 0.0, 0.0}
+    //{0.0, 0.0, 0.0, 0.0},
+    //{0.0, 0.0, 0.0, 0.0}
     //};
     //percent of trees susceptible to fire
     private double fire[] = {0.0, 0.0, 0.0,};
-            //{0.0, 0.0, 0.0, 0.0},
-            //{0.0, 0.0, 0.0, 0.0}
+    //{0.0, 0.0, 0.0, 0.0},
+    //{0.0, 0.0, 0.0, 0.0}
     //};
 
     public double getTrees(){
@@ -392,7 +387,7 @@ class Trees{
 
         //kill trees by rainfall
         trees *= (1.0 - regt);
-       // strees *= (1.0 - spt);
+        // strees *= (1.0 - spt);
 
         return;
 

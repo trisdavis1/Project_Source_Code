@@ -1,0 +1,312 @@
+No Seeding occurance X was %90 and rain type was 1
+Seeding occurane X was %4 and rain type was 1
+No Seeding occurance X was %51 and rain type was 1
+Seeding occurane X was %77 and rain type was 1
+No Seeding occurance X was %59 and rain type was 1
+Seeding occurane X was %58 and rain type was 1
+No Seeding occurance X was %43 and rain type was 1
+Seeding occurane X was %89 and rain type was 2
+No Seeding occurance X was %61 and rain type was 1
+Seeding occurane X was %18 and rain type was 1
+No Seeding occurance X was %22 and rain type was 1
+Seeding occurane X was %11 and rain type was 1
+No Seeding occurance X was %96 and rain type was 2
+Seeding occurane X was %30 and rain type was 1
+No Seeding occurance X was %17 and rain type was 1
+Seeding occurane X was %14 and rain type was 1
+No Seeding occurance X was %93 and rain type was 2
+Seeding occurane X was %83 and rain type was 1
+No Seeding occurance X was %49 and rain type was 1
+Seeding occurane X was %96 and rain type was 2
+No Seeding occurance X was %9 and rain type was 0
+Seeding occurane X was %4 and rain type was 1
+No Seeding occurance X was %29 and rain type was 1
+Seeding occurane X was %23 and rain type was 1
+No Seeding occurance X was %50 and rain type was 1
+Seeding occurane X was %14 and rain type was 1
+No Seeding occurance X was %35 and rain type was 1
+Seeding occurane X was %99 and rain type was 2
+No Seeding occurance X was %90 and rain type was 1
+Seeding occurane X was %17 and rain type was 1
+No Seeding occurance X was %20 and rain type was 1
+Seeding occurane X was %17 and rain type was 1
+No Seeding occurance X was %51 and rain type was 1
+Seeding occurane X was %39 and rain type was 1
+No Seeding occurance X was %25 and rain type was 1
+Seeding occurane X was %64 and rain type was 1
+No Seeding occurance X was %54 and rain type was 1
+Seeding occurane X was %88 and rain type was 2
+No Seeding occurance X was %20 and rain type was 1
+Seeding occurane X was %73 and rain type was 1
+No Seeding occurance X was %41 and rain type was 1
+Seeding occurane X was %83 and rain type was 1
+No Seeding occurance X was %0 and rain type was 0
+Seeding occurane X was %4 and rain type was 1
+No Seeding occurance X was %28 and rain type was 1
+Seeding occurane X was %36 and rain type was 1
+No Seeding occurance X was %61 and rain type was 1
+Seeding occurane X was %19 and rain type was 1
+No Seeding occurance X was %46 and rain type was 1
+Seeding occurane X was %16 and rain type was 1
+No Seeding occurance X was %40 and rain type was 1
+Seeding occurane X was %22 and rain type was 1
+No Seeding occurance X was %90 and rain type was 1
+Seeding occurane X was %71 and rain type was 1
+No Seeding occurance X was %47 and rain type was 1
+Seeding occurane X was %18 and rain type was 1
+No Seeding occurance X was %3 and rain type was 0
+Seeding occurane X was %20 and rain type was 1
+No Seeding occurance X was %75 and rain type was 1
+Seeding occurane X was %97 and rain type was 2
+No Seeding occurance X was %86 and rain type was 1
+Seeding occurane X was %42 and rain type was 1
+No Seeding occurance X was %99 and rain type was 2
+Seeding occurane X was %62 and rain type was 1
+No Seeding occurance X was %30 and rain type was 1
+Seeding occurane X was %33 and rain type was 1
+No Seeding occurance X was %72 and rain type was 1
+Seeding occurane X was %60 and rain type was 1
+No Seeding occurance X was %75 and rain type was 1
+Seeding occurane X was %18 and rain type was 1
+No Seeding occurance X was %42 and rain type was 1
+Seeding occurane X was %36 and rain type was 1
+No Seeding occurance X was %64 and rain type was 1
+Seeding occurane X was %95 and rain type was 2
+No Seeding occurance X was %14 and rain type was 1
+Seeding occurane X was %10 and rain type was 1
+No Seeding occurance X was %83 and rain type was 1
+Seeding occurane X was %30 and rain type was 1
+No Seeding occurance X was %11 and rain type was 1
+Seeding occurane X was %17 and rain type was 1
+No Seeding occurance X was %95 and rain type was 2
+Seeding occurane X was %20 and rain type was 1
+No Seeding occurance X was %85 and rain type was 1
+Seeding occurane X was %72 and rain type was 1
+No Seeding occurance X was %48 and rain type was 1
+Seeding occurane X was %2 and rain type was 0
+No Seeding occurance X was %84 and rain type was 1
+Seeding occurane X was %14 and rain type was 1
+No Seeding occurance X was %74 and rain type was 1
+Seeding occurane X was %38 and rain type was 1
+For year: 45, 1 yr old dying trees represented 1.4659465922069457 of the population. Rain no seed = 1, Rain seed = 1
+For year: 45, 2 yr old dying trees represented 0.7366884178208726 of the population. Rain no seed = 1, Rain seed = 1
+For year: 45, 3 yr old dying trees represented 0.22928657143240852 of the population. Rain no seed = 1, Rain seed = 1
+For year: 45, 4 yr old dying trees represented 0.04539253265737175 of the population. Rain no seed = 1, Rain seed = 1
+1.4659465922069457
+For year: 45, percent trees sprayed = 0.5, total 3yr old trees = 0.22928657143240852, possible trees sprayed = 1000
+For year: 45, trees sprayed = 0.11464328571620426, total trees 3 year old trees = 0.22928657143240852
+For year: 45, percent trees sprayed = 0.5, total 3/4yr old trees = 0.27467910408978025, possible trees sprayed = 1500
+For year: 45, trees sprayed = 0.13733955204489012, total trees 3/4 year old trees = 0.27467910408978025
+No Seeding occurance X was %59 and rain type was 1
+Seeding occurane X was %93 and rain type was 2
+For year: 46, 1 yr old dying trees represented 1.864760526273205 of the population. Rain no seed = 1, Rain seed = 2
+For year: 46, 2 yr old dying trees represented 1.0502742402230953 of the population. Rain no seed = 1, Rain seed = 2
+For year: 46, 3 yr old dying trees represented 0.4580461127280096 of the population. Rain no seed = 1, Rain seed = 2
+For year: 46, 4 yr old dying trees represented 0.06270771282152943 of the population. Rain no seed = 1, Rain seed = 2
+1.864760526273205
+For year: 46, percent trees sprayed = 0.5, total 3yr old trees = 0.4580461127280096, possible trees sprayed = 1000
+For year: 46, trees sprayed = 0.2290230563640048, total trees 3 year old trees = 0.4580461127280096
+For year: 46, percent trees sprayed = 0.5, total 3/4yr old trees = 0.520753825549539, possible trees sprayed = 1500
+For year: 46, trees sprayed = 0.2603769127747695, total trees 3/4 year old trees = 0.520753825549539
+No Seeding occurance X was %8 and rain type was 0
+Seeding occurane X was %53 and rain type was 1
+For year: 47, 1 yr old dying trees represented 1.6695275029289327 of the population. Rain no seed = 0, Rain seed = 1
+For year: 47, 2 yr old dying trees represented 0.9583644777873145 of the population. Rain no seed = 0, Rain seed = 1
+For year: 47, 3 yr old dying trees represented 0.30094068651556627 of the population. Rain no seed = 0, Rain seed = 1
+For year: 47, 4 yr old dying trees represented 0.05199437161253964 of the population. Rain no seed = 0, Rain seed = 1
+1.6695275029289327
+For year: 47, percent trees sprayed = 0.5, total 3yr old trees = 0.30094068651556627, possible trees sprayed = 1000
+For year: 47, trees sprayed = 0.15047034325778313, total trees 3 year old trees = 0.30094068651556627
+For year: 47, percent trees sprayed = 0.5, total 3/4yr old trees = 0.3529350581281059, possible trees sprayed = 1500
+For year: 47, trees sprayed = 0.17646752906405294, total trees 3/4 year old trees = 0.3529350581281059
+No Seeding occurance X was %72 and rain type was 1
+Seeding occurane X was %60 and rain type was 1
+For year: 48, 1 yr old dying trees represented 1.8353776079303197 of the population. Rain no seed = 1, Rain seed = 1
+For year: 48, 2 yr old dying trees represented 1.0863150932226147 of the population. Rain no seed = 1, Rain seed = 1
+For year: 48, 3 yr old dying trees represented 0.5221595907586786 of the population. Rain no seed = 1, Rain seed = 1
+For year: 48, 4 yr old dying trees represented 0.07336259830111712 of the population. Rain no seed = 1, Rain seed = 1
+1.8353776079303197
+For year: 48, percent trees sprayed = 0.5, total 3yr old trees = 0.5221595907586786, possible trees sprayed = 1000
+For year: 48, trees sprayed = 0.2610797953793393, total trees 3 year old trees = 0.5221595907586786
+For year: 48, percent trees sprayed = 0.5, total 3/4yr old trees = 0.5955221890597957, possible trees sprayed = 1500
+For year: 48, trees sprayed = 0.29776109452989785, total trees 3/4 year old trees = 0.5955221890597957
+No Seeding occurance X was %52 and rain type was 1
+Seeding occurane X was %89 and rain type was 2
+For year: 49, 1 yr old dying trees represented 2.144126015160545 of the population. Rain no seed = 1, Rain seed = 2
+For year: 49, 2 yr old dying trees represented 1.3149522860784921 of the population. Rain no seed = 1, Rain seed = 2
+For year: 49, 3 yr old dying trees represented 0.6754312862963623 of the population. Rain no seed = 1, Rain seed = 2
+For year: 49, 4 yr old dying trees represented 0.14280571888596186 of the population. Rain no seed = 1, Rain seed = 2
+2.144126015160545
+For year: 49, percent trees sprayed = 0.5, total 3yr old trees = 0.6754312862963623, possible trees sprayed = 1000
+For year: 49, trees sprayed = 0.33771564314818114, total trees 3 year old trees = 0.6754312862963623
+For year: 49, percent trees sprayed = 0.5, total 3/4yr old trees = 0.8182370051823241, possible trees sprayed = 1500
+For year: 49, trees sprayed = 0.40911850259116206, total trees 3/4 year old trees = 0.8182370051823241
+No Seeding occurance X was %54 and rain type was 1
+Seeding occurane X was %25 and rain type was 1
+For year: 50, 1 yr old dying trees represented 2.1616778543788895 of the population. Rain no seed = 1, Rain seed = 1
+For year: 50, 2 yr old dying trees represented 1.3951231399027206 of the population. Rain no seed = 1, Rain seed = 1
+For year: 50, 3 yr old dying trees represented 0.7164444879584859 of the population. Rain no seed = 1, Rain seed = 1
+For year: 50, 4 yr old dying trees represented 0.1646550179382401 of the population. Rain no seed = 1, Rain seed = 1
+2.1616778543788895
+For year: 50, percent trees sprayed = 0.5, total 3yr old trees = 0.7164444879584859, possible trees sprayed = 1000
+For year: 50, trees sprayed = 0.35822224397924296, total trees 3 year old trees = 0.7164444879584859
+For year: 50, percent trees sprayed = 0.5, total 3/4yr old trees = 0.881099505896726, possible trees sprayed = 1500
+For year: 50, trees sprayed = 0.440549752948363, total trees 3/4 year old trees = 0.881099505896726
+No Seeding occurance X was %61 and rain type was 1
+Seeding occurane X was %42 and rain type was 1
+For year: 51, 1 yr old dying trees represented 2.1737452530642365 of the population. Rain no seed = 1, Rain seed = 1
+For year: 51, 2 yr old dying trees represented 1.406543633319723 of the population. Rain no seed = 1, Rain seed = 1
+For year: 51, 3 yr old dying trees represented 0.7601251347206495 of the population. Rain no seed = 1, Rain seed = 1
+For year: 51, 4 yr old dying trees represented 0.17465311780774861 of the population. Rain no seed = 1, Rain seed = 1
+2.1737452530642365
+For year: 51, percent trees sprayed = 0.5, total 3yr old trees = 0.7601251347206495, possible trees sprayed = 1000
+For year: 51, trees sprayed = 0.38006256736032473, total trees 3 year old trees = 0.7601251347206495
+For year: 51, percent trees sprayed = 0.5, total 3/4yr old trees = 0.9347782525283981, possible trees sprayed = 1500
+For year: 51, trees sprayed = 0.46738912626419904, total trees 3/4 year old trees = 0.9347782525283981
+No Seeding occurance X was %26 and rain type was 1
+Seeding occurane X was %10 and rain type was 1
+For year: 52, 1 yr old dying trees represented 2.182041939765817 of the population. Rain no seed = 1, Rain seed = 1
+For year: 52, 2 yr old dying trees represented 1.4143955538809772 of the population. Rain no seed = 1, Rain seed = 1
+For year: 52, 3 yr old dying trees represented 0.766347527460677 of the population. Rain no seed = 1, Rain seed = 1
+For year: 52, 4 yr old dying trees represented 0.18530148104187666 of the population. Rain no seed = 1, Rain seed = 1
+2.182041939765817
+For year: 52, percent trees sprayed = 0.5, total 3yr old trees = 0.766347527460677, possible trees sprayed = 1000
+For year: 52, trees sprayed = 0.3831737637303385, total trees 3 year old trees = 0.766347527460677
+For year: 52, percent trees sprayed = 0.5, total 3/4yr old trees = 0.9516490085025537, possible trees sprayed = 1500
+For year: 52, trees sprayed = 0.47582450425127687, total trees 3/4 year old trees = 0.9516490085025537
+No Seeding occurance X was %12 and rain type was 1
+Seeding occurane X was %89 and rain type was 2
+For year: 53, 1 yr old dying trees represented 2.4062752295501246 of the population. Rain no seed = 1, Rain seed = 2
+For year: 53, 2 yr old dying trees represented 1.5633191908937907 of the population. Rain no seed = 1, Rain seed = 2
+For year: 53, 3 yr old dying trees represented 0.879419805772608 of the population. Rain no seed = 1, Rain seed = 2
+For year: 53, 4 yr old dying trees represented 0.2095888144398359 of the population. Rain no seed = 1, Rain seed = 2
+2.4062752295501246
+For year: 53, percent trees sprayed = 0.5, total 3yr old trees = 0.879419805772608, possible trees sprayed = 1000
+For year: 53, trees sprayed = 0.439709902886304, total trees 3 year old trees = 0.879419805772608
+For year: 53, percent trees sprayed = 0.5, total 3/4yr old trees = 1.0890086202124438, possible trees sprayed = 1500
+For year: 53, trees sprayed = 0.5445043101062219, total trees 3/4 year old trees = 1.0890086202124438
+No Seeding occurance X was %14 and rain type was 1
+Seeding occurane X was %32 and rain type was 1
+For year: 54, 1 yr old dying trees represented 2.3419130448758083 of the population. Rain no seed = 1, Rain seed = 1
+For year: 54, 2 yr old dying trees represented 1.5656963396662789 of the population. Rain no seed = 1, Rain seed = 1
+For year: 54, 3 yr old dying trees represented 0.8517658238199523 of the population. Rain no seed = 1, Rain seed = 1
+For year: 54, 4 yr old dying trees represented 0.21438284964371257 of the population. Rain no seed = 1, Rain seed = 1
+2.3419130448758083
+For year: 54, percent trees sprayed = 0.5, total 3yr old trees = 0.8517658238199523, possible trees sprayed = 1000
+For year: 54, trees sprayed = 0.4258829119099761, total trees 3 year old trees = 0.8517658238199523
+For year: 54, percent trees sprayed = 0.5, total 3/4yr old trees = 1.066148673463665, possible trees sprayed = 1500
+For year: 54, trees sprayed = 0.5330743367318325, total trees 3/4 year old trees = 1.066148673463665
+No Seeding occurance X was %84 and rain type was 1
+Seeding occurane X was %96 and rain type was 2
+For year: 55, 1 yr old dying trees represented 2.5271705186220497 of the population. Rain no seed = 1, Rain seed = 2
+For year: 55, 2 yr old dying trees represented 1.6778584956308351 of the population. Rain no seed = 1, Rain seed = 2
+For year: 55, 3 yr old dying trees represented 0.9734931413988807 of the population. Rain no seed = 1, Rain seed = 2
+For year: 55, 4 yr old dying trees represented 0.23294991214538008 of the population. Rain no seed = 1, Rain seed = 2
+2.5271705186220497
+For year: 55, percent trees sprayed = 0.5, total 3yr old trees = 0.9734931413988807, possible trees sprayed = 1000
+For year: 55, trees sprayed = 0.48674657069944033, total trees 3 year old trees = 0.9734931413988807
+For year: 55, percent trees sprayed = 0.5, total 3/4yr old trees = 1.2064430535442607, possible trees sprayed = 1500
+For year: 55, trees sprayed = 0.6032215267721304, total trees 3/4 year old trees = 1.2064430535442607
+No Seeding occurance X was %40 and rain type was 1
+Seeding occurane X was %21 and rain type was 1
+No Seeding occurance X was %70 and rain type was 1
+Seeding occurane X was %65 and rain type was 1
+No Seeding occurance X was %7 and rain type was 0
+Seeding occurane X was %31 and rain type was 1
+No Seeding occurance X was %1 and rain type was 0
+Seeding occurane X was %31 and rain type was 1
+No Seeding occurance X was %52 and rain type was 1
+Seeding occurane X was %99 and rain type was 2
+No Seeding occurance X was %74 and rain type was 1
+Seeding occurane X was %44 and rain type was 1
+No Seeding occurance X was %70 and rain type was 1
+Seeding occurane X was %63 and rain type was 1
+No Seeding occurance X was %39 and rain type was 1
+Seeding occurane X was %69 and rain type was 1
+No Seeding occurance X was %92 and rain type was 1
+Seeding occurane X was %52 and rain type was 1
+No Seeding occurance X was %24 and rain type was 1
+Seeding occurane X was %52 and rain type was 1
+No Seeding occurance X was %36 and rain type was 1
+Seeding occurane X was %29 and rain type was 1
+No Seeding occurance X was %14 and rain type was 1
+Seeding occurane X was %3 and rain type was 0
+No Seeding occurance X was %8 and rain type was 0
+Seeding occurane X was %76 and rain type was 1
+No Seeding occurance X was %89 and rain type was 1
+Seeding occurane X was %45 and rain type was 1
+No Seeding occurance X was %13 and rain type was 1
+Seeding occurane X was %55 and rain type was 1
+No Seeding occurance X was %16 and rain type was 1
+Seeding occurane X was %60 and rain type was 1
+No Seeding occurance X was %71 and rain type was 1
+Seeding occurane X was %66 and rain type was 1
+No Seeding occurance X was %0 and rain type was 0
+Seeding occurane X was %76 and rain type was 1
+No Seeding occurance X was %20 and rain type was 1
+Seeding occurane X was %68 and rain type was 1
+No Seeding occurance X was %16 and rain type was 1
+Seeding occurane X was %83 and rain type was 1
+No Seeding occurance X was %64 and rain type was 1
+Seeding occurane X was %38 and rain type was 1
+No Seeding occurance X was %32 and rain type was 1
+Seeding occurane X was %81 and rain type was 1
+No Seeding occurance X was %77 and rain type was 1
+Seeding occurane X was %93 and rain type was 2
+No Seeding occurance X was %85 and rain type was 1
+Seeding occurane X was %1 and rain type was 0
+No Seeding occurance X was %74 and rain type was 1
+Seeding occurane X was %86 and rain type was 2
+No Seeding occurance X was %21 and rain type was 1
+Seeding occurane X was %42 and rain type was 1
+No Seeding occurance X was %20 and rain type was 1
+Seeding occurane X was %7 and rain type was 1
+No Seeding occurance X was %19 and rain type was 1
+Seeding occurane X was %84 and rain type was 1
+No Seeding occurance X was %58 and rain type was 1
+Seeding occurane X was %24 and rain type was 1
+No Seeding occurance X was %64 and rain type was 1
+Seeding occurane X was %33 and rain type was 1
+No Seeding occurance X was %88 and rain type was 1
+Seeding occurane X was %13 and rain type was 1
+No Seeding occurance X was %1 and rain type was 0
+Seeding occurane X was %95 and rain type was 2
+No Seeding occurance X was %56 and rain type was 1
+Seeding occurane X was %78 and rain type was 1
+No Seeding occurance X was %15 and rain type was 1
+Seeding occurane X was %84 and rain type was 1
+No Seeding occurance X was %85 and rain type was 1
+Seeding occurane X was %5 and rain type was 1
+No Seeding occurance X was %35 and rain type was 1
+Seeding occurane X was %80 and rain type was 1
+No Seeding occurance X was %63 and rain type was 1
+Seeding occurane X was %40 and rain type was 1
+No Seeding occurance X was %56 and rain type was 1
+Seeding occurane X was %17 and rain type was 1
+No Seeding occurance X was %45 and rain type was 1
+Seeding occurane X was %55 and rain type was 1
+No Seeding occurance X was %59 and rain type was 1
+Seeding occurane X was %60 and rain type was 1
+No Seeding occurance X was %83 and rain type was 1
+Seeding occurane X was %87 and rain type was 2
+No Seeding occurance X was %10 and rain type was 0
+Seeding occurane X was %22 and rain type was 1
+No Seeding occurance X was %24 and rain type was 1
+Seeding occurane X was %39 and rain type was 1
+No Seeding occurance X was %93 and rain type was 2
+Seeding occurane X was %27 and rain type was 1
+No Seeding occurance X was %35 and rain type was 1
+Seeding occurane X was %32 and rain type was 1
+Statistics for LumberCo:
+
+1 yr old tree stats:
+Variance: 34624.42018585912, St. Dev: 186.07638266545038
+
+2 yr old tree stats:
+Variance: 23885.457017647732, St. Dev: 154.54920581370754
+
+3 yr old tree stats:
+Variance: 10151.603158540793, St. Dev: 100.75516442615134
+
+4 yr old tree stats:
+Variance: 1197.8678154585746, St. Dev: 34.61022703564041
