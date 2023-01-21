@@ -1,0 +1,127 @@
+For day 500 demand 18 sold 16
+For day 501 demand 15 sold 15
+For day 502 demand 15 sold 15
+For day 503 demand 15 sold 15
+For day 504 demand 17 sold 16
+For day 505 demand 17 sold 16
+For day 506 demand 17 sold 16
+For day 507 demand 17 sold 16
+For day 508 demand 17 sold 16
+For day 509 demand 17 sold 16
+For day 510 demand 17 sold 16
+Sold 16 ordered 16
+Profit 10.4
+**************Statics for 1000 Days of Sales***************
+
+Average sold: 15.898
+Sold Variance: 0.09159600000000978 st dev: 0.3026483107502994
+Count: 1000
+
+-------------------------------------
+
+Average demanded: 17.412
+Demanded Variance: 1.730256000000054 st dev: 1.3153919567946484
+
+-------------------------------------
+
+Average profit: 10.303399999999838
+Profit Variance: 0.08224344000562667 st dev: 0.2867811709398416
+Count: 1000
+
+---------------------------------
+
+For day 500 demand 16 sold 16
+For day 501 demand 17 sold 16
+For day 502 demand 18 sold 17
+For day 503 demand 17 sold 17
+For day 504 demand 19 sold 17
+For day 505 demand 18 sold 18
+For day 506 demand 17 sold 17
+For day 507 demand 16 sold 16
+For day 508 demand 20 sold 16
+For day 509 demand 15 sold 15
+For day 510 demand 18 sold 15
+Sold 17 ordered 17
+Profit 11.05
+************** Statics for 1000 Days of Sales ***************
+
+Average sold: 16.304
+Sold Variance: 0.8755840000000603 st dev: 0.9357264557551316
+Count: 2000
+
+-------------------------------------
+
+Average demanded: 17.706
+Demanded Variance: 0.951564000000019 st dev: 0.9754814196077847
+
+-------------------------------------
+
+Average profit: 10.472049999999838
+Profit Variance: 0.47152879750628074 st dev: 0.6866795449889859
+Count: 2000
+
+---------------------------------
+
+For day 500 demand 20 sold 16
+For day 501 demand 17 sold 17
+For day 502 demand 17 sold 16
+For day 503 demand 15 sold 15
+For day 504 demand 17 sold 14
+For day 505 demand 19 sold 16
+For day 506 demand 19 sold 18
+For day 507 demand 19 sold 18
+For day 508 demand 17 sold 17
+For day 509 demand 17 sold 16
+For day 510 demand 17 sold 16
+Sold 16 ordered 15
+Profit 10.100000000000001
+************** Statics for 1000 Days of Sales ***************
+
+Average sold: 16.237333333333332
+Sold Variance: 1.0663395555556008 st dev: 1.0326371848600073
+Count: 3000
+
+-------------------------------------
+
+Average demanded: 17.804
+Demanded Variance: 0.6535840000000803 st dev: 0.8084454217818791
+
+-------------------------------------
+
+Average profit: 10.436166666666686
+Profit Variance: 0.5307086388885978 st dev: 0.7284975215390906
+Count: 3000
+
+---------------------------------
+
+Math.random function test
+30
+28
+49
+93
+5
+68
+75
+75
+87
+12
+16
+5
+4
+65
+31
+50
+84
+28
+18
+69
+73
+52
+71
+65
+63
+12
+50
+91
+68
+82

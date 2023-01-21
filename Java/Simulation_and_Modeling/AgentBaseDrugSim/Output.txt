@@ -1,0 +1,388 @@
+This is the original Muscle Cell table: Condition 1 = Healthy( HM )
+This is the 1 Iteration of NextCells
+C1, C2, C3, C4, C5, C6, C7, C8, C9, C10
+HM  HM  HM  HM  HM  HM  HM  HM  HM  HM  
+HM  HM  HM  HM  HM  HM  HM  HM  HM  HM  
+HM  HM  HM  HM  HM  HM  HM  HM  HM  HM  
+HM  HM  HM  HM  HM  HM  HM  HM  HM  HM  
+HM  HM  HM  HM  HM  HM  HM  HM  HM  HM  
+HM  HM  HM  HM  HM  HM  HM  HM  HM  HM  
+HM  HM  HM  HM  HM  HM  HM  HM  HM  HM  
+HM  HM  HM  HM  HM  HM  HM  HM  HM  HM  
+HM  HM  HM  HM  HM  HM  HM  HM  HM  HM  
+HM  HM  HM  HM  HM  HM  HM  HM  HM  HM  
+
+
+Now we start the Tendril and Cure iterations:
+------ BASE CASE -------
+This is for 0,0 cell condition is 2 this is the last tendril 1
+This is the tendril direction 2
+This is the 1 Iteration of NextCells
+C1, C2, C3, C4, C5, C6, C7, C8, C9, C10
+MW  MW  MW  MW  MW  MW  HM  MW  HM  HM  
+HM  HM  MW  HM  MW  MW  MW  MW  HM  HM  
+MW  MW  MW  HM  MW  HM  MW  HM  MW  HM  
+HM  HM  MW  MW  MW  MW  MW  HM  HM  HM  
+HM  MW  MW  MW  MW  MW  HM  MW  MW  HM  
+HM  MW  HM  MW  HM  HM  MW  HM  HM  HM  
+MW  HM  MW  MW  MW  MW  MW  MW  HM  HM  
+MW  MW  MW  MW  HM  MW  MW  HM  MW  HM  
+HM  HM  HM  HM  HM  HM  HM  HM  MW  HM  
+HM  MW  MW  MW  MW  MW  HM  MW  MW  HM  
+ Healthy,  Muscle Wilt,  Youth
+    45         55         0     
+Average cells in healthy muscle mode: 4.5
+Variance of cells in healthy muscle mode: 182.25
+
+This is for 0,0 cell condition is 2 this is the last tendril 1
+This is the tendril direction 2
+This is the 2 Iteration of NextCells
+C1, C2, C3, C4, C5, C6, C7, C8, C9, C10
+MW  HM  HM  HM  HM  HM  HM  MW  HM  HM  
+HM  MW  MW  HM  HM  HM  MW  HM  HM  HM  
+MW  MW  HM  HM  MW  MW  MW  MW  MW  HM  
+HM  HM  HM  HM  HM  HM  MW  HM  HM  HM  
+HM  MW  MW  HM  HM  MW  MW  MW  MW  HM  
+HM  MW  HM  MW  MW  HM  MW  HM  HM  HM  
+HM  HM  HM  HM  HM  HM  HM  HM  HM  HM  
+HM  MW  MW  HM  HM  MW  HM  HM  MW  HM  
+HM  HM  HM  HM  HM  HM  HM  HM  HM  HM  
+HM  HM  HM  HM  HM  MW  HM  HM  MW  HM  
+ Healthy,  Muscle Wilt,  Youth
+    71         29         0     
+Average cells in healthy muscle mode: 7.1
+Variance of cells in healthy muscle mode: 453.69000000000005
+
+This is for 0,0 cell condition is 2 this is the last tendril 1
+This is the tendril direction 2
+This is the 3 Iteration of NextCells
+C1, C2, C3, C4, C5, C6, C7, C8, C9, C10
+MW  MW  MW  MW  MW  MW  HM  MW  HM  HM  
+HM  HM  MW  HM  HM  HM  MW  HM  HM  HM  
+MW  HM  MW  HM  MW  HM  MW  HM  HM  HM  
+HM  HM  MW  MW  MW  HM  MW  HM  HM  HM  
+HM  MW  MW  HM  MW  HM  HM  MW  MW  HM  
+HM  MW  HM  HM  HM  HM  MW  HM  HM  HM  
+HM  HM  HM  MW  MW  MW  MW  MW  HM  HM  
+MW  MW  MW  HM  HM  MW  HM  HM  MW  HM  
+HM  HM  HM  HM  HM  HM  HM  HM  HM  HM  
+HM  HM  MW  MW  HM  MW  HM  HM  MW  HM  
+ Healthy,  Muscle Wilt,  Youth
+    62         38         0     
+Average cells in healthy muscle mode: 6.2
+Variance of cells in healthy muscle mode: 345.96
+
+This is for 0,0 cell condition is 2 this is the last tendril 1
+This is the tendril direction 2
+This is the 4 Iteration of NextCells
+C1, C2, C3, C4, C5, C6, C7, C8, C9, C10
+MW  HM  HM  MW  HM  HM  HM  MW  HM  HM  
+HM  HM  MW  HM  HM  HM  MW  HM  HM  HM  
+MW  MW  MW  HM  MW  HM  MW  HM  MW  HM  
+HM  HM  HM  HM  HM  HM  MW  HM  HM  HM  
+MW  MW  MW  MW  HM  MW  HM  MW  MW  HM  
+MW  MW  HM  MW  HM  HM  MW  HM  HM  HM  
+HM  HM  HM  MW  HM  HM  MW  HM  HM  HM  
+MW  MW  MW  HM  HM  MW  HM  MW  MW  HM  
+HM  HM  HM  HM  HM  HM  HM  HM  HM  HM  
+HM  HM  HM  HM  HM  MW  HM  HM  MW  MW  
+ Healthy,  Muscle Wilt,  Youth
+    66         34         0     
+Average cells in healthy muscle mode: 6.6
+Variance of cells in healthy muscle mode: 392.04
+
+This is for 0,0 cell condition is 2 this is the last tendril 1
+This is the tendril direction 2
+This is the 5 Iteration of NextCells
+C1, C2, C3, C4, C5, C6, C7, C8, C9, C10
+MW  MW  HM  MW  MW  MW  HM  MW  HM  HM  
+HM  HM  MW  HM  HM  HM  MW  MW  HM  HM  
+MW  MW  HM  HM  MW  HM  MW  HM  MW  HM  
+HM  HM  MW  MW  MW  HM  MW  HM  HM  HM  
+HM  MW  MW  HM  MW  MW  MW  MW  MW  HM  
+HM  MW  HM  MW  HM  HM  MW  HM  HM  HM  
+HM  HM  HM  MW  HM  MW  MW  HM  HM  HM  
+MW  MW  MW  HM  HM  MW  HM  HM  HM  HM  
+MW  HM  HM  HM  HM  HM  HM  HM  HM  HM  
+HM  HM  MW  MW  HM  MW  HM  HM  HM  MW  
+ Healthy,  Muscle Wilt,  Youth
+    60         40         0     
+Average cells in healthy muscle mode: 6.0
+Variance of cells in healthy muscle mode: 324.0
+
+This is for 0,0 cell condition is 2 this is the last tendril 1
+This is the tendril direction 2
+This is the 6 Iteration of NextCells
+C1, C2, C3, C4, C5, C6, C7, C8, C9, C10
+MW  MW  HM  MW  HM  HM  HM  MW  HM  HM  
+HM  HM  MW  HM  HM  HM  HM  HM  HM  HM  
+MW  MW  HM  HM  MW  HM  MW  HM  MW  HM  
+HM  HM  HM  HM  HM  HM  MW  HM  HM  HM  
+HM  MW  MW  HM  HM  HM  HM  MW  MW  HM  
+HM  MW  HM  MW  HM  HM  MW  HM  HM  HM  
+MW  HM  HM  MW  HM  MW  MW  HM  HM  HM  
+MW  MW  MW  HM  MW  MW  HM  MW  MW  HM  
+HM  HM  HM  HM  HM  HM  HM  HM  MW  HM  
+HM  HM  HM  HM  HM  MW  HM  MW  HM  HM  
+ Healthy,  Muscle Wilt,  Youth
+    68         32         0     
+Average cells in healthy muscle mode: 6.8
+Variance of cells in healthy muscle mode: 416.15999999999997
+
+This is for 0,0 cell condition is 2 this is the last tendril 1
+This is the tendril direction 2
+This is the 7 Iteration of NextCells
+C1, C2, C3, C4, C5, C6, C7, C8, C9, C10
+MW  MW  HM  MW  MW  MW  HM  MW  HM  HM  
+HM  HM  MW  HM  HM  HM  MW  HM  HM  HM  
+MW  MW  HM  HM  MW  HM  MW  HM  MW  HM  
+HM  HM  MW  MW  MW  HM  MW  HM  HM  MW  
+HM  MW  MW  HM  MW  MW  HM  MW  MW  HM  
+HM  MW  HM  MW  HM  HM  MW  HM  HM  HM  
+HM  HM  MW  MW  HM  MW  MW  HM  HM  HM  
+HM  MW  MW  HM  HM  HM  HM  HM  HM  HM  
+HM  HM  HM  HM  HM  HM  HM  HM  HM  HM  
+HM  HM  MW  MW  HM  MW  HM  MW  MW  HM  
+ Healthy,  Muscle Wilt,  Youth
+    62         38         0     
+Average cells in healthy muscle mode: 6.2
+Variance of cells in healthy muscle mode: 345.96
+
+This is for 0,0 cell condition is 2 this is the last tendril 1
+This is the tendril direction 2
+This is the 8 Iteration of NextCells
+C1, C2, C3, C4, C5, C6, C7, C8, C9, C10
+MW  MW  HM  MW  HM  HM  HM  MW  HM  HM  
+HM  HM  MW  HM  HM  HM  MW  HM  HM  HM  
+MW  MW  HM  HM  MW  HM  MW  HM  MW  HM  
+HM  HM  HM  MW  HM  HM  MW  HM  HM  HM  
+HM  MW  MW  HM  HM  MW  HM  MW  MW  HM  
+HM  MW  HM  MW  HM  HM  MW  HM  HM  HM  
+HM  HM  HM  HM  HM  MW  MW  HM  HM  HM  
+MW  MW  MW  HM  HM  MW  MW  MW  MW  HM  
+HM  HM  HM  HM  HM  HM  HM  HM  MW  HM  
+HM  HM  HM  HM  HM  MW  HM  HM  MW  HM  
+ Healthy,  Muscle Wilt,  Youth
+    67         33         0     
+Average cells in healthy muscle mode: 6.7
+Variance of cells in healthy muscle mode: 404.01
+
+This is for 0,0 cell condition is 2 this is the last tendril 1
+This is the tendril direction 2
+This is the 9 Iteration of NextCells
+C1, C2, C3, C4, C5, C6, C7, C8, C9, C10
+MW  MW  HM  MW  MW  MW  HM  MW  HM  MW  
+HM  HM  MW  HM  HM  MW  MW  HM  HM  HM  
+MW  MW  HM  HM  MW  HM  MW  HM  MW  HM  
+HM  HM  HM  MW  MW  HM  MW  HM  HM  HM  
+HM  MW  MW  HM  MW  MW  HM  MW  MW  HM  
+HM  MW  HM  MW  HM  HM  MW  HM  HM  HM  
+HM  HM  HM  MW  MW  MW  HM  HM  HM  HM  
+MW  MW  MW  HM  MW  MW  HM  MW  HM  HM  
+HM  HM  HM  HM  HM  HM  MW  HM  HM  HM  
+HM  HM  MW  MW  HM  MW  HM  HM  MW  HM  
+ Healthy,  Muscle Wilt,  Youth
+    59         41         0     
+Average cells in healthy muscle mode: 5.9
+Variance of cells in healthy muscle mode: 313.29
+
+This is for 0,0 cell condition is 2 this is the last tendril 1
+This is the tendril direction 2
+This is the 10 Iteration of NextCells
+C1, C2, C3, C4, C5, C6, C7, C8, C9, C10
+MW  MW  HM  MW  HM  HM  HM  MW  HM  HM  
+HM  HM  MW  HM  HM  HM  MW  HM  HM  HM  
+MW  MW  HM  HM  MW  HM  MW  HM  MW  HM  
+HM  HM  HM  MW  HM  HM  MW  HM  HM  HM  
+HM  MW  MW  HM  HM  MW  HM  MW  MW  HM  
+HM  MW  HM  MW  HM  MW  MW  HM  HM  HM  
+HM  HM  HM  MW  HM  HM  MW  MW  HM  HM  
+MW  MW  MW  HM  HM  HM  HM  HM  HM  HM  
+HM  HM  HM  HM  HM  HM  HM  HM  MW  HM  
+HM  HM  HM  HM  HM  MW  HM  HM  MW  HM  
+ Healthy,  Muscle Wilt,  Youth
+    69         31         0     
+Average cells in healthy muscle mode: 6.9
+Variance of cells in healthy muscle mode: 428.49
+
+------ Youth TEST -------
+This is for 0,0 cell condition is 3 this is last cure 1
+This is the 1 Iteration of NextCells
+C1, C2, C3, C4, C5, C6, C7, C8, C9, C10
+YW  YW  YW  YW  HM  YW  HM  HM  YW  HM  
+YW  YW  MW  YW  YW  HM  YW  YW  YW  HM  
+HM  YW  YW  HM  YW  YW  YW  YW  YW  HM  
+HM  YW  MW  YW  YW  HM  YW  MW  MW  MW  
+YW  HM  HM  HM  HM  YW  YW  HM  HM  HM  
+YW  YW  YW  HM  YW  YW  YW  HM  YW  HM  
+YW  YW  HM  HM  HM  HM  HM  HM  YW  HM  
+YW  HM  YW  YW  HM  YW  YW  HM  YW  HM  
+HM  HM  HM  HM  HM  HM  MW  HM  HM  HM  
+HM  MW  HM  HM  HM  HM  HM  HM  HM  MW  
+ Healthy,  Muscle Wilt,  Youth
+    49         8         43     
+Average cells in healthy muscle mode: 4.9
+Variance of cells in healthy muscle mode: 216.08999999999997
+
+This is for 0,0 cell condition is 3 this is last cure 1
+This is the 2 Iteration of NextCells
+C1, C2, C3, C4, C5, C6, C7, C8, C9, C10
+YW  MW  HM  YW  HM  YW  HM  HM  HM  HM  
+HM  HM  HM  HM  YW  YW  HM  MW  HM  HM  
+HM  HM  HM  YW  HM  HM  HM  YW  HM  HM  
+HM  MW  HM  HM  HM  HM  HM  HM  HM  MW  
+YW  HM  HM  YW  HM  YW  YW  YW  HM  HM  
+HM  YW  YW  HM  HM  YW  HM  HM  YW  HM  
+HM  MW  HM  HM  HM  HM  HM  HM  HM  HM  
+HM  HM  YW  YW  MW  YW  HM  YW  HM  HM  
+HM  HM  HM  HM  HM  HM  HM  HM  HM  HM  
+HM  HM  HM  HM  HM  MW  HM  HM  MW  HM  
+ Healthy,  Muscle Wilt,  Youth
+    72         8         20     
+Average cells in healthy muscle mode: 7.2
+Variance of cells in healthy muscle mode: 466.55999999999995
+
+This is for 0,0 cell condition is 3 this is last cure 1
+This is the 3 Iteration of NextCells
+C1, C2, C3, C4, C5, C6, C7, C8, C9, C10
+YW  YW  HM  YW  HM  YW  HM  HM  HM  HM  
+YW  HM  YW  YW  YW  YW  YW  MW  HM  HM  
+YW  HM  YW  YW  YW  HM  HM  YW  YW  MW  
+HM  YW  HM  YW  HM  HM  HM  HM  HM  HM  
+YW  HM  YW  YW  YW  YW  YW  YW  MW  HM  
+YW  YW  YW  HM  MW  YW  HM  YW  HM  HM  
+HM  HM  HM  HM  HM  HM  HM  MW  YW  HM  
+HM  HM  YW  YW  HM  YW  YW  YW  YW  HM  
+HM  HM  HM  MW  HM  MW  HM  HM  MW  HM  
+HM  MW  HM  HM  HM  HM  HM  HM  HM  HM  
+ Healthy,  Muscle Wilt,  Youth
+    54         9         37     
+Average cells in healthy muscle mode: 5.4
+Variance of cells in healthy muscle mode: 262.44
+
+This is for 0,0 cell condition is 3 this is last cure 1
+This is the 4 Iteration of NextCells
+C1, C2, C3, C4, C5, C6, C7, C8, C9, C10
+YW  YW  HM  YW  HM  YW  HM  HM  HM  HM  
+HM  YW  YW  YW  HM  YW  YW  HM  HM  HM  
+YW  HM  YW  YW  YW  HM  HM  YW  YW  HM  
+HM  YW  HM  HM  HM  MW  YW  HM  MW  HM  
+YW  HM  HM  YW  YW  YW  HM  YW  HM  HM  
+YW  YW  YW  YW  HM  YW  HM  HM  HM  HM  
+HM  YW  YW  HM  HM  HM  HM  HM  HM  HM  
+YW  HM  YW  YW  MW  YW  HM  YW  YW  HM  
+HM  HM  HM  HM  HM  HM  HM  MW  MW  HM  
+HM  HM  HM  HM  HM  HM  HM  HM  HM  HM  
+ Healthy,  Muscle Wilt,  Youth
+    60         5         35     
+Average cells in healthy muscle mode: 6.0
+Variance of cells in healthy muscle mode: 324.0
+
+This is for 0,0 cell condition is 3 this is last cure 1
+This is the 5 Iteration of NextCells
+C1, C2, C3, C4, C5, C6, C7, C8, C9, C10
+YW  YW  HM  YW  HM  HM  HM  MW  HM  HM  
+HM  YW  YW  YW  YW  YW  YW  HM  HM  MW  
+YW  MW  HM  HM  YW  YW  HM  YW  YW  HM  
+HM  YW  HM  YW  HM  HM  YW  HM  HM  HM  
+YW  HM  HM  HM  YW  YW  YW  YW  HM  HM  
+YW  YW  YW  HM  HM  HM  MW  HM  HM  HM  
+HM  HM  HM  MW  HM  MW  HM  YW  HM  HM  
+HM  HM  YW  YW  HM  YW  HM  YW  YW  HM  
+HM  HM  HM  HM  HM  MW  MW  HM  HM  HM  
+MW  HM  HM  HM  HM  HM  HM  HM  MW  HM  
+ Healthy,  Muscle Wilt,  Youth
+    59         10         31     
+Average cells in healthy muscle mode: 5.9
+Variance of cells in healthy muscle mode: 313.29
+
+This is for 0,0 cell condition is 3 this is last cure 1
+This is the 6 Iteration of NextCells
+C1, C2, C3, C4, C5, C6, C7, C8, C9, C10
+YW  YW  YW  YW  HM  YW  HM  HM  HM  HM  
+HM  MW  HM  YW  YW  HM  YW  HM  MW  HM  
+YW  HM  YW  YW  YW  HM  HM  YW  YW  HM  
+MW  YW  HM  YW  HM  MW  YW  MW  HM  MW  
+YW  HM  MW  HM  HM  YW  YW  YW  HM  HM  
+YW  YW  YW  HM  HM  HM  MW  HM  MW  HM  
+HM  MW  MW  HM  HM  HM  YW  HM  MW  HM  
+HM  MW  YW  YW  YW  HM  HM  MW  YW  HM  
+HM  MW  HM  HM  HM  HM  MW  HM  HM  MW  
+MW  HM  HM  MW  HM  HM  HM  HM  MW  HM  
+ Healthy,  Muscle Wilt,  Youth
+    51         20         29     
+Average cells in healthy muscle mode: 5.1
+Variance of cells in healthy muscle mode: 234.09000000000003
+
+This is for 0,0 cell condition is 1 this is last cure 1
+This is the 7 Iteration of NextCells
+C1, C2, C3, C4, C5, C6, C7, C8, C9, C10
+HM  HM  HM  YW  HM  YW  HM  HM  MW  MW  
+HM  YW  HM  YW  YW  YW  HM  YW  YW  HM  
+YW  HM  MW  YW  YW  HM  YW  YW  YW  HM  
+HM  HM  MW  YW  HM  HM  HM  YW  HM  MW  
+HM  MW  YW  HM  YW  YW  YW  HM  HM  HM  
+YW  HM  YW  HM  HM  HM  YW  HM  HM  MW  
+HM  HM  HM  HM  YW  HM  MW  HM  HM  HM  
+HM  HM  HM  YW  HM  YW  HM  HM  YW  MW  
+HM  HM  HM  HM  HM  HM  HM  HM  HM  HM  
+HM  HM  HM  HM  HM  MW  HM  MW  HM  HM  
+ Healthy,  Muscle Wilt,  Youth
+    62         11         27     
+Average cells in healthy muscle mode: 6.2
+Variance of cells in healthy muscle mode: 345.96
+
+This is for 0,0 cell condition is 3 this is last cure 1
+This is the 8 Iteration of NextCells
+C1, C2, C3, C4, C5, C6, C7, C8, C9, C10
+YW  YW  HM  YW  HM  YW  HM  HM  HM  HM  
+YW  HM  YW  HM  HM  YW  HM  HM  HM  HM  
+YW  YW  HM  YW  YW  HM  HM  YW  YW  HM  
+HM  YW  HM  YW  HM  HM  YW  HM  HM  HM  
+YW  HM  HM  YW  YW  YW  YW  HM  HM  HM  
+YW  YW  YW  YW  YW  YW  MW  HM  YW  MW  
+HM  YW  MW  HM  HM  HM  YW  HM  HM  HM  
+HM  YW  YW  YW  HM  YW  HM  YW  YW  MW  
+HM  HM  HM  HM  HM  MW  HM  MW  HM  HM  
+HM  HM  HM  HM  HM  HM  HM  HM  HM  HM  
+ Healthy,  Muscle Wilt,  Youth
+    58         6         36     
+Average cells in healthy muscle mode: 5.8
+Variance of cells in healthy muscle mode: 302.76
+
+This is for 0,0 cell condition is 3 this is last cure 1
+This is the 9 Iteration of NextCells
+C1, C2, C3, C4, C5, C6, C7, C8, C9, C10
+YW  YW  HM  YW  HM  HM  HM  HM  HM  HM  
+YW  YW  HM  YW  YW  YW  YW  HM  MW  HM  
+HM  HM  YW  HM  YW  HM  HM  YW  YW  MW  
+HM  YW  HM  HM  HM  HM  MW  HM  HM  HM  
+MW  HM  HM  MW  YW  YW  YW  MW  HM  HM  
+YW  YW  YW  HM  HM  YW  YW  YW  HM  HM  
+HM  HM  HM  HM  HM  HM  MW  YW  MW  HM  
+MW  HM  YW  YW  HM  YW  HM  YW  YW  HM  
+MW  HM  HM  HM  HM  MW  HM  MW  HM  HM  
+HM  HM  HM  HM  HM  HM  HM  HM  HM  HM  
+ Healthy,  Muscle Wilt,  Youth
+    59         12         29     
+Average cells in healthy muscle mode: 5.9
+Variance of cells in healthy muscle mode: 313.29
+
+This is for 0,0 cell condition is 3 this is last cure 1
+This is the 10 Iteration of NextCells
+C1, C2, C3, C4, C5, C6, C7, C8, C9, C10
+YW  YW  YW  YW  HM  YW  HM  HM  MW  HM  
+HM  HM  YW  YW  YW  YW  YW  HM  HM  HM  
+YW  HM  YW  YW  YW  HM  MW  YW  YW  MW  
+HM  YW  HM  YW  HM  HM  YW  HM  YW  HM  
+YW  HM  HM  YW  YW  YW  YW  HM  MW  HM  
+YW  HM  YW  HM  MW  YW  HM  YW  HM  HM  
+HM  HM  HM  HM  HM  HM  HM  HM  MW  HM  
+HM  HM  YW  YW  HM  YW  HM  YW  YW  MW  
+HM  HM  HM  HM  MW  HM  HM  HM  MW  HM  
+HM  HM  HM  HM  HM  HM  HM  HM  HM  HM  
+ Healthy,  Muscle Wilt,  Youth
+    57         9         34     
+Average cells in healthy muscle mode: 5.7
+Variance of cells in healthy muscle mode: 292.40999999999997
+
