@@ -1,0 +1,15 @@
+﻿  OpenGL-Prob3.cpp
+C:\Users\TD\source\repos\OpenGL-Prob3\OpenGL-Prob3\OpenGL-Prob3.cpp(333,9): warning C4101: 'i': unreferenced local variable
+C:\Users\TD\source\repos\OpenGL-Prob3\OpenGL-Prob3\OpenGL-Prob3.cpp(495,11): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\TD\source\repos\OpenGL-Prob3\OpenGL-Prob3\OpenGL-Prob3.cpp(497,12): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\TD\source\repos\OpenGL-Prob3\OpenGL-Prob3\OpenGL-Prob3.cpp(503,12): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\TD\source\repos\OpenGL-Prob3\OpenGL-Prob3\OpenGL-Prob3.cpp(528,10): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\TD\source\repos\OpenGL-Prob3\OpenGL-Prob3\OpenGL-Prob3.cpp(530,11): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\TD\source\repos\OpenGL-Prob3\OpenGL-Prob3\OpenGL-Prob3.cpp(532,11): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\TD\source\repos\OpenGL-Prob3\OpenGL-Prob3\OpenGL-Prob3.cpp(580,10): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\TD\source\repos\OpenGL-Prob3\OpenGL-Prob3\OpenGL-Prob3.cpp(582,11): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\TD\source\repos\OpenGL-Prob3\OpenGL-Prob3\OpenGL-Prob3.cpp(584,11): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\TD\source\repos\OpenGL-Prob3\OpenGL-Prob3\OpenGL-Prob3.cpp(595,11): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\TD\source\repos\OpenGL-Prob3\OpenGL-Prob3\OpenGL-Prob3.cpp(599,12): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\TD\source\repos\OpenGL-Prob3\OpenGL-Prob3\OpenGL-Prob3.cpp(602,12): warning C4305: '-=': truncation from 'double' to 'float'
+  OpenGL-Prob3.vcxproj -> C:\Users\TD\source\repos\OpenGL-Prob3\Debug\OpenGL-Prob3.exe

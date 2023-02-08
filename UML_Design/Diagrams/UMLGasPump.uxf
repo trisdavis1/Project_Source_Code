@@ -1,0 +1,857 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="14.3.0">
+  <zoom_level>7</zoom_level>
+  <element>
+    <id>UMLActor</id>
+    <coordinates>
+      <x>168</x>
+      <y>336</y>
+      <w>56</w>
+      <h>77</h>
+    </coordinates>
+    <panel_attributes>Customer</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>112</x>
+      <y>28</y>
+      <w>105</w>
+      <h>49</h>
+    </coordinates>
+    <panel_attributes>Use case 1
+GAS PUMP</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLNote</id>
+    <coordinates>
+      <x>105</x>
+      <y>406</y>
+      <w>133</w>
+      <h>56</h>
+    </coordinates>
+    <panel_attributes>Note..
+bg=blue
+Screen interface asking
+the user "pay inside/pay here
+and car wash</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>343</x>
+      <y>266</y>
+      <w>84</w>
+      <h>28</h>
+    </coordinates>
+    <panel_attributes>pay inside</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>301</x>
+      <y>343</y>
+      <w>84</w>
+      <h>28</h>
+    </coordinates>
+    <panel_attributes>pay here</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>224</x>
+      <y>280</y>
+      <w>133</w>
+      <h>84</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>10.0;100.0;170.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>469</x>
+      <y>301</y>
+      <w>84</w>
+      <h>35</h>
+    </coordinates>
+    <panel_attributes>insert card
+into system</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLActor</id>
+    <coordinates>
+      <x>588</x>
+      <y>0</y>
+      <w>84</w>
+      <h>77</h>
+    </coordinates>
+    <panel_attributes>Store Attendant</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>231</x>
+      <y>350</y>
+      <w>84</w>
+      <h>35</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>10.0;30.0;100.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>532</x>
+      <y>203</y>
+      <w>133</w>
+      <h>63</h>
+    </coordinates>
+    <panel_attributes>confirm it is before 10pm</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>420</x>
+      <y>238</y>
+      <w>126</w>
+      <h>56</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.
+&lt;&lt;include&gt;&gt;</panel_attributes>
+    <additional_attributes>160.0;10.0;10.0;60.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>721</x>
+      <y>154</y>
+      <w>154</w>
+      <h>28</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>10.0;20.0;200.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>728</x>
+      <y>119</y>
+      <w>133</w>
+      <h>112</h>
+    </coordinates>
+    <panel_attributes>notify store attendant
+if after 10pm
+
+Extension points:
+release gas pump
+require "prepay"</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>658</x>
+      <y>175</y>
+      <w>84</w>
+      <h>63</h>
+    </coordinates>
+    <panel_attributes>lt=.&gt;
+&lt;&lt;extends&gt;&gt;</panel_attributes>
+    <additional_attributes>100.0;10.0;10.0;70.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>658</x>
+      <y>63</y>
+      <w>105</w>
+      <h>84</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;10.0;130.0;100.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>476</x>
+      <y>84</y>
+      <w>84</w>
+      <h>28</h>
+    </coordinates>
+    <panel_attributes>prepay</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>546</x>
+      <y>63</y>
+      <w>63</w>
+      <h>42</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>70.0;10.0;10.0;40.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>336</x>
+      <y>35</y>
+      <w>91</w>
+      <h>35</h>
+    </coordinates>
+    <panel_attributes>send amount
+prepaid</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>420</x>
+      <y>56</y>
+      <w>77</w>
+      <h>49</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.
+&lt;&lt;include&gt;&gt;</panel_attributes>
+    <additional_attributes>10.0;10.0;90.0;50.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>532</x>
+      <y>259</y>
+      <w>56</w>
+      <h>238</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>15.0;320.0;60.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>189</x>
+      <y>175</y>
+      <w>154</w>
+      <h>112</h>
+    </coordinates>
+    <panel_attributes>monitor flow if amount 
+reached
+shutdown pump
+
+extension point:
+cost of gas pumped
+= 
+prepaid</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>658</x>
+      <y>252</y>
+      <w>140</w>
+      <h>77</h>
+    </coordinates>
+    <panel_attributes>Validate user input
+credit/debit
+and 
+Account/Balance</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>546</x>
+      <y>294</y>
+      <w>126</w>
+      <h>42</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.
+&lt;&lt;include&gt;&gt;</panel_attributes>
+    <additional_attributes>160.0;10.0;10.0;40.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>791</x>
+      <y>322</y>
+      <w>189</w>
+      <h>91</h>
+    </coordinates>
+    <panel_attributes>if account is not valid
+Notify user of invalid 
+
+Extension point:
+Does user have a
+valid account </panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>784</x>
+      <y>350</y>
+      <w>210</w>
+      <h>28</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>10.0;20.0;280.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>791</x>
+      <y>294</y>
+      <w>77</w>
+      <h>42</h>
+    </coordinates>
+    <panel_attributes>lt=.&gt;
+&lt;&lt;extends&gt;&gt;</panel_attributes>
+    <additional_attributes>87.0;40.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>497</x>
+      <y>371</y>
+      <w>308</w>
+      <h>28</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>18.0;15.0;420.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>406</x>
+      <y>364</y>
+      <w>105</w>
+      <h>42</h>
+    </coordinates>
+    <panel_attributes>Return Card
+End Process</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLNote</id>
+    <coordinates>
+      <x>385</x>
+      <y>406</y>
+      <w>119</w>
+      <h>56</h>
+    </coordinates>
+    <panel_attributes>Note..
+screen interface telling
+customer invalid  
+account # and balance
+bg=blue</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>630</x>
+      <y>434</y>
+      <w>189</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>Notify insufficient funds 
+and return card
+
+Extension point:
+request&gt;balance</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>623</x>
+      <y>455</y>
+      <w>210</w>
+      <h>28</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>10.0;20.0;280.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>672</x>
+      <y>322</y>
+      <w>84</w>
+      <h>126</h>
+    </coordinates>
+    <panel_attributes>lt=.&gt;
+&lt;&lt;extends&gt;&gt;</panel_attributes>
+    <additional_attributes>10.0;160.0;60.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>497</x>
+      <y>392</y>
+      <w>147</w>
+      <h>84</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;10.0;190.0;100.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>455</x>
+      <y>483</y>
+      <w>140</w>
+      <h>56</h>
+    </coordinates>
+    <panel_attributes>Select fuel and 
+activate pump mechanism</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>567</x>
+      <y>308</y>
+      <w>119</w>
+      <h>196</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;260.0;150.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>721</x>
+      <y>574</y>
+      <w>161</w>
+      <h>91</h>
+    </coordinates>
+    <panel_attributes>Monitor flow and 
+Advise customer of charges
+to account
+
+Extension point: 
+balance below min</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>714</x>
+      <y>609</y>
+      <w>182</w>
+      <h>28</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>10.0;20.0;240.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>588</x>
+      <y>518</y>
+      <w>147</w>
+      <h>105</h>
+    </coordinates>
+    <panel_attributes>lt=.&gt;
+&lt;&lt;extends&gt;&gt;</panel_attributes>
+    <additional_attributes>190.0;130.0;10.0;11.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>525</x>
+      <y>686</y>
+      <w>119</w>
+      <h>49</h>
+    </coordinates>
+    <panel_attributes>Print Reciept
+Lock pump
+Process Ends</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>623</x>
+      <y>623</y>
+      <w>112</w>
+      <h>84</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;100.0;140.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLNote</id>
+    <coordinates>
+      <x>637</x>
+      <y>721</y>
+      <w>98</w>
+      <h>56</h>
+    </coordinates>
+    <panel_attributes>Note..
+interface here to print
+the reciept and lock
+the pump
+bg=blue</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>259</x>
+      <y>567</y>
+      <w>182</w>
+      <h>28</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>10.0;20.0;240.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>378</x>
+      <y>518</y>
+      <w>98</w>
+      <h>35</h>
+    </coordinates>
+    <panel_attributes>lt=.&gt;
+&lt;&lt;extends&gt;&gt;</panel_attributes>
+    <additional_attributes>10.0;30.0;120.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>266</x>
+      <y>532</y>
+      <w>161</w>
+      <h>91</h>
+    </coordinates>
+    <panel_attributes>if "pay inside"
+Monitor flow and 
+send charges inside
+
+Extension point: 
+balance below min</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>462</x>
+      <y>602</y>
+      <w>84</w>
+      <h>42</h>
+    </coordinates>
+    <panel_attributes>Lock pump
+Process Ends</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>406</x>
+      <y>595</y>
+      <w>70</w>
+      <h>42</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>80.0;40.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLNote</id>
+    <coordinates>
+      <x>546</x>
+      <y>588</y>
+      <w>112</w>
+      <h>56</h>
+    </coordinates>
+    <panel_attributes>Note..
+interface to recieve 
+charges and tells 
+attendant to lock pump 
+bg=blue</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>406</x>
+      <y>182</y>
+      <w>91</w>
+      <h>42</h>
+    </coordinates>
+    <panel_attributes>Lock pump
+End process</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>182</x>
+      <y>217</y>
+      <w>175</w>
+      <h>28</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>10.0;20.0;230.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>301</x>
+      <y>140</y>
+      <w>63</w>
+      <h>56</h>
+    </coordinates>
+    <panel_attributes>lt=.&gt;
+&lt;&lt;extends&gt;&gt;</panel_attributes>
+    <additional_attributes>10.0;60.0;70.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>378</x>
+      <y>315</y>
+      <w>105</w>
+      <h>49</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.
+&lt;&lt;include&gt;&gt;</panel_attributes>
+    <additional_attributes>130.0;10.0;10.0;50.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>336</x>
+      <y>196</y>
+      <w>84</w>
+      <h>35</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>100.0;10.0;10.0;30.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLNote</id>
+    <coordinates>
+      <x>448</x>
+      <y>133</y>
+      <w>84</w>
+      <h>49</h>
+    </coordinates>
+    <panel_attributes>Note..
+interface to lock
+pump if amount 
+reached
+bg=blue</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>315</x>
+      <y>105</y>
+      <w>119</w>
+      <h>42</h>
+    </coordinates>
+    <panel_attributes>release gas pump</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>364</x>
+      <y>63</y>
+      <w>35</w>
+      <h>56</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;60.0;30.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>273</x>
+      <y>441</y>
+      <w>84</w>
+      <h>28</h>
+    </coordinates>
+    <panel_attributes>Car Wash</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>231</x>
+      <y>392</y>
+      <w>98</w>
+      <h>63</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>10.0;10.0;120.0;70.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>140</x>
+      <y>518</y>
+      <w>112</w>
+      <h>42</h>
+    </coordinates>
+    <panel_attributes>Determine car wash
+type
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>203</x>
+      <y>462</y>
+      <w>105</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.
+&lt;&lt;include&gt;&gt;</panel_attributes>
+    <additional_attributes>15.0;80.0;130.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>217</x>
+      <y>644</y>
+      <w>161</w>
+      <h>98</h>
+    </coordinates>
+    <panel_attributes>if car spectacular
+Notify wash unit and user 
+of 4 digit odd number
+
+Extension point:
+give user 4 digit number
+add cost to charges</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>210</x>
+      <y>679</y>
+      <w>182</w>
+      <h>28</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>10.0;20.0;240.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>196</x>
+      <y>553</y>
+      <w>91</w>
+      <h>112</h>
+    </coordinates>
+    <panel_attributes>lt=.&gt;
+&lt;&lt;extends&gt;&gt;</panel_attributes>
+    <additional_attributes>80.0;140.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>7</x>
+      <y>644</y>
+      <w>161</w>
+      <h>98</h>
+    </coordinates>
+    <panel_attributes>if car clean
+Notify wash unit and user 
+of 4 digit even number
+
+Extension point:
+give user 4 digit number
+add cost to charges</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>0</x>
+      <y>679</y>
+      <w>182</w>
+      <h>28</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>10.0;20.0;240.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>105</x>
+      <y>546</y>
+      <w>91</w>
+      <h>112</h>
+    </coordinates>
+    <panel_attributes>lt=.&gt;
+&lt;&lt;extends&gt;&gt;</panel_attributes>
+    <additional_attributes>10.0;140.0;80.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>154</x>
+      <y>770</y>
+      <w>91</w>
+      <h>42</h>
+    </coordinates>
+    <panel_attributes>Wash car
+End process</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>112</x>
+      <y>728</y>
+      <w>77</w>
+      <h>56</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>90.0;60.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>203</x>
+      <y>721</y>
+      <w>49</w>
+      <h>63</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;70.0;50.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLNote</id>
+    <coordinates>
+      <x>175</x>
+      <y>812</y>
+      <w>98</w>
+      <h>49</h>
+    </coordinates>
+    <panel_attributes>Note..
+interface determines
+car wash type
+bg=blue</panel_attributes>
+    <additional_attributes/>
+  </element>
+</diagram>

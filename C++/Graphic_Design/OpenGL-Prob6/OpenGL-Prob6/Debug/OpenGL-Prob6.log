@@ -1,0 +1,17 @@
+﻿  DiscoPolySource.cpp
+C:\Users\TD\source\repos\OpenGL-Prob6\OpenGL-Prob6\DiscoPolySource.cpp(22,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\TD\source\repos\OpenGL-Prob6\OpenGL-Prob6\DiscoPolySource.cpp(23,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\TD\source\repos\OpenGL-Prob6\OpenGL-Prob6\DiscoPolySource.cpp(156,36): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\TD\source\repos\OpenGL-Prob6\OpenGL-Prob6\DiscoPolySource.cpp(189,44): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\TD\source\repos\OpenGL-Prob6\OpenGL-Prob6\DiscoPolySource.cpp(202,44): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\TD\source\repos\OpenGL-Prob6\OpenGL-Prob6\DiscoPolySource.cpp(214,44): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\TD\source\repos\OpenGL-Prob6\OpenGL-Prob6\DiscoPolySource.cpp(226,44): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\TD\source\repos\OpenGL-Prob6\OpenGL-Prob6\DiscoPolySource.cpp(236,44): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\TD\source\repos\OpenGL-Prob6\OpenGL-Prob6\DiscoPolySource.cpp(246,44): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\TD\source\repos\OpenGL-Prob6\OpenGL-Prob6\DiscoPolySource.cpp(251,51): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\TD\source\repos\OpenGL-Prob6\OpenGL-Prob6\DiscoPolySource.cpp(255,52): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\TD\source\repos\OpenGL-Prob6\OpenGL-Prob6\DiscoPolySource.cpp(370,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\TD\source\repos\OpenGL-Prob6\OpenGL-Prob6\DiscoPolySource.cpp(455,20): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\TD\source\repos\OpenGL-Prob6\OpenGL-Prob6\DiscoPolySource.cpp(493,19): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\TD\source\repos\OpenGL-Prob6\OpenGL-Prob6\DiscoPolySource.cpp(507,19): warning C4305: '-=': truncation from 'double' to 'float'
+  OpenGL-Prob6.vcxproj -> C:\Users\TD\source\repos\OpenGL-Prob6\Debug\OpenGL-Prob6.exe

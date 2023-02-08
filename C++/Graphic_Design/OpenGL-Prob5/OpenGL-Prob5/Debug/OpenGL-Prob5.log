@@ -1,0 +1,21 @@
+﻿  Prob5Source.cpp
+C:\Users\TD\source\repos\OpenGL-Prob5\OpenGL-Prob5\Prob5Source.cpp(37,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\TD\source\repos\OpenGL-Prob5\OpenGL-Prob5\Prob5Source.cpp(215,47): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\TD\source\repos\OpenGL-Prob5\OpenGL-Prob5\Prob5Source.cpp(219,48): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\TD\source\repos\OpenGL-Prob5\OpenGL-Prob5\Prob5Source.cpp(400,50): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\TD\source\repos\OpenGL-Prob5\OpenGL-Prob5\Prob5Source.cpp(404,51): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\TD\source\repos\OpenGL-Prob5\OpenGL-Prob5\Prob5Source.cpp(916,13): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\TD\source\repos\OpenGL-Prob5\OpenGL-Prob5\Prob5Source.cpp(917,14): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\TD\source\repos\OpenGL-Prob5\OpenGL-Prob5\Prob5Source.cpp(920,14): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\TD\source\repos\OpenGL-Prob5\OpenGL-Prob5\Prob5Source.cpp(923,15): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\TD\source\repos\OpenGL-Prob5\OpenGL-Prob5\Prob5Source.cpp(953,12): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\TD\source\repos\OpenGL-Prob5\OpenGL-Prob5\Prob5Source.cpp(955,13): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\TD\source\repos\OpenGL-Prob5\OpenGL-Prob5\Prob5Source.cpp(986,12): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\TD\source\repos\OpenGL-Prob5\OpenGL-Prob5\Prob5Source.cpp(988,13): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\TD\source\repos\OpenGL-Prob5\OpenGL-Prob5\Prob5Source.cpp(1000,15): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\TD\source\repos\OpenGL-Prob5\OpenGL-Prob5\Prob5Source.cpp(1001,16): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\TD\source\repos\OpenGL-Prob5\OpenGL-Prob5\Prob5Source.cpp(1033,14): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\TD\source\repos\OpenGL-Prob5\OpenGL-Prob5\Prob5Source.cpp(1036,15): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\TD\source\repos\OpenGL-Prob5\OpenGL-Prob5\Prob5Source.cpp(1039,14): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\TD\source\repos\OpenGL-Prob5\OpenGL-Prob5\Prob5Source.cpp(1042,15): warning C4305: '-=': truncation from 'double' to 'float'
+  OpenGL-Prob5.vcxproj -> C:\Users\TD\source\repos\OpenGL-Prob5\Debug\OpenGL-Prob5.exe

@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\TD\source\repos\MyFirstProject\MyFirstProject\Source.cpp(71,14): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\TD\source\repos\MyFirstProject\MyFirstProject\Source.cpp(72,14): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\TD\source\repos\MyFirstProject\MyFirstProject\Source.cpp(80,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\TD\source\repos\MyFirstProject\MyFirstProject\Source.cpp(80,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\TD\source\repos\MyFirstProject\MyFirstProject\Source.cpp(81,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\TD\source\repos\MyFirstProject\MyFirstProject\Source.cpp(81,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\TD\source\repos\MyFirstProject\MyFirstProject\Source.cpp(89,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\TD\source\repos\MyFirstProject\MyFirstProject\Source.cpp(89,14): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  MyFirstProject.vcxproj -> C:\Users\TD\source\repos\MyFirstProject\Debug\MyFirstProject.exe
