@@ -1,0 +1,2661 @@
+The first patient has arrived at 24.889181261139626
+******************* THE TIME IS NOW ********************** 1017.6574151412054
+Bleeding patient enters server 1
+The next patient is a Heart. Patient is arriving at 1021.2954465607187
+*********************** The time is 1017.6574151412054*************************
+******************* THE TIME IS NOW ********************** 1021.2954465607187
+Bleeding patient enters server 2
+The next patient is a Bleeding. Patient is arriving at 1025.8320368909906
+*********************** The time is 1021.2954465607187*************************
+******************* THE TIME IS NOW ********************** 1023.3606459818062
+Bleeding patient has left server 2
+*********************** The time is 1023.3606459818062*************************
+******************* THE TIME IS NOW ********************** 1025.2367023611637
+Heart patient has left server 1. Number in Queue: 0
+*********************** The time is 1025.2367023611637*************************
+******************* THE TIME IS NOW ********************** 1025.8320368909906
+Bleeding patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 1029.461850856561
+*********************** The time is 1025.8320368909906*************************
+******************* THE TIME IS NOW ********************** 1027.4059637814107
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 1027.4059637814107*************************
+******************* THE TIME IS NOW ********************** 1029.461850856561
+Bleeding patient enters server 1
+The next patient is a Gastro. Patient is arriving at 1033.837615988062
+*********************** The time is 1029.461850856561*************************
+******************* THE TIME IS NOW ********************** 1032.801257731621
+Gastro patient has left server 1. Number in Queue: 0
+*********************** The time is 1032.801257731621*************************
+******************* THE TIME IS NOW ********************** 1033.837615988062
+Bleeding patient enters server 1
+The next patient is a Heart. Patient is arriving at 1037.4473648753858
+*********************** The time is 1033.837615988062*************************
+******************* THE TIME IS NOW ********************** 1037.4473648753858
+Heart patient enters server 2
+The next patient is a Bleeding. Patient is arriving at 1044.2421631377974
+*********************** The time is 1037.4473648753858*************************
+******************* THE TIME IS NOW ********************** 1041.7278081523123
+Heart patient has left server 1. Number in Queue: 0
+*********************** The time is 1041.7278081523123*************************
+******************* THE TIME IS NOW ********************** 1044.2421631377974
+Heart patient enters server 1
+The next patient is a Heart. Patient is arriving at 1053.3767300373274
+*********************** The time is 1044.2421631377974*************************
+******************* THE TIME IS NOW ********************** 1046.5546491910634
+Heart patient has left server 1. Number in Queue: 0
+*********************** The time is 1046.5546491910634*************************
+******************* THE TIME IS NOW ********************** 1053.3767300373274
+Bleeding patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 1069.1388332688512
+*********************** The time is 1053.3767300373274*************************
+******************* THE TIME IS NOW ********************** 1053.9411816542843
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 1053.9411816542843*************************
+******************* THE TIME IS NOW ********************** 1061.6964281225964
+Bleeding patient has left server 2
+*********************** The time is 1061.6964281225964*************************
+******************* THE TIME IS NOW ********************** 1069.1388332688512
+Heart patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 1071.2976443008658
+*********************** The time is 1069.1388332688512*************************
+******************* THE TIME IS NOW ********************** 1071.2976443008658
+Bleeding patient enters server 2
+The next patient is a Bleeding. Patient is arriving at 1100.5956101283361
+*********************** The time is 1071.2976443008658*************************
+******************* THE TIME IS NOW ********************** 1087.8782991391884
+Bleeding patient has left server 2
+*********************** The time is 1087.8782991391884*************************
+******************* THE TIME IS NOW ********************** 1090.51155013868
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 1090.51155013868*************************
+******************* THE TIME IS NOW ********************** 1100.5956101283361
+Heart patient enters server 1
+The next patient is a Heart. Patient is arriving at 1100.7292612610963
+*********************** The time is 1100.5956101283361*************************
+******************* THE TIME IS NOW ********************** 1100.7292612610963
+Gastro patient enters server 2
+The next patient is a Bleeding. Patient is arriving at 1138.5035613577656
+*********************** The time is 1100.7292612610963*************************
+******************* THE TIME IS NOW ********************** 1116.0739216469317
+Heart patient has left server 1. Number in Queue: 0
+*********************** The time is 1116.0739216469317*************************
+******************* THE TIME IS NOW ********************** 1126.9281556698734
+Bleeding patient has left server 2
+*********************** The time is 1126.9281556698734*************************
+******************* THE TIME IS NOW ********************** 1138.5035613577656
+Bleeding patient enters server 1
+The next patient is a Gastro. Patient is arriving at 1143.286618065219
+*********************** The time is 1138.5035613577656*************************
+******************* THE TIME IS NOW ********************** 1141.460308924619
+Gastro patient has left server 1. Number in Queue: 0
+*********************** The time is 1141.460308924619*************************
+******************* THE TIME IS NOW ********************** 1143.286618065219
+Heart patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 1158.6268559013074
+*********************** The time is 1143.286618065219*************************
+******************* THE TIME IS NOW ********************** 1158.6268559013074
+Gastro patient enters server 2
+The next patient is a Gastro. Patient is arriving at 1165.602673482931
+*********************** The time is 1158.6268559013074*************************
+******************* THE TIME IS NOW ********************** 1165.602673482931
+Heart patient has entered the line...
+The next patient is a Bleeding. Patient is arriving at 1175.0655763312127
+*********************** The time is 1165.602673482931*************************
+******************* THE TIME IS NOW ********************** 1175.0655763312127
+Gastro patient has entered the line...
+The next patient is a Bleeding. Patient is arriving at 1181.5698352440263
+*********************** The time is 1175.0655763312127*************************
+******************* THE TIME IS NOW ********************** 1176.0639931430674
+Heart patient has left server 2
+*********************** The time is 1176.0639931430674*************************
+******************* THE TIME IS NOW ********************** 1176.0739931430674
+Heart patient has entered service bay 2 from the line
+*********************** The time is 1176.0739931430674*************************
+******************* THE TIME IS NOW ********************** 1176.7394891935573
+Heart patient has left server 1. Number in Queue: 1
+*********************** The time is 1176.7394891935573*************************
+******************* THE TIME IS NOW ********************** 1176.7494891935573
+The first Gastro patient in line has entered server 1
+*********************** The time is 1176.7494891935573*************************
+******************* THE TIME IS NOW ********************** 1181.5698352440263
+Bleeding patient has entered the line...
+The next patient is a Bleeding. Patient is arriving at 1186.9792890098981
+*********************** The time is 1181.5698352440263*************************
+******************* THE TIME IS NOW ********************** 1186.9792890098981
+Bleeding patient has entered the line...
+The next patient is a Bleeding. Patient is arriving at 1192.6894381560958
+*********************** The time is 1186.9792890098981*************************
+******************* THE TIME IS NOW ********************** 1192.6894381560958
+Bleeding patient has entered the line...
+The next patient is a Bleeding. Patient is arriving at 1194.178957369755
+*********************** The time is 1192.6894381560958*************************
+******************* THE TIME IS NOW ********************** 1194.178957369755
+Gastro patient has entered the line...
+The next patient is a Bleeding. Patient is arriving at 1217.587906272928
+*********************** The time is 1194.178957369755*************************
+******************* THE TIME IS NOW ********************** 1204.736074564473
+Gastro patient has left server 1. Number in Queue: 4
+*********************** The time is 1204.736074564473*************************
+******************* THE TIME IS NOW ********************** 1204.746074564473
+The first Bleeding patient in line has entered server 1
+*********************** The time is 1204.746074564473*************************
+******************* THE TIME IS NOW ********************** 1213.7296809895379
+Heart patient has left server 1. Number in Queue: 3
+*********************** The time is 1213.7296809895379*************************
+******************* THE TIME IS NOW ********************** 1213.7396809895379
+The first Bleeding patient in line has entered server 1
+*********************** The time is 1213.7396809895379*************************
+******************* THE TIME IS NOW ********************** 1215.0858527474993
+Heart patient has left server 1. Number in Queue: 2
+*********************** The time is 1215.0858527474993*************************
+******************* THE TIME IS NOW ********************** 1215.0958527474993
+The first Bleeding patient in line has entered server 1
+*********************** The time is 1215.0958527474993*************************
+******************* THE TIME IS NOW ********************** 1217.587906272928
+Heart patient has entered the line...
+The next patient is a Bleeding. Patient is arriving at 1221.6331771815373
+*********************** The time is 1217.587906272928*************************
+******************* THE TIME IS NOW ********************** 1221.6331771815373
+Bleeding patient has entered the line...
+The next patient is a Bleeding. Patient is arriving at 1230.7031578726217
+*********************** The time is 1221.6331771815373*************************
+******************* THE TIME IS NOW ********************** 1230.7031578726217
+Bleeding patient has entered the line...
+The next patient is a Bleeding. Patient is arriving at 1238.890088874416
+*********************** The time is 1230.7031578726217*************************
+******************* THE TIME IS NOW ********************** 1234.5779074858576
+Bleeding patient has left server 1. Number in Queue: 4
+*********************** The time is 1234.5779074858576*************************
+******************* THE TIME IS NOW ********************** 1234.5879074858576
+The first Gastro patient in line has entered server 1
+*********************** The time is 1234.5879074858576*************************
+******************* THE TIME IS NOW ********************** 1238.2238210730975
+Bleeding patient has left server 2
+*********************** The time is 1238.2238210730975*************************
+******************* THE TIME IS NOW ********************** 1238.2338210730975
+Heart patient has entered service bay 2 from the line
+*********************** The time is 1238.2338210730975*************************
+******************* THE TIME IS NOW ********************** 1238.890088874416
+Gastro patient has entered the line...
+The next patient is a Bleeding. Patient is arriving at 1267.3281851845127
+*********************** The time is 1238.890088874416*************************
+******************* THE TIME IS NOW ********************** 1241.6213951155912
+Gastro patient has left server 1. Number in Queue: 3
+*********************** The time is 1241.6213951155912*************************
+******************* THE TIME IS NOW ********************** 1241.6313951155912
+The first Bleeding patient in line has entered server 1
+*********************** The time is 1241.6313951155912*************************
+******************* THE TIME IS NOW ********************** 1247.0884544303165
+Bleeding patient has left server 2
+*********************** The time is 1247.0884544303165*************************
+******************* THE TIME IS NOW ********************** 1247.0984544303165
+Bleeding patient has entered service bay 2 from the line
+*********************** The time is 1247.0984544303165*************************
+******************* THE TIME IS NOW ********************** 1252.385451271221
+Heart patient has left server 2
+*********************** The time is 1252.385451271221*************************
+******************* THE TIME IS NOW ********************** 1252.395451271221
+Gastro patient has entered service bay 2 from the line
+*********************** The time is 1252.395451271221*************************
+******************* THE TIME IS NOW ********************** 1253.9917603800743
+Heart patient has left server 1. Number in Queue: 0
+*********************** The time is 1253.9917603800743*************************
+******************* THE TIME IS NOW ********************** 1266.069340371731
+Gastro patient has left server 2
+*********************** The time is 1266.069340371731*************************
+******************* THE TIME IS NOW ********************** 1267.3281851845127
+Bleeding patient enters server 1
+The next patient is a Heart. Patient is arriving at 1282.5092384514342
+*********************** The time is 1267.3281851845127*************************
+******************* THE TIME IS NOW ********************** 1282.5092384514342
+Bleeding patient enters server 2
+The next patient is a Gastro. Patient is arriving at 1283.087520641988
+*********************** The time is 1282.5092384514342*************************
+******************* THE TIME IS NOW ********************** 1283.087520641988
+Gastro patient has entered the line...
+The next patient is a Bleeding. Patient is arriving at 1284.634266570828
+*********************** The time is 1283.087520641988*************************
+******************* THE TIME IS NOW ********************** 1283.9985574303312
+Bleeding patient has left server 2
+*********************** The time is 1283.9985574303312*************************
+******************* THE TIME IS NOW ********************** 1284.0085574303312
+Gastro patient has entered service bay 2 from the line
+*********************** The time is 1284.0085574303312*************************
+******************* THE TIME IS NOW ********************** 1284.634266570828
+Heart patient has entered the line...
+The next patient is a Bleeding. Patient is arriving at 1298.430725652736
+*********************** The time is 1284.634266570828*************************
+******************* THE TIME IS NOW ********************** 1291.338416800285
+Bleeding patient has left server 1. Number in Queue: 1
+*********************** The time is 1291.338416800285*************************
+******************* THE TIME IS NOW ********************** 1291.348416800285
+The first Heart patient in line has entered server 1
+*********************** The time is 1291.348416800285*************************
+******************* THE TIME IS NOW ********************** 1291.772149164476
+Gastro patient has left server 2
+*********************** The time is 1291.772149164476*************************
+******************* THE TIME IS NOW ********************** 1298.430725652736
+Heart patient enters server 2
+The next patient is a Bleeding. Patient is arriving at 1317.2570035639255
+*********************** The time is 1298.430725652736*************************
+******************* THE TIME IS NOW ********************** 1317.2570035639255
+Bleeding patient has entered the line...
+The next patient is a Bleeding. Patient is arriving at 1333.7460751598128
+*********************** The time is 1317.2570035639255*************************
+******************* THE TIME IS NOW ********************** 1319.494964306734
+Bleeding patient has left server 2
+*********************** The time is 1319.494964306734*************************
+******************* THE TIME IS NOW ********************** 1319.5049643067339
+Bleeding patient has entered service bay 2 from the line
+*********************** The time is 1319.5049643067339*************************
+******************* THE TIME IS NOW ********************** 1320.8071683149765
+Heart patient has left server 1. Number in Queue: 0
+*********************** The time is 1320.8071683149765*************************
+******************* THE TIME IS NOW ********************** 1329.8761299524615
+Bleeding patient has left server 2
+*********************** The time is 1329.8761299524615*************************
+******************* THE TIME IS NOW ********************** 1333.7460751598128
+Heart patient enters server 1
+The next patient is a Heart. Patient is arriving at 1379.6477421880859
+*********************** The time is 1333.7460751598128*************************
+******************* THE TIME IS NOW ********************** 1368.6263467925194
+Heart patient has left server 1. Number in Queue: 0
+*********************** The time is 1368.6263467925194*************************
+******************* THE TIME IS NOW ********************** 1379.6477421880859
+Bleeding patient enters server 1
+The next patient is a Heart. Patient is arriving at 1381.3146439569557
+*********************** The time is 1379.6477421880859*************************
+******************* THE TIME IS NOW ********************** 1381.3146439569557
+Bleeding patient enters server 2
+The next patient is a Bleeding. Patient is arriving at 1385.107924431884
+*********************** The time is 1381.3146439569557*************************
+******************* THE TIME IS NOW ********************** 1381.7857056584862
+Bleeding patient has left server 2
+*********************** The time is 1381.7857056584862*************************
+******************* THE TIME IS NOW ********************** 1382.7913871223311
+Heart patient has left server 1. Number in Queue: 0
+*********************** The time is 1382.7913871223311*************************
+******************* THE TIME IS NOW ********************** 1385.107924431884
+Heart patient enters server 1
+The next patient is a Heart. Patient is arriving at 1404.1297140218628
+*********************** The time is 1385.107924431884*************************
+******************* THE TIME IS NOW ********************** 1392.5760052291876
+Heart patient has left server 1. Number in Queue: 0
+*********************** The time is 1392.5760052291876*************************
+******************* THE TIME IS NOW ********************** 1404.1297140218628
+Bleeding patient enters server 1
+The next patient is a Gastro. Patient is arriving at 1449.350027159403
+*********************** The time is 1404.1297140218628*************************
+******************* THE TIME IS NOW ********************** 1418.6011842797477
+Gastro patient has left server 1. Number in Queue: 0
+*********************** The time is 1418.6011842797477*************************
+******************* THE TIME IS NOW ********************** 1449.350027159403
+Bleeding patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 1452.198530551178
+*********************** The time is 1449.350027159403*************************
+******************* THE TIME IS NOW ********************** 1452.198530551178
+Gastro patient enters server 2
+The next patient is a Bleeding. Patient is arriving at 1477.8506063541965
+*********************** The time is 1452.198530551178*************************
+******************* THE TIME IS NOW ********************** 1468.8600620421978
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 1468.8600620421978*************************
+******************* THE TIME IS NOW ********************** 1470.6928167409596
+Bleeding patient has left server 2
+*********************** The time is 1470.6928167409596*************************
+******************* THE TIME IS NOW ********************** 1477.8506063541965
+Bleeding patient enters server 1
+The next patient is a Gastro. Patient is arriving at 1488.3656695928967
+*********************** The time is 1477.8506063541965*************************
+******************* THE TIME IS NOW ********************** 1486.961628833639
+Gastro patient has left server 1. Number in Queue: 0
+*********************** The time is 1486.961628833639*************************
+******************* THE TIME IS NOW ********************** 1488.3656695928967
+Bleeding patient enters server 1
+The next patient is a Heart. Patient is arriving at 1507.9494929178773
+*********************** The time is 1488.3656695928967*************************
+******************* THE TIME IS NOW ********************** 1489.047273678956
+Heart patient has left server 1. Number in Queue: 0
+*********************** The time is 1489.047273678956*************************
+******************* THE TIME IS NOW ********************** 1507.9494929178773
+Heart patient enters server 1
+The next patient is a Heart. Patient is arriving at 1515.8703427011637
+*********************** The time is 1507.9494929178773*************************
+******************* THE TIME IS NOW ********************** 1515.8703427011637
+Bleeding patient enters server 2
+The next patient is a Bleeding. Patient is arriving at 1519.416313063797
+*********************** The time is 1515.8703427011637*************************
+******************* THE TIME IS NOW ********************** 1519.416313063797
+Bleeding patient has entered the line...
+The next patient is a Bleeding. Patient is arriving at 1550.6629366546429
+*********************** The time is 1519.416313063797*************************
+******************* THE TIME IS NOW ********************** 1520.6666725724288
+Bleeding patient has left server 1. Number in Queue: 1
+*********************** The time is 1520.6666725724288*************************
+******************* THE TIME IS NOW ********************** 1520.6766725724287
+The first Bleeding patient in line has entered server 1
+*********************** The time is 1520.6766725724287*************************
+******************* THE TIME IS NOW ********************** 1521.7238231400065
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 1521.7238231400065*************************
+******************* THE TIME IS NOW ********************** 1522.5405056171699
+Bleeding patient has left server 2
+*********************** The time is 1522.5405056171699*************************
+******************* THE TIME IS NOW ********************** 1550.6629366546429
+Bleeding patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 1566.648764872489
+*********************** The time is 1550.6629366546429*************************
+******************* THE TIME IS NOW ********************** 1553.8637795426143
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 1553.8637795426143*************************
+******************* THE TIME IS NOW ********************** 1566.648764872489
+Bleeding patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 1570.0081636806694
+*********************** The time is 1566.648764872489*************************
+******************* THE TIME IS NOW ********************** 1570.0081636806694
+Gastro patient enters server 2
+The next patient is a Heart. Patient is arriving at 1575.8444702763475
+*********************** The time is 1570.0081636806694*************************
+******************* THE TIME IS NOW ********************** 1575.8444702763475
+Bleeding patient has entered the line...
+The next patient is a Bleeding. Patient is arriving at 1586.1790052870983
+*********************** The time is 1575.8444702763475*************************
+******************* THE TIME IS NOW ********************** 1585.5159444449014
+Heart patient has left server 1. Number in Queue: 1
+*********************** The time is 1585.5159444449014*************************
+******************* THE TIME IS NOW ********************** 1585.5259444449014
+The first Bleeding patient in line has entered server 1
+*********************** The time is 1585.5259444449014*************************
+******************* THE TIME IS NOW ********************** 1586.1790052870983
+Heart patient has entered the line...
+The next patient is a Bleeding. Patient is arriving at 1589.893616182968
+*********************** The time is 1586.1790052870983*************************
+******************* THE TIME IS NOW ********************** 1588.3252111115426
+Gastro patient has left server 1. Number in Queue: 1
+*********************** The time is 1588.3252111115426*************************
+******************* THE TIME IS NOW ********************** 1588.3352111115425
+The first Heart patient in line has entered server 1
+*********************** The time is 1588.3352111115425*************************
+******************* THE TIME IS NOW ********************** 1589.893616182968
+Gastro patient has entered the line...
+The next patient is a Bleeding. Patient is arriving at 1630.268511349937
+*********************** The time is 1589.893616182968*************************
+******************* THE TIME IS NOW ********************** 1594.0862633729023
+Heart patient has left server 2
+*********************** The time is 1594.0862633729023*************************
+******************* THE TIME IS NOW ********************** 1594.0962633729023
+Gastro patient has entered service bay 2 from the line
+*********************** The time is 1594.0962633729023*************************
+******************* THE TIME IS NOW ********************** 1601.5651227421417
+Gastro patient has left server 2
+*********************** The time is 1601.5651227421417*************************
+******************* THE TIME IS NOW ********************** 1617.3457747302987
+Heart patient has left server 1. Number in Queue: 0
+*********************** The time is 1617.3457747302987*************************
+******************* THE TIME IS NOW ********************** 1630.268511349937
+Bleeding patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 1631.1222945822035
+*********************** The time is 1630.268511349937*************************
+******************* THE TIME IS NOW ********************** 1631.1222945822035
+Bleeding patient enters server 2
+The next patient is a Heart. Patient is arriving at 1637.4931825880747
+*********************** The time is 1631.1222945822035*************************
+******************* THE TIME IS NOW ********************** 1632.9100330811477
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 1632.9100330811477*************************
+******************* THE TIME IS NOW ********************** 1637.1419281811804
+Heart patient has left server 2
+*********************** The time is 1637.1419281811804*************************
+******************* THE TIME IS NOW ********************** 1637.4931825880747
+Gastro patient enters server 1
+The next patient is a Gastro. Patient is arriving at 1673.351187347847
+*********************** The time is 1637.4931825880747*************************
+******************* THE TIME IS NOW ********************** 1653.1158186253858
+Gastro patient has left server 1. Number in Queue: 0
+*********************** The time is 1653.1158186253858*************************
+******************* THE TIME IS NOW ********************** 1673.351187347847
+Heart patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 1687.2296273793818
+*********************** The time is 1673.351187347847*************************
+******************* THE TIME IS NOW ********************** 1675.1012595235372
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 1675.1012595235372*************************
+******************* THE TIME IS NOW ********************** 1687.2296273793818
+Bleeding patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 1701.8565156913207
+*********************** The time is 1687.2296273793818*************************
+******************* THE TIME IS NOW ********************** 1695.8785393674557
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 1695.8785393674557*************************
+******************* THE TIME IS NOW ********************** 1701.8565156913207
+Gastro patient enters server 1
+The next patient is a Gastro. Patient is arriving at 1742.083978911729
+*********************** The time is 1701.8565156913207*************************
+******************* THE TIME IS NOW ********************** 1716.1282468562495
+Gastro patient has left server 1. Number in Queue: 0
+*********************** The time is 1716.1282468562495*************************
+******************* THE TIME IS NOW ********************** 1742.083978911729
+Bleeding patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 1743.2632242287527
+*********************** The time is 1742.083978911729*************************
+******************* THE TIME IS NOW ********************** 1743.2632242287527
+Heart patient enters server 2
+The next patient is a Bleeding. Patient is arriving at 1755.1856576283747
+*********************** The time is 1743.2632242287527*************************
+******************* THE TIME IS NOW ********************** 1745.963374831209
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 1745.963374831209*************************
+******************* THE TIME IS NOW ********************** 1755.1856576283747
+Bleeding patient enters server 1
+The next patient is a Heart. Patient is arriving at 1765.2436248309828
+*********************** The time is 1755.1856576283747*************************
+******************* THE TIME IS NOW ********************** 1760.763281428721
+Bleeding patient has left server 2
+*********************** The time is 1760.763281428721*************************
+******************* THE TIME IS NOW ********************** 1765.2436248309828
+Bleeding patient enters server 2
+The next patient is a Bleeding. Patient is arriving at 1778.9486022664903
+*********************** The time is 1765.2436248309828*************************
+******************* THE TIME IS NOW ********************** 1771.0031117951557
+Heart patient has left server 1. Number in Queue: 0
+*********************** The time is 1771.0031117951557*************************
+******************* THE TIME IS NOW ********************** 1771.5867489150248
+Bleeding patient has left server 2
+*********************** The time is 1771.5867489150248*************************
+******************* THE TIME IS NOW ********************** 1778.9486022664903
+Bleeding patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 1785.049850853952
+*********************** The time is 1778.9486022664903*************************
+******************* THE TIME IS NOW ********************** 1782.3768868896047
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 1782.3768868896047*************************
+******************* THE TIME IS NOW ********************** 1785.049850853952
+Heart patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 1860.077523406438
+*********************** The time is 1785.049850853952*************************
+******************* THE TIME IS NOW ********************** 1785.8769238348664
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 1785.8769238348664*************************
+******************* THE TIME IS NOW ********************** 1860.077523406438
+Bleeding patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 1868.399610514491
+*********************** The time is 1860.077523406438*************************
+******************* THE TIME IS NOW ********************** 1860.5206170431977
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 1860.5206170431977*************************
+******************* THE TIME IS NOW ********************** 1868.399610514491
+Bleeding patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 1888.6488865743097
+*********************** The time is 1868.399610514491*************************
+******************* THE TIME IS NOW ********************** 1873.6549688207474
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 1873.6549688207474*************************
+******************* THE TIME IS NOW ********************** 1888.6488865743097
+Heart patient enters server 1
+The next patient is a Gastro. Patient is arriving at 1915.212002328061
+*********************** The time is 1888.6488865743097*************************
+******************* THE TIME IS NOW ********************** 1915.212002328061
+Bleeding patient enters server 2
+The next patient is a Bleeding. Patient is arriving at 1951.2501699135848
+*********************** The time is 1915.212002328061*************************
+******************* THE TIME IS NOW ********************** 1920.828161492148
+Bleeding patient has left server 2
+*********************** The time is 1920.828161492148*************************
+******************* THE TIME IS NOW ********************** 1937.3868963098312
+Gastro patient has left server 1. Number in Queue: 0
+*********************** The time is 1937.3868963098312*************************
+******************* THE TIME IS NOW ********************** 1951.2501699135848
+Heart patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 1965.847049594551
+*********************** The time is 1951.2501699135848*************************
+******************* THE TIME IS NOW ********************** 1961.6448444243144
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 1961.6448444243144*************************
+******************* THE TIME IS NOW ********************** 1965.847049594551
+Gastro patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 1970.6350827611182
+*********************** The time is 1965.847049594551*************************
+******************* THE TIME IS NOW ********************** 1970.6350827611182
+Bleeding patient enters server 2
+The next patient is a Bleeding. Patient is arriving at 1987.1857093957765
+*********************** The time is 1970.6350827611182*************************
+******************* THE TIME IS NOW ********************** 1976.2954673379206
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 1976.2954673379206*************************
+******************* THE TIME IS NOW ********************** 1976.3525088118365
+Bleeding patient has left server 2
+*********************** The time is 1976.3525088118365*************************
+******************* THE TIME IS NOW ********************** 1987.1857093957765
+Bleeding patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 1992.3368204175285
+*********************** The time is 1987.1857093957765*************************
+******************* THE TIME IS NOW ********************** 1992.3368204175285
+Bleeding patient enters server 2
+The next patient is a Bleeding. Patient is arriving at 2003.0159184705149
+*********************** The time is 1992.3368204175285*************************
+******************* THE TIME IS NOW ********************** 1992.4547430716086
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 1992.4547430716086*************************
+******************* THE TIME IS NOW ********************** 2002.2454146202504
+Bleeding patient has left server 2
+*********************** The time is 2002.2454146202504*************************
+******************* THE TIME IS NOW ********************** 2003.0159184705149
+Bleeding patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 2005.0319359553384
+*********************** The time is 2003.0159184705149*************************
+******************* THE TIME IS NOW ********************** 2005.0319359553384
+Gastro patient enters server 2
+The next patient is a Heart. Patient is arriving at 2019.1822036010396
+*********************** The time is 2005.0319359553384*************************
+******************* THE TIME IS NOW ********************** 2005.6998444280064
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 2005.6998444280064*************************
+******************* THE TIME IS NOW ********************** 2019.1822036010396
+Bleeding patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 2029.6157947621869
+*********************** The time is 2019.1822036010396*************************
+******************* THE TIME IS NOW ********************** 2019.5405884025877
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 2019.5405884025877*************************
+******************* THE TIME IS NOW ********************** 2027.557864503689
+Heart patient has left server 2
+*********************** The time is 2027.557864503689*************************
+******************* THE TIME IS NOW ********************** 2029.6157947621869
+Gastro patient enters server 1
+The next patient is a Heart. Patient is arriving at 2034.9110201003805
+*********************** The time is 2029.6157947621869*************************
+******************* THE TIME IS NOW ********************** 2034.9110201003805
+Heart patient enters server 2
+The next patient is a Bleeding. Patient is arriving at 2060.0151310048873
+*********************** The time is 2034.9110201003805*************************
+******************* THE TIME IS NOW ********************** 2036.8055206220947
+Heart patient has left server 1. Number in Queue: 0
+*********************** The time is 2036.8055206220947*************************
+******************* THE TIME IS NOW ********************** 2060.0151310048873
+Heart patient enters server 1
+The next patient is a Heart. Patient is arriving at 2071.670258135697
+*********************** The time is 2060.0151310048873*************************
+******************* THE TIME IS NOW ********************** 2062.419503605281
+Bleeding patient has left server 2
+*********************** The time is 2062.419503605281*************************
+******************* THE TIME IS NOW ********************** 2071.670258135697
+Gastro patient enters server 2
+The next patient is a Bleeding. Patient is arriving at 2079.5288194589734
+*********************** The time is 2071.670258135697*************************
+******************* THE TIME IS NOW ********************** 2075.793095678073
+Bleeding patient has left server 2
+*********************** The time is 2075.793095678073*************************
+******************* THE TIME IS NOW ********************** 2077.677874718726
+Heart patient has left server 1. Number in Queue: 0
+*********************** The time is 2077.677874718726*************************
+******************* THE TIME IS NOW ********************** 2079.5288194589734
+Bleeding patient enters server 1
+The next patient is a Heart. Patient is arriving at 2111.7494815916502
+*********************** The time is 2079.5288194589734*************************
+******************* THE TIME IS NOW ********************** 2091.82772277309
+Heart patient has left server 1. Number in Queue: 0
+*********************** The time is 2091.82772277309*************************
+******************* THE TIME IS NOW ********************** 2111.7494815916502
+Heart patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 2139.954405836611
+*********************** The time is 2111.7494815916502*************************
+******************* THE TIME IS NOW ********************** 2124.139037366017
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 2124.139037366017*************************
+******************* THE TIME IS NOW ********************** 2139.954405836611
+Bleeding patient enters server 1
+The next patient is a Heart. Patient is arriving at 2155.4727093919546
+*********************** The time is 2139.954405836611*************************
+******************* THE TIME IS NOW ********************** 2144.739995438791
+Heart patient has left server 1. Number in Queue: 0
+*********************** The time is 2144.739995438791*************************
+******************* THE TIME IS NOW ********************** 2155.4727093919546
+Gastro patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 2169.9878537083114
+*********************** The time is 2155.4727093919546*************************
+******************* THE TIME IS NOW ********************** 2169.9878537083114
+Bleeding patient enters server 2
+The next patient is a Gastro. Patient is arriving at 2184.6339883933792
+*********************** The time is 2169.9878537083114*************************
+******************* THE TIME IS NOW ********************** 2174.389706514223
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 2174.389706514223*************************
+******************* THE TIME IS NOW ********************** 2184.6339883933792
+Heart patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 2186.822581684612
+*********************** The time is 2184.6339883933792*************************
+******************* THE TIME IS NOW ********************** 2186.822581684612
+Heart patient has entered the line...
+The next patient is a Bleeding. Patient is arriving at 2192.9894897866097
+*********************** The time is 2186.822581684612*************************
+******************* THE TIME IS NOW ********************** 2187.5505798503436
+Heart patient has left server 2
+*********************** The time is 2187.5505798503436*************************
+******************* THE TIME IS NOW ********************** 2187.560579850344
+Heart patient has entered service bay 2 from the line
+*********************** The time is 2187.560579850344*************************
+******************* THE TIME IS NOW ********************** 2191.307493185091
+Heart patient has left server 2
+*********************** The time is 2191.307493185091*************************
+******************* THE TIME IS NOW ********************** 2192.9894897866097
+Bleeding patient enters server 2
+The next patient is a Bleeding. Patient is arriving at 2235.7705417512643
+*********************** The time is 2192.9894897866097*************************
+******************* THE TIME IS NOW ********************** 2202.149486602585
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 2202.149486602585*************************
+******************* THE TIME IS NOW ********************** 2206.9436138367264
+Bleeding patient has left server 2
+*********************** The time is 2206.9436138367264*************************
+******************* THE TIME IS NOW ********************** 2235.7705417512643
+Heart patient enters server 1
+The next patient is a Heart. Patient is arriving at 2259.4289615683524
+*********************** The time is 2235.7705417512643*************************
+******************* THE TIME IS NOW ********************** 2256.190172832223
+Heart patient has left server 1. Number in Queue: 0
+*********************** The time is 2256.190172832223*************************
+******************* THE TIME IS NOW ********************** 2259.4289615683524
+Gastro patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 2273.793609822773
+*********************** The time is 2259.4289615683524*************************
+******************* THE TIME IS NOW ********************** 2268.770453986241
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 2268.770453986241*************************
+******************* THE TIME IS NOW ********************** 2273.793609822773
+Heart patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 2274.732104830814
+*********************** The time is 2273.793609822773*************************
+******************* THE TIME IS NOW ********************** 2274.732104830814
+Heart patient enters server 2
+The next patient is a Bleeding. Patient is arriving at 2291.54353525952
+*********************** The time is 2274.732104830814*************************
+******************* THE TIME IS NOW ********************** 2276.245160877888
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 2276.245160877888*************************
+******************* THE TIME IS NOW ********************** 2281.5800876569556
+Bleeding patient has left server 2
+*********************** The time is 2281.5800876569556*************************
+******************* THE TIME IS NOW ********************** 2291.54353525952
+Heart patient enters server 1
+The next patient is a Heart. Patient is arriving at 2295.469650304792
+*********************** The time is 2291.54353525952*************************
+******************* THE TIME IS NOW ********************** 2295.469650304792
+Gastro patient enters server 2
+The next patient is a Bleeding. Patient is arriving at 2307.5513961879983
+*********************** The time is 2295.469650304792*************************
+******************* THE TIME IS NOW ********************** 2301.413283559414
+Heart patient has left server 1. Number in Queue: 0
+*********************** The time is 2301.413283559414*************************
+******************* THE TIME IS NOW ********************** 2307.5513961879983
+Bleeding patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 2307.7726647987456
+*********************** The time is 2307.5513961879983*************************
+******************* THE TIME IS NOW ********************** 2307.7726647987456
+Bleeding patient has entered the line...
+The next patient is a Bleeding. Patient is arriving at 2321.7869933086185
+*********************** The time is 2307.7726647987456*************************
+******************* THE TIME IS NOW ********************** 2314.489671895702
+Heart patient has left server 1. Number in Queue: 1
+*********************** The time is 2314.489671895702*************************
+******************* THE TIME IS NOW ********************** 2314.4996718957022
+The first Bleeding patient in line has entered server 1
+*********************** The time is 2314.4996718957022*************************
+******************* THE TIME IS NOW ********************** 2317.8733124600926
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 2317.8733124600926*************************
+******************* THE TIME IS NOW ********************** 2321.7869933086185
+Bleeding patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 2322.5626079327894
+*********************** The time is 2321.7869933086185*************************
+******************* THE TIME IS NOW ********************** 2322.5626079327894
+Heart patient has entered the line...
+The next patient is a Bleeding. Patient is arriving at 2336.650493178601
+*********************** The time is 2322.5626079327894*************************
+******************* THE TIME IS NOW ********************** 2324.409408721813
+Heart patient has left server 1. Number in Queue: 1
+*********************** The time is 2324.409408721813*************************
+******************* THE TIME IS NOW ********************** 2324.4194087218134
+The first Heart patient in line has entered server 1
+*********************** The time is 2324.4194087218134*************************
+******************* THE TIME IS NOW ********************** 2325.851283177476
+Bleeding patient has left server 2
+*********************** The time is 2325.851283177476*************************
+******************* THE TIME IS NOW ********************** 2329.2320688026025
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 2329.2320688026025*************************
+******************* THE TIME IS NOW ********************** 2336.650493178601
+Bleeding patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 2338.5426015096427
+*********************** The time is 2336.650493178601*************************
+******************* THE TIME IS NOW ********************** 2338.5426015096427
+Gastro patient enters server 2
+The next patient is a Bleeding. Patient is arriving at 2349.8707228417866
+*********************** The time is 2338.5426015096427*************************
+******************* THE TIME IS NOW ********************** 2338.9145243110947
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 2338.9145243110947*************************
+******************* THE TIME IS NOW ********************** 2342.9648344081033
+Bleeding patient has left server 2
+*********************** The time is 2342.9648344081033*************************
+******************* THE TIME IS NOW ********************** 2349.8707228417866
+Gastro patient enters server 1
+The next patient is a Gastro. Patient is arriving at 2361.6779327524923
+*********************** The time is 2349.8707228417866*************************
+******************* THE TIME IS NOW ********************** 2361.6779327524923
+Bleeding patient enters server 2
+The next patient is a Bleeding. Patient is arriving at 2372.170801543155
+*********************** The time is 2361.6779327524923*************************
+******************* THE TIME IS NOW ********************** 2363.798981126238
+Gastro patient has left server 1. Number in Queue: 0
+*********************** The time is 2363.798981126238*************************
+******************* THE TIME IS NOW ********************** 2369.664385863287
+Bleeding patient has left server 2
+*********************** The time is 2369.664385863287*************************
+******************* THE TIME IS NOW ********************** 2372.170801543155
+Heart patient enters server 1
+The next patient is a Gastro. Patient is arriving at 2397.747359303988
+*********************** The time is 2372.170801543155*************************
+******************* THE TIME IS NOW ********************** 2395.5642248509344
+Gastro patient has left server 1. Number in Queue: 0
+*********************** The time is 2395.5642248509344*************************
+******************* THE TIME IS NOW ********************** 2397.747359303988
+Bleeding patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 2422.439658257388
+*********************** The time is 2397.747359303988*************************
+******************* THE TIME IS NOW ********************** 2400.1109736949466
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 2400.1109736949466*************************
+******************* THE TIME IS NOW ********************** 2422.439658257388
+Bleeding patient enters server 1
+The next patient is a Heart. Patient is arriving at 2432.281008829694
+*********************** The time is 2422.439658257388*************************
+******************* THE TIME IS NOW ********************** 2426.047541186542
+Heart patient has left server 1. Number in Queue: 0
+*********************** The time is 2426.047541186542*************************
+******************* THE TIME IS NOW ********************** 2432.281008829694
+Bleeding patient enters server 1
+The next patient is a Gastro. Patient is arriving at 2440.777731855054
+*********************** The time is 2432.281008829694*************************
+******************* THE TIME IS NOW ********************** 2439.0938878917354
+Gastro patient has left server 1. Number in Queue: 0
+*********************** The time is 2439.0938878917354*************************
+******************* THE TIME IS NOW ********************** 2440.777731855054
+Gastro patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 2447.868374060637
+*********************** The time is 2440.777731855054*************************
+******************* THE TIME IS NOW ********************** 2447.868374060637
+Heart patient enters server 2
+The next patient is a Heart. Patient is arriving at 2459.7933096828956
+*********************** The time is 2447.868374060637*************************
+******************* THE TIME IS NOW ********************** 2448.0358298664755
+Heart patient has left server 2
+*********************** The time is 2448.0358298664755*************************
+******************* THE TIME IS NOW ********************** 2451.9936597227897
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 2451.9936597227897*************************
+******************* THE TIME IS NOW ********************** 2459.7933096828956
+Gastro patient enters server 1
+The next patient is a Heart. Patient is arriving at 2471.1424841952708
+*********************** The time is 2459.7933096828956*************************
+******************* THE TIME IS NOW ********************** 2471.1424841952708
+Gastro patient enters server 2
+The next patient is a Heart. Patient is arriving at 2475.113077918039
+*********************** The time is 2471.1424841952708*************************
+******************* THE TIME IS NOW ********************** 2475.113077918039
+Bleeding patient has entered the line...
+The next patient is a Bleeding. Patient is arriving at 2500.4330233586793
+*********************** The time is 2475.113077918039*************************
+******************* THE TIME IS NOW ********************** 2475.72776632617
+Heart patient has left server 1. Number in Queue: 1
+*********************** The time is 2475.72776632617*************************
+******************* THE TIME IS NOW ********************** 2475.73776632617
+The first Bleeding patient in line has entered server 1
+*********************** The time is 2475.73776632617*************************
+******************* THE TIME IS NOW ********************** 2476.8265412072506
+Gastro patient has left server 1. Number in Queue: 0
+*********************** The time is 2476.8265412072506*************************
+******************* THE TIME IS NOW ********************** 2488.1870297256396
+Heart patient has left server 2
+*********************** The time is 2488.1870297256396*************************
+******************* THE TIME IS NOW ********************** 2500.4330233586793
+Bleeding patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 2507.408885101307
+*********************** The time is 2500.4330233586793*************************
+******************* THE TIME IS NOW ********************** 2503.209607975956
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 2503.209607975956*************************
+******************* THE TIME IS NOW ********************** 2507.408885101307
+Gastro patient enters server 1
+The next patient is a Gastro. Patient is arriving at 2540.650532901518
+*********************** The time is 2507.408885101307*************************
+******************* THE TIME IS NOW ********************** 2530.9619974736474
+Gastro patient has left server 1. Number in Queue: 0
+*********************** The time is 2530.9619974736474*************************
+******************* THE TIME IS NOW ********************** 2540.650532901518
+Bleeding patient enters server 1
+The next patient is a Gastro. Patient is arriving at 2554.0961748857103
+*********************** The time is 2540.650532901518*************************
+******************* THE TIME IS NOW ********************** 2541.8113948326313
+Gastro patient has left server 1. Number in Queue: 0
+*********************** The time is 2541.8113948326313*************************
+******************* THE TIME IS NOW ********************** 2554.0961748857103
+Bleeding patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 2557.1785860213163
+*********************** The time is 2554.0961748857103*************************
+******************* THE TIME IS NOW ********************** 2555.044371757896
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 2555.044371757896*************************
+******************* THE TIME IS NOW ********************** 2557.1785860213163
+Bleeding patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 2580.1025814381633
+*********************** The time is 2557.1785860213163*************************
+******************* THE TIME IS NOW ********************** 2559.324407281364
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 2559.324407281364*************************
+******************* THE TIME IS NOW ********************** 2580.1025814381633
+Bleeding patient enters server 1
+The next patient is a Heart. Patient is arriving at 2614.659465373527
+*********************** The time is 2580.1025814381633*************************
+******************* THE TIME IS NOW ********************** 2581.6912583739245
+Heart patient has left server 1. Number in Queue: 0
+*********************** The time is 2581.6912583739245*************************
+******************* THE TIME IS NOW ********************** 2614.659465373527
+Bleeding patient enters server 1
+The next patient is a Heart. Patient is arriving at 2633.764059110298
+*********************** The time is 2614.659465373527*************************
+******************* THE TIME IS NOW ********************** 2615.7175893310696
+Heart patient has left server 1. Number in Queue: 0
+*********************** The time is 2615.7175893310696*************************
+******************* THE TIME IS NOW ********************** 2633.764059110298
+Bleeding patient enters server 1
+The next patient is a Heart. Patient is arriving at 2651.8405584713205
+*********************** The time is 2633.764059110298*************************
+******************* THE TIME IS NOW ********************** 2645.483671067522
+Heart patient has left server 1. Number in Queue: 0
+*********************** The time is 2645.483671067522*************************
+******************* THE TIME IS NOW ********************** 2651.8405584713205
+Gastro patient enters server 1
+The next patient is a Gastro. Patient is arriving at 2660.6032714385883
+*********************** The time is 2651.8405584713205*************************
+******************* THE TIME IS NOW ********************** 2660.6032714385883
+Bleeding patient enters server 2
+The next patient is a Bleeding. Patient is arriving at 2669.3810513652224
+*********************** The time is 2660.6032714385883*************************
+******************* THE TIME IS NOW ********************** 2666.2566330811087
+Bleeding patient has left server 2
+*********************** The time is 2666.2566330811087*************************
+******************* THE TIME IS NOW ********************** 2668.2328571676517
+Gastro patient has left server 1. Number in Queue: 0
+*********************** The time is 2668.2328571676517*************************
+******************* THE TIME IS NOW ********************** 2669.3810513652224
+Gastro patient enters server 1
+The next patient is a Gastro. Patient is arriving at 2688.5937981358798
+*********************** The time is 2669.3810513652224*************************
+******************* THE TIME IS NOW ********************** 2683.8288215486955
+Gastro patient has left server 1. Number in Queue: 0
+*********************** The time is 2683.8288215486955*************************
+******************* THE TIME IS NOW ********************** 2688.5937981358798
+Gastro patient enters server 1
+The next patient is a Heart. Patient is arriving at 2691.4119560016056
+*********************** The time is 2688.5937981358798*************************
+******************* THE TIME IS NOW ********************** 2691.4119560016056
+Heart patient enters server 2
+The next patient is a Bleeding. Patient is arriving at 2714.9143916418534
+*********************** The time is 2691.4119560016056*************************
+******************* THE TIME IS NOW ********************** 2691.9735904037348
+Bleeding patient has left server 2
+*********************** The time is 2691.9735904037348*************************
+******************* THE TIME IS NOW ********************** 2714.9143916418534
+Bleeding patient enters server 2
+The next patient is a Gastro. Patient is arriving at 2729.81473425054
+*********************** The time is 2714.9143916418534*************************
+******************* THE TIME IS NOW ********************** 2717.8238086263004
+Gastro patient has left server 2
+*********************** The time is 2717.8238086263004*************************
+******************* THE TIME IS NOW ********************** 2722.460304712797
+Heart patient has left server 1. Number in Queue: 0
+*********************** The time is 2722.460304712797*************************
+******************* THE TIME IS NOW ********************** 2729.81473425054
+Bleeding patient enters server 1
+The next patient is a Gastro. Patient is arriving at 2735.799526977202
+*********************** The time is 2729.81473425054*************************
+******************* THE TIME IS NOW ********************** 2730.430213312281
+Gastro patient has left server 1. Number in Queue: 0
+*********************** The time is 2730.430213312281*************************
+******************* THE TIME IS NOW ********************** 2735.799526977202
+Bleeding patient enters server 1
+The next patient is a Heart. Patient is arriving at 2777.721245792524
+*********************** The time is 2735.799526977202*************************
+******************* THE TIME IS NOW ********************** 2735.960069008427
+Heart patient has left server 1. Number in Queue: 0
+*********************** The time is 2735.960069008427*************************
+******************* THE TIME IS NOW ********************** 2777.721245792524
+Heart patient enters server 1
+The next patient is a Gastro. Patient is arriving at 2805.3509009749387
+*********************** The time is 2777.721245792524*************************
+******************* THE TIME IS NOW ********************** 2805.3509009749387
+Bleeding patient enters server 2
+The next patient is a Gastro. Patient is arriving at 2816.9709870954653
+*********************** The time is 2805.3509009749387*************************
+******************* THE TIME IS NOW ********************** 2816.9709870954653
+Bleeding patient has entered the line...
+The next patient is a Bleeding. Patient is arriving at 2820.2063163453017
+*********************** The time is 2816.9709870954653*************************
+******************* THE TIME IS NOW ********************** 2820.2063163453017
+Bleeding patient has entered the line...
+The next patient is a Bleeding. Patient is arriving at 2823.741515546277
+*********************** The time is 2820.2063163453017*************************
+******************* THE TIME IS NOW ********************** 2823.741515546277
+Bleeding patient has entered the line...
+The next patient is a Bleeding. Patient is arriving at 2826.8649371644624
+*********************** The time is 2823.741515546277*************************
+******************* THE TIME IS NOW ********************** 2825.9212241379864
+Heart patient has left server 2
+*********************** The time is 2825.9212241379864*************************
+******************* THE TIME IS NOW ********************** 2825.9312241379866
+Bleeding patient has entered service bay 2 from the line
+*********************** The time is 2825.9312241379866*************************
+******************* THE TIME IS NOW ********************** 2826.8649371644624
+Heart patient has entered the line...
+The next patient is a Bleeding. Patient is arriving at 2846.682812427739
+*********************** The time is 2826.8649371644624*************************
+******************* THE TIME IS NOW ********************** 2827.423009880689
+Heart patient has left server 2
+*********************** The time is 2827.423009880689*************************
+******************* THE TIME IS NOW ********************** 2827.433009880689
+Bleeding patient has entered service bay 2 from the line
+*********************** The time is 2827.433009880689*************************
+******************* THE TIME IS NOW ********************** 2836.153643070171
+Heart patient has left server 1. Number in Queue: 2
+*********************** The time is 2836.153643070171*************************
+******************* THE TIME IS NOW ********************** 2836.163643070171
+The first Bleeding patient in line has entered server 1
+*********************** The time is 2836.163643070171*************************
+******************* THE TIME IS NOW ********************** 2838.9609131334
+Gastro patient has left server 2
+*********************** The time is 2838.9609131334*************************
+******************* THE TIME IS NOW ********************** 2838.9709131334002
+Heart patient has entered service bay 2 from the line
+*********************** The time is 2838.9709131334002*************************
+******************* THE TIME IS NOW ********************** 2840.770143194922
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 2840.770143194922*************************
+******************* THE TIME IS NOW ********************** 2846.682812427739
+Bleeding patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 2847.555119803624
+*********************** The time is 2846.682812427739*************************
+******************* THE TIME IS NOW ********************** 2847.555119803624
+Bleeding patient has entered the line...
+The next patient is a Bleeding. Patient is arriving at 2851.0328264637465
+*********************** The time is 2847.555119803624*************************
+******************* THE TIME IS NOW ********************** 2851.0328264637465
+Gastro patient has entered the line...
+The next patient is a Bleeding. Patient is arriving at 2859.797100101763
+*********************** The time is 2851.0328264637465*************************
+******************* THE TIME IS NOW ********************** 2851.678978728365
+Bleeding patient has left server 1. Number in Queue: 2
+*********************** The time is 2851.678978728365*************************
+******************* THE TIME IS NOW ********************** 2851.6889787283653
+The first Bleeding patient in line has entered server 1
+*********************** The time is 2851.6889787283653*************************
+******************* THE TIME IS NOW ********************** 2855.351649151504
+Gastro patient has left server 1. Number in Queue: 1
+*********************** The time is 2855.351649151504*************************
+******************* THE TIME IS NOW ********************** 2855.361649151504
+The first Gastro patient in line has entered server 1
+*********************** The time is 2855.361649151504*************************
+******************* THE TIME IS NOW ********************** 2859.37644685664
+Heart patient has left server 1. Number in Queue: 0
+*********************** The time is 2859.37644685664*************************
+******************* THE TIME IS NOW ********************** 2859.797100101763
+Bleeding patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 2878.6461302413786
+*********************** The time is 2859.797100101763*************************
+******************* THE TIME IS NOW ********************** 2862.2566288826993
+Heart patient has left server 2
+*********************** The time is 2862.2566288826993*************************
+******************* THE TIME IS NOW ********************** 2871.516087115028
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 2871.516087115028*************************
+******************* THE TIME IS NOW ********************** 2878.6461302413786
+Heart patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 2894.413379255465
+*********************** The time is 2878.6461302413786*************************
+******************* THE TIME IS NOW ********************** 2887.938031239155
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 2887.938031239155*************************
+******************* THE TIME IS NOW ********************** 2894.413379255465
+Heart patient enters server 1
+The next patient is a Heart. Patient is arriving at 2919.8725613275037
+*********************** The time is 2894.413379255465*************************
+******************* THE TIME IS NOW ********************** 2909.4857178746915
+Heart patient has left server 1. Number in Queue: 0
+*********************** The time is 2909.4857178746915*************************
+******************* THE TIME IS NOW ********************** 2919.8725613275037
+Bleeding patient enters server 1
+The next patient is a Gastro. Patient is arriving at 2926.8363886503644
+*********************** The time is 2919.8725613275037*************************
+******************* THE TIME IS NOW ********************** 2921.4694645252994
+Gastro patient has left server 1. Number in Queue: 0
+*********************** The time is 2921.4694645252994*************************
+******************* THE TIME IS NOW ********************** 2926.8363886503644
+Bleeding patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 2934.723528002467
+*********************** The time is 2926.8363886503644*************************
+******************* THE TIME IS NOW ********************** 2933.8565193487552
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 2933.8565193487552*************************
+******************* THE TIME IS NOW ********************** 2934.723528002467
+Bleeding patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 2936.1025112357815
+*********************** The time is 2934.723528002467*************************
+******************* THE TIME IS NOW ********************** 2936.1025112357815
+Heart patient enters server 2
+The next patient is a Gastro. Patient is arriving at 2944.1215535331307
+*********************** The time is 2936.1025112357815*************************
+******************* THE TIME IS NOW ********************** 2942.971405522117
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 2942.971405522117*************************
+******************* THE TIME IS NOW ********************** 2944.1215535331307
+Gastro patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 2953.2745096619337
+*********************** The time is 2944.1215535331307*************************
+******************* THE TIME IS NOW ********************** 2946.186750705513
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 2946.186750705513*************************
+******************* THE TIME IS NOW ********************** 2949.782760415719
+Gastro patient has left server 2
+*********************** The time is 2949.782760415719*************************
+******************* THE TIME IS NOW ********************** 2953.2745096619337
+Heart patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 2961.894540014941
+*********************** The time is 2953.2745096619337*************************
+******************* THE TIME IS NOW ********************** 2961.894540014941
+Gastro patient enters server 2
+The next patient is a Heart. Patient is arriving at 2978.018182788855
+*********************** The time is 2961.894540014941*************************
+******************* THE TIME IS NOW ********************** 2976.534029566378
+Heart patient has left server 2
+*********************** The time is 2976.534029566378*************************
+******************* THE TIME IS NOW ********************** 2978.018182788855
+Bleeding patient enters server 2
+The next patient is a Heart. Patient is arriving at 2991.475807236888
+*********************** The time is 2978.018182788855*************************
+******************* THE TIME IS NOW ********************** 2980.836376887738
+Heart patient has left server 2
+*********************** The time is 2980.836376887738*************************
+******************* THE TIME IS NOW ********************** 2990.966809156151
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 2990.966809156151*************************
+******************* THE TIME IS NOW ********************** 2991.475807236888
+Bleeding patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 2992.0232848687824
+*********************** The time is 2991.475807236888*************************
+******************* THE TIME IS NOW ********************** 2992.0232848687824
+Bleeding patient enters server 2
+The next patient is a Heart. Patient is arriving at 3002.9566438088104
+*********************** The time is 2992.0232848687824*************************
+******************* THE TIME IS NOW ********************** 2995.6308700986347
+Heart patient has left server 2
+*********************** The time is 2995.6308700986347*************************
+******************* THE TIME IS NOW ********************** 2999.402558054162
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 2999.402558054162*************************
+******************* THE TIME IS NOW ********************** 3002.9566438088104
+Bleeding patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 3010.5204292873464
+*********************** The time is 3002.9566438088104*************************
+******************* THE TIME IS NOW ********************** 3010.5204292873464
+Heart patient enters server 2
+The next patient is a Bleeding. Patient is arriving at 3051.184720328303
+*********************** The time is 3010.5204292873464*************************
+******************* THE TIME IS NOW ********************** 3016.3330473911083
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 3016.3330473911083*************************
+******************* THE TIME IS NOW ********************** 3025.0911526354184
+Bleeding patient has left server 2
+*********************** The time is 3025.0911526354184*************************
+******************* THE TIME IS NOW ********************** 3051.184720328303
+Gastro patient enters server 1
+The next patient is a Heart. Patient is arriving at 3062.6501367981996
+*********************** The time is 3051.184720328303*************************
+******************* THE TIME IS NOW ********************** 3062.6501367981996
+Gastro patient enters server 2
+The next patient is a Bleeding. Patient is arriving at 3077.835495110401
+*********************** The time is 3062.6501367981996*************************
+******************* THE TIME IS NOW ********************** 3069.8101324555832
+Bleeding patient has left server 2
+*********************** The time is 3069.8101324555832*************************
+******************* THE TIME IS NOW ********************** 3077.835495110401
+Bleeding patient enters server 2
+The next patient is a Bleeding. Patient is arriving at 3086.294936461499
+*********************** The time is 3077.835495110401*************************
+******************* THE TIME IS NOW ********************** 3082.265106106604
+Heart patient has left server 1. Number in Queue: 0
+*********************** The time is 3082.265106106604*************************
+******************* THE TIME IS NOW ********************** 3086.294936461499
+Bleeding patient enters server 1
+The next patient is a Gastro. Patient is arriving at 3088.1420039766017
+*********************** The time is 3086.294936461499*************************
+******************* THE TIME IS NOW ********************** 3088.1420039766017
+Heart patient has entered the line...
+The next patient is a Bleeding. Patient is arriving at 3093.665307832551
+*********************** The time is 3088.1420039766017*************************
+******************* THE TIME IS NOW ********************** 3090.268159771583
+Bleeding patient has left server 2
+*********************** The time is 3090.268159771583*************************
+******************* THE TIME IS NOW ********************** 3090.2781597715834
+Heart patient has entered service bay 2 from the line
+*********************** The time is 3090.2781597715834*************************
+******************* THE TIME IS NOW ********************** 3093.665307832551
+Gastro patient has entered the line...
+The next patient is a Bleeding. Patient is arriving at 3133.0535350976315
+*********************** The time is 3093.665307832551*************************
+******************* THE TIME IS NOW ********************** 3102.282641570256
+Heart patient has left server 1. Number in Queue: 1
+*********************** The time is 3102.282641570256*************************
+******************* THE TIME IS NOW ********************** 3102.2926415702564
+The first Gastro patient in line has entered server 1
+*********************** The time is 3102.2926415702564*************************
+******************* THE TIME IS NOW ********************** 3109.174314116789
+Heart patient has left server 1. Number in Queue: 0
+*********************** The time is 3109.174314116789*************************
+******************* THE TIME IS NOW ********************** 3122.0918271372184
+Gastro patient has left server 2
+*********************** The time is 3122.0918271372184*************************
+******************* THE TIME IS NOW ********************** 3133.0535350976315
+Heart patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 3134.1226823565717
+*********************** The time is 3133.0535350976315*************************
+******************* THE TIME IS NOW ********************** 3134.1226823565717
+Bleeding patient enters server 2
+The next patient is a Heart. Patient is arriving at 3137.625024021733
+*********************** The time is 3134.1226823565717*************************
+******************* THE TIME IS NOW ********************** 3137.625024021733
+Bleeding patient has entered the line...
+The next patient is a Bleeding. Patient is arriving at 3138.670499484041
+*********************** The time is 3137.625024021733*************************
+******************* THE TIME IS NOW ********************** 3138.670499484041
+Bleeding patient has entered the line...
+The next patient is a Bleeding. Patient is arriving at 3173.316038063378
+*********************** The time is 3138.670499484041*************************
+******************* THE TIME IS NOW ********************** 3142.0148540759615
+Gastro patient has left server 2
+*********************** The time is 3142.0148540759615*************************
+******************* THE TIME IS NOW ********************** 3142.0248540759617
+Bleeding patient has entered service bay 2 from the line
+*********************** The time is 3142.0248540759617*************************
+******************* THE TIME IS NOW ********************** 3142.742003802685
+Heart patient has left server 2
+*********************** The time is 3142.742003802685*************************
+******************* THE TIME IS NOW ********************** 3142.752003802685
+Bleeding patient has entered service bay 2 from the line
+*********************** The time is 3142.752003802685*************************
+******************* THE TIME IS NOW ********************** 3146.163985773757
+Bleeding patient has left server 2
+*********************** The time is 3146.163985773757*************************
+******************* THE TIME IS NOW ********************** 3172.1071733894805
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 3172.1071733894805*************************
+******************* THE TIME IS NOW ********************** 3173.316038063378
+Bleeding patient enters server 1
+The next patient is a Gastro. Patient is arriving at 3174.8919164999966
+*********************** The time is 3173.316038063378*************************
+******************* THE TIME IS NOW ********************** 3174.8919164999966
+Bleeding patient enters server 2
+The next patient is a Bleeding. Patient is arriving at 3187.9936401435243
+*********************** The time is 3174.8919164999966*************************
+******************* THE TIME IS NOW ********************** 3181.0942168778392
+Bleeding patient has left server 2
+*********************** The time is 3181.0942168778392*************************
+******************* THE TIME IS NOW ********************** 3182.014825062598
+Gastro patient has left server 1. Number in Queue: 0
+*********************** The time is 3182.014825062598*************************
+******************* THE TIME IS NOW ********************** 3187.9936401435243
+Gastro patient enters server 1
+The next patient is a Gastro. Patient is arriving at 3189.159796072532
+*********************** The time is 3187.9936401435243*************************
+******************* THE TIME IS NOW ********************** 3189.159796072532
+Gastro patient enters server 2
+The next patient is a Bleeding. Patient is arriving at 3191.202733046412
+*********************** The time is 3189.159796072532*************************
+******************* THE TIME IS NOW ********************** 3191.202733046412
+Heart patient has entered the line...
+The next patient is a Bleeding. Patient is arriving at 3196.07966342305
+*********************** The time is 3191.202733046412*************************
+******************* THE TIME IS NOW ********************** 3191.932103979865
+Gastro patient has left server 2
+*********************** The time is 3191.932103979865*************************
+******************* THE TIME IS NOW ********************** 3191.9421039798654
+Heart patient has entered service bay 2 from the line
+*********************** The time is 3191.9421039798654*************************
+******************* THE TIME IS NOW ********************** 3193.6547699166854
+Gastro patient has left server 1. Number in Queue: 0
+*********************** The time is 3193.6547699166854*************************
+******************* THE TIME IS NOW ********************** 3196.07966342305
+Heart patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 3234.502467787144
+*********************** The time is 3196.07966342305*************************
+******************* THE TIME IS NOW ********************** 3233.57464196654
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 3233.57464196654*************************
+******************* THE TIME IS NOW ********************** 3234.502467787144
+Heart patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 3257.2061028031403
+*********************** The time is 3234.502467787144*************************
+******************* THE TIME IS NOW ********************** 3251.8834019082287
+Bleeding patient has left server 2
+*********************** The time is 3251.8834019082287*************************
+******************* THE TIME IS NOW ********************** 3257.2061028031403
+Bleeding patient enters server 2
+The next patient is a Heart. Patient is arriving at 3270.076496976487
+*********************** The time is 3257.2061028031403*************************
+******************* THE TIME IS NOW ********************** 3265.89914466898
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 3265.89914466898*************************
+******************* THE TIME IS NOW ********************** 3270.076496976487
+Bleeding patient enters server 1
+The next patient is a Heart. Patient is arriving at 3303.06870413977
+*********************** The time is 3270.076496976487*************************
+******************* THE TIME IS NOW ********************** 3271.3736456182974
+Heart patient has left server 1. Number in Queue: 0
+*********************** The time is 3271.3736456182974*************************
+******************* THE TIME IS NOW ********************** 3276.1295444101997
+Heart patient has left server 2
+*********************** The time is 3276.1295444101997*************************
+******************* THE TIME IS NOW ********************** 3303.06870413977
+Bleeding patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 3304.9703810430374
+*********************** The time is 3303.06870413977*************************
+******************* THE TIME IS NOW ********************** 3304.3362872921266
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 3304.3362872921266*************************
+******************* THE TIME IS NOW ********************** 3304.9703810430374
+Bleeding patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 3314.0947997111907
+*********************** The time is 3304.9703810430374*************************
+******************* THE TIME IS NOW ********************** 3311.4261903974166
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 3311.4261903974166*************************
+******************* THE TIME IS NOW ********************** 3314.0947997111907
+Bleeding patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 3330.6241793021113
+*********************** The time is 3314.0947997111907*************************
+******************* THE TIME IS NOW ********************** 3316.0106933991115
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 3316.0106933991115*************************
+******************* THE TIME IS NOW ********************** 3330.6241793021113
+Bleeding patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 3339.2052894844437
+*********************** The time is 3330.6241793021113*************************
+******************* THE TIME IS NOW ********************** 3339.2052894844437
+Heart patient enters server 2
+The next patient is a Gastro. Patient is arriving at 3347.697778365313
+*********************** The time is 3339.2052894844437*************************
+******************* THE TIME IS NOW ********************** 3340.451691393809
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 3340.451691393809*************************
+******************* THE TIME IS NOW ********************** 3342.576341183362
+Gastro patient has left server 2
+*********************** The time is 3342.576341183362*************************
+******************* THE TIME IS NOW ********************** 3347.697778365313
+Gastro patient enters server 1
+The next patient is a Heart. Patient is arriving at 3348.799593001778
+*********************** The time is 3347.697778365313*************************
+******************* THE TIME IS NOW ********************** 3348.799593001778
+Gastro patient enters server 2
+The next patient is a Bleeding. Patient is arriving at 3357.493919660364
+*********************** The time is 3348.799593001778*************************
+******************* THE TIME IS NOW ********************** 3352.1757173503725
+Bleeding patient has left server 2
+*********************** The time is 3352.1757173503725*************************
+******************* THE TIME IS NOW ********************** 3353.870464438185
+Heart patient has left server 1. Number in Queue: 0
+*********************** The time is 3353.870464438185*************************
+******************* THE TIME IS NOW ********************** 3357.493919660364
+Bleeding patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 3368.7485208778503
+*********************** The time is 3357.493919660364*************************
+******************* THE TIME IS NOW ********************** 3368.7485208778503
+Heart patient enters server 2
+The next patient is a Heart. Patient is arriving at 3393.632901826541
+*********************** The time is 3368.7485208778503*************************
+******************* THE TIME IS NOW ********************** 3369.905047475149
+Heart patient has left server 2
+*********************** The time is 3369.905047475149*************************
+******************* THE TIME IS NOW ********************** 3373.0555439895993
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 3373.0555439895993*************************
+******************* THE TIME IS NOW ********************** 3393.632901826541
+Bleeding patient enters server 1
+The next patient is a Heart. Patient is arriving at 3402.7105687856047
+*********************** The time is 3393.632901826541*************************
+******************* THE TIME IS NOW ********************** 3402.7105687856047
+Bleeding patient enters server 2
+The next patient is a Bleeding. Patient is arriving at 3413.7854759139614
+*********************** The time is 3402.7105687856047*************************
+******************* THE TIME IS NOW ********************** 3403.0021179648184
+Heart patient has left server 1. Number in Queue: 0
+*********************** The time is 3403.0021179648184*************************
+******************* THE TIME IS NOW ********************** 3403.4432104217567
+Bleeding patient has left server 2
+*********************** The time is 3403.4432104217567*************************
+******************* THE TIME IS NOW ********************** 3413.7854759139614
+Bleeding patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 3422.1682118916347
+*********************** The time is 3413.7854759139614*************************
+******************* THE TIME IS NOW ********************** 3417.667445598335
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 3417.667445598335*************************
+******************* THE TIME IS NOW ********************** 3422.1682118916347
+Gastro patient enters server 1
+The next patient is a Heart. Patient is arriving at 3440.2103252000784
+*********************** The time is 3422.1682118916347*************************
+******************* THE TIME IS NOW ********************** 3435.249353370323
+Heart patient has left server 1. Number in Queue: 0
+*********************** The time is 3435.249353370323*************************
+******************* THE TIME IS NOW ********************** 3440.2103252000784
+Heart patient enters server 1
+The next patient is a Gastro. Patient is arriving at 3454.4182307147953
+*********************** The time is 3440.2103252000784*************************
+******************* THE TIME IS NOW ********************** 3454.4182307147953
+Heart patient enters server 2
+The next patient is a Heart. Patient is arriving at 3462.803530595986
+*********************** The time is 3454.4182307147953*************************
+******************* THE TIME IS NOW ********************** 3462.803530595986
+Gastro patient has entered the line...
+The next patient is a Bleeding. Patient is arriving at 3492.665230239822
+*********************** The time is 3462.803530595986*************************
+******************* THE TIME IS NOW ********************** 3464.914505546273
+Bleeding patient has left server 2
+*********************** The time is 3464.914505546273*************************
+******************* THE TIME IS NOW ********************** 3464.9245055462734
+Gastro patient has entered service bay 2 from the line
+*********************** The time is 3464.9245055462734*************************
+******************* THE TIME IS NOW ********************** 3482.4079174344215
+Gastro patient has left server 1. Number in Queue: 0
+*********************** The time is 3482.4079174344215*************************
+******************* THE TIME IS NOW ********************** 3484.1297057380375
+Bleeding patient has left server 2
+*********************** The time is 3484.1297057380375*************************
+******************* THE TIME IS NOW ********************** 3492.665230239822
+Gastro patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 3513.8999855692264
+*********************** The time is 3492.665230239822*************************
+******************* THE TIME IS NOW ********************** 3494.569663038788
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 3494.569663038788*************************
+******************* THE TIME IS NOW ********************** 3513.8999855692264
+Bleeding patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 3521.9212658419624
+*********************** The time is 3513.8999855692264*************************
+******************* THE TIME IS NOW ********************** 3519.319105646327
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 3519.319105646327*************************
+******************* THE TIME IS NOW ********************** 3521.9212658419624
+Bleeding patient enters server 1
+The next patient is a Heart. Patient is arriving at 3532.141296896295
+*********************** The time is 3521.9212658419624*************************
+******************* THE TIME IS NOW ********************** 3525.689297403154
+Heart patient has left server 1. Number in Queue: 0
+*********************** The time is 3525.689297403154*************************
+******************* THE TIME IS NOW ********************** 3532.141296896295
+Heart patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 3544.9881623377946
+*********************** The time is 3532.141296896295*************************
+******************* THE TIME IS NOW ********************** 3534.9502988679865
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 3534.9502988679865*************************
+******************* THE TIME IS NOW ********************** 3544.9881623377946
+Bleeding patient enters server 1
+The next patient is a Gastro. Patient is arriving at 3547.436627847143
+*********************** The time is 3544.9881623377946*************************
+******************* THE TIME IS NOW ********************** 3547.436627847143
+Bleeding patient enters server 2
+The next patient is a Gastro. Patient is arriving at 3552.1566654680028
+*********************** The time is 3547.436627847143*************************
+******************* THE TIME IS NOW ********************** 3552.1566654680028
+Bleeding patient has entered the line...
+The next patient is a Bleeding. Patient is arriving at 3570.8719046363635
+*********************** The time is 3552.1566654680028*************************
+******************* THE TIME IS NOW ********************** 3554.020323077909
+Bleeding patient has left server 2
+*********************** The time is 3554.020323077909*************************
+******************* THE TIME IS NOW ********************** 3554.030323077909
+Bleeding patient has entered service bay 2 from the line
+*********************** The time is 3554.030323077909*************************
+******************* THE TIME IS NOW ********************** 3554.436899750622
+Gastro patient has left server 1. Number in Queue: 0
+*********************** The time is 3554.436899750622*************************
+******************* THE TIME IS NOW ********************** 3554.544619819396
+Heart patient has left server 2
+*********************** The time is 3554.544619819396*************************
+******************* THE TIME IS NOW ********************** 3570.8719046363635
+Bleeding patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 3603.602425092143
+*********************** The time is 3570.8719046363635*************************
+******************* THE TIME IS NOW ********************** 3580.1489824452237
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 3580.1489824452237*************************
+******************* THE TIME IS NOW ********************** 3603.602425092143
+Bleeding patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 3612.72298209976
+*********************** The time is 3603.602425092143*************************
+******************* THE TIME IS NOW ********************** 3612.72298209976
+Bleeding patient enters server 2
+The next patient is a Heart. Patient is arriving at 3629.0506791301545
+*********************** The time is 3612.72298209976*************************
+******************* THE TIME IS NOW ********************** 3618.446838667515
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 3618.446838667515*************************
+******************* THE TIME IS NOW ********************** 3620.622401015742
+Heart patient has left server 2
+*********************** The time is 3620.622401015742*************************
+******************* THE TIME IS NOW ********************** 3629.0506791301545
+Gastro patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 3651.4278034003737
+*********************** The time is 3629.0506791301545*************************
+******************* THE TIME IS NOW ********************** 3636.5466682518727
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 3636.5466682518727*************************
+******************* THE TIME IS NOW ********************** 3651.4278034003737
+Bleeding patient enters server 1
+The next patient is a Gastro. Patient is arriving at 3674.9257939645677
+*********************** The time is 3651.4278034003737*************************
+******************* THE TIME IS NOW ********************** 3666.350062525579
+Gastro patient has left server 1. Number in Queue: 0
+*********************** The time is 3666.350062525579*************************
+******************* THE TIME IS NOW ********************** 3674.9257939645677
+Bleeding patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 3686.082694444237
+*********************** The time is 3674.9257939645677*************************
+******************* THE TIME IS NOW ********************** 3684.85581415388
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 3684.85581415388*************************
+******************* THE TIME IS NOW ********************** 3686.082694444237
+Bleeding patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 3686.966619368409
+*********************** The time is 3686.082694444237*************************
+******************* THE TIME IS NOW ********************** 3686.966619368409
+Bleeding patient enters server 2
+The next patient is a Bleeding. Patient is arriving at 3695.3457388670386
+*********************** The time is 3686.966619368409*************************
+******************* THE TIME IS NOW ********************** 3689.7247465761347
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 3689.7247465761347*************************
+******************* THE TIME IS NOW ********************** 3691.4847841000287
+Bleeding patient has left server 2
+*********************** The time is 3691.4847841000287*************************
+******************* THE TIME IS NOW ********************** 3695.3457388670386
+Heart patient enters server 1
+The next patient is a Heart. Patient is arriving at 3699.00537938649
+*********************** The time is 3695.3457388670386*************************
+******************* THE TIME IS NOW ********************** 3699.00537938649
+Heart patient enters server 2
+The next patient is a Gastro. Patient is arriving at 3715.2601570907354
+*********************** The time is 3699.00537938649*************************
+******************* THE TIME IS NOW ********************** 3706.1341143405607
+Gastro patient has left server 2
+*********************** The time is 3706.1341143405607*************************
+******************* THE TIME IS NOW ********************** 3715.2601570907354
+Heart patient enters server 2
+The next patient is a Bleeding. Patient is arriving at 3735.535027268464
+*********************** The time is 3715.2601570907354*************************
+******************* THE TIME IS NOW ********************** 3735.535027268464
+Gastro patient has entered the line...
+The next patient is a Bleeding. Patient is arriving at 3743.767798739034
+*********************** The time is 3735.535027268464*************************
+******************* THE TIME IS NOW ********************** 3735.668191059886
+Bleeding patient has left server 1. Number in Queue: 1
+*********************** The time is 3735.668191059886*************************
+******************* THE TIME IS NOW ********************** 3735.678191059886
+The first Gastro patient in line has entered server 1
+*********************** The time is 3735.678191059886*************************
+******************* THE TIME IS NOW ********************** 3739.5144505742596
+Bleeding patient has left server 2
+*********************** The time is 3739.5144505742596*************************
+******************* THE TIME IS NOW ********************** 3740.908538392569
+Gastro patient has left server 1. Number in Queue: 0
+*********************** The time is 3740.908538392569*************************
+******************* THE TIME IS NOW ********************** 3743.767798739034
+Bleeding patient enters server 1
+The next patient is a Gastro. Patient is arriving at 3762.6473632370116
+*********************** The time is 3743.767798739034*************************
+******************* THE TIME IS NOW ********************** 3745.247455700141
+Gastro patient has left server 1. Number in Queue: 0
+*********************** The time is 3745.247455700141*************************
+******************* THE TIME IS NOW ********************** 3762.6473632370116
+Bleeding patient enters server 1
+The next patient is a Heart. Patient is arriving at 3766.4086146187283
+*********************** The time is 3762.6473632370116*************************
+******************* THE TIME IS NOW ********************** 3766.4086146187283
+Bleeding patient enters server 2
+The next patient is a Bleeding. Patient is arriving at 3766.6195265845745
+*********************** The time is 3766.4086146187283*************************
+******************* THE TIME IS NOW ********************** 3766.6195265845745
+Gastro patient has entered the line...
+The next patient is a Bleeding. Patient is arriving at 3771.266194415283
+*********************** The time is 3766.6195265845745*************************
+******************* THE TIME IS NOW ********************** 3767.1914084679506
+Gastro patient has left server 2
+*********************** The time is 3767.1914084679506*************************
+******************* THE TIME IS NOW ********************** 3767.201408467951
+Gastro patient has entered service bay 2 from the line
+*********************** The time is 3767.201408467951*************************
+******************* THE TIME IS NOW ********************** 3771.266194415283
+Gastro patient has entered the line...
+The next patient is a Bleeding. Patient is arriving at 3791.3967530335785
+*********************** The time is 3771.266194415283*************************
+******************* THE TIME IS NOW ********************** 3784.0697078209414
+Heart patient has left server 1. Number in Queue: 1
+*********************** The time is 3784.0697078209414*************************
+******************* THE TIME IS NOW ********************** 3784.0797078209416
+The first Gastro patient in line has entered server 1
+*********************** The time is 3784.0797078209416*************************
+******************* THE TIME IS NOW ********************** 3791.3967530335785
+Heart patient has entered the line...
+The next patient is a Bleeding. Patient is arriving at 3819.8245853351373
+*********************** The time is 3791.3967530335785*************************
+******************* THE TIME IS NOW ********************** 3793.4228896852605
+Bleeding patient has left server 2
+*********************** The time is 3793.4228896852605*************************
+******************* THE TIME IS NOW ********************** 3793.4328896852608
+Heart patient has entered service bay 2 from the line
+*********************** The time is 3793.4328896852608*************************
+******************* THE TIME IS NOW ********************** 3797.873353159637
+Heart patient has left server 1. Number in Queue: 0
+*********************** The time is 3797.873353159637*************************
+******************* THE TIME IS NOW ********************** 3799.122197501386
+Heart patient has left server 2
+*********************** The time is 3799.122197501386*************************
+******************* THE TIME IS NOW ********************** 3819.8245853351373
+Heart patient enters server 1
+The next patient is a Heart. Patient is arriving at 3830.8964306203607
+*********************** The time is 3819.8245853351373*************************
+******************* THE TIME IS NOW ********************** 3830.8964306203607
+Heart patient enters server 2
+The next patient is a Gastro. Patient is arriving at 3866.95654964635
+*********************** The time is 3830.8964306203607*************************
+******************* THE TIME IS NOW ********************** 3846.1678531087446
+Heart patient has left server 1. Number in Queue: 0
+*********************** The time is 3846.1678531087446*************************
+******************* THE TIME IS NOW ********************** 3857.2682460122815
+Gastro patient has left server 2
+*********************** The time is 3857.2682460122815*************************
+******************* THE TIME IS NOW ********************** 3866.95654964635
+Bleeding patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 3887.1675003330693
+*********************** The time is 3866.95654964635*************************
+******************* THE TIME IS NOW ********************** 3868.7405913087327
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 3868.7405913087327*************************
+******************* THE TIME IS NOW ********************** 3887.1675003330693
+Gastro patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 3908.3298432456186
+*********************** The time is 3887.1675003330693*************************
+******************* THE TIME IS NOW ********************** 3887.2605191920406
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 3887.2605191920406*************************
+******************* THE TIME IS NOW ********************** 3908.3298432456186
+Heart patient enters server 1
+The next patient is a Gastro. Patient is arriving at 3914.7615711245153
+*********************** The time is 3908.3298432456186*************************
+******************* THE TIME IS NOW ********************** 3912.6232169393893
+Gastro patient has left server 1. Number in Queue: 0
+*********************** The time is 3912.6232169393893*************************
+******************* THE TIME IS NOW ********************** 3914.7615711245153
+Heart patient enters server 1
+The next patient is a Heart. Patient is arriving at 3940.4437534672725
+*********************** The time is 3914.7615711245153*************************
+******************* THE TIME IS NOW ********************** 3929.2159892437553
+Heart patient has left server 1. Number in Queue: 0
+*********************** The time is 3929.2159892437553*************************
+******************* THE TIME IS NOW ********************** 3940.4437534672725
+Bleeding patient enters server 1
+The next patient is a Heart. Patient is arriving at 3942.982440279817
+*********************** The time is 3940.4437534672725*************************
+******************* THE TIME IS NOW ********************** 3942.982440279817
+Bleeding patient enters server 2
+The next patient is a Heart. Patient is arriving at 3947.9840867874777
+*********************** The time is 3942.982440279817*************************
+******************* THE TIME IS NOW ********************** 3945.1778045571023
+Heart patient has left server 2
+*********************** The time is 3945.1778045571023*************************
+******************* THE TIME IS NOW ********************** 3947.9840867874777
+Bleeding patient enters server 2
+The next patient is a Bleeding. Patient is arriving at 3950.480173044389
+*********************** The time is 3947.9840867874777*************************
+******************* THE TIME IS NOW ********************** 3948.5103980682784
+Heart patient has left server 1. Number in Queue: 0
+*********************** The time is 3948.5103980682784*************************
+******************* THE TIME IS NOW ********************** 3950.480173044389
+Bleeding patient enters server 1
+The next patient is a Gastro. Patient is arriving at 3954.770324024588
+*********************** The time is 3950.480173044389*************************
+******************* THE TIME IS NOW ********************** 3954.770324024588
+Bleeding patient has entered the line...
+The next patient is a Bleeding. Patient is arriving at 3964.450032693888
+*********************** The time is 3954.770324024588*************************
+******************* THE TIME IS NOW ********************** 3957.363111599541
+Bleeding patient has left server 2
+*********************** The time is 3957.363111599541*************************
+******************* THE TIME IS NOW ********************** 3957.373111599541
+Bleeding patient has entered service bay 2 from the line
+*********************** The time is 3957.373111599541*************************
+******************* THE TIME IS NOW ********************** 3964.450032693888
+Bleeding patient has entered the line...
+The next patient is a Bleeding. Patient is arriving at 3991.7780818604037
+*********************** The time is 3964.450032693888*************************
+******************* THE TIME IS NOW ********************** 3972.7376681864866
+Gastro patient has left server 1. Number in Queue: 1
+*********************** The time is 3972.7376681864866*************************
+******************* THE TIME IS NOW ********************** 3972.747668186487
+The first Bleeding patient in line has entered server 1
+*********************** The time is 3972.747668186487*************************
+******************* THE TIME IS NOW ********************** 3973.1762061004156
+Bleeding patient has left server 2
+*********************** The time is 3973.1762061004156*************************
+******************* THE TIME IS NOW ********************** 3985.3768814632067
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 3985.3768814632067*************************
+******************* THE TIME IS NOW ********************** 3991.7780818604037
+Bleeding patient enters server 1
+The next patient is a Heart. Patient is arriving at 4020.028631910502
+*********************** The time is 3991.7780818604037*************************
+******************* THE TIME IS NOW ********************** 4008.2280215844035
+Heart patient has left server 1. Number in Queue: 0
+*********************** The time is 4008.2280215844035*************************
+******************* THE TIME IS NOW ********************** 4020.028631910502
+Gastro patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 4034.5669092292096
+*********************** The time is 4020.028631910502*************************
+******************* THE TIME IS NOW ********************** 4034.5669092292096
+Gastro patient enters server 2
+The next patient is a Heart. Patient is arriving at 4051.1699680253914
+*********************** The time is 4034.5669092292096*************************
+******************* THE TIME IS NOW ********************** 4050.667330685361
+Heart patient has left server 2
+*********************** The time is 4050.667330685361*************************
+******************* THE TIME IS NOW ********************** 4051.1699680253914
+Heart patient enters server 2
+The next patient is a Heart. Patient is arriving at 4062.1575902629306
+*********************** The time is 4051.1699680253914*************************
+******************* THE TIME IS NOW ********************** 4062.1575902629306
+Gastro patient has entered the line...
+The next patient is a Bleeding. Patient is arriving at 4069.1272308279185
+*********************** The time is 4062.1575902629306*************************
+******************* THE TIME IS NOW ********************** 4062.742354283295
+Bleeding patient has left server 2
+*********************** The time is 4062.742354283295*************************
+******************* THE TIME IS NOW ********************** 4062.752354283295
+Gastro patient has entered service bay 2 from the line
+*********************** The time is 4062.752354283295*************************
+******************* THE TIME IS NOW ********************** 4068.5408424797897
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 4068.5408424797897*************************
+******************* THE TIME IS NOW ********************** 4069.1272308279185
+Heart patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 4070.9987901431778
+*********************** The time is 4069.1272308279185*************************
+******************* THE TIME IS NOW ********************** 4070.001871569847
+Heart patient has left server 2
+*********************** The time is 4070.001871569847*************************
+******************* THE TIME IS NOW ********************** 4070.9987901431778
+Gastro patient enters server 2
+The next patient is a Bleeding. Patient is arriving at 4116.063349859404
+*********************** The time is 4070.9987901431778*************************
+******************* THE TIME IS NOW ********************** 4104.443312689932
+Bleeding patient has left server 2
+*********************** The time is 4104.443312689932*************************
+******************* THE TIME IS NOW ********************** 4116.063349859404
+Bleeding patient enters server 2
+The next patient is a Gastro. Patient is arriving at 4135.940707991338
+*********************** The time is 4116.063349859404*************************
+******************* THE TIME IS NOW ********************** 4116.2722382169495
+Gastro patient has left server 2
+*********************** The time is 4116.2722382169495*************************
+******************* THE TIME IS NOW ********************** 4135.940707991338
+Gastro patient enters server 2
+The next patient is a Bleeding. Patient is arriving at 4142.25459231031
+*********************** The time is 4135.940707991338*************************
+******************* THE TIME IS NOW ********************** 4138.287378508989
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 4138.287378508989*************************
+******************* THE TIME IS NOW ********************** 4139.5462596599245
+Bleeding patient has left server 2
+*********************** The time is 4139.5462596599245*************************
+******************* THE TIME IS NOW ********************** 4142.25459231031
+Heart patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 4143.58139360955
+*********************** The time is 4142.25459231031*************************
+******************* THE TIME IS NOW ********************** 4143.58139360955
+Gastro patient enters server 2
+The next patient is a Bleeding. Patient is arriving at 4143.844661816224
+*********************** The time is 4143.58139360955*************************
+******************* THE TIME IS NOW ********************** 4143.844661816224
+Gastro patient has entered the line...
+The next patient is a Bleeding. Patient is arriving at 4176.433166724606
+*********************** The time is 4143.844661816224*************************
+******************* THE TIME IS NOW ********************** 4163.352514468305
+Gastro patient has left server 2
+*********************** The time is 4163.352514468305*************************
+******************* THE TIME IS NOW ********************** 4163.362514468306
+Gastro patient has entered service bay 2 from the line
+*********************** The time is 4163.362514468306*************************
+******************* THE TIME IS NOW ********************** 4176.433166724606
+Bleeding patient has entered the line...
+The next patient is a Bleeding. Patient is arriving at 4195.743821532647
+*********************** The time is 4176.433166724606*************************
+******************* THE TIME IS NOW ********************** 4191.678356518191
+Bleeding patient has left server 2
+*********************** The time is 4191.678356518191*************************
+******************* THE TIME IS NOW ********************** 4191.6883565181915
+Bleeding patient has entered service bay 2 from the line
+*********************** The time is 4191.6883565181915*************************
+******************* THE TIME IS NOW ********************** 4192.414041858018
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 4192.414041858018*************************
+******************* THE TIME IS NOW ********************** 4195.743821532647
+Bleeding patient enters server 1
+The next patient is a Heart. Patient is arriving at 4229.130952257362
+*********************** The time is 4195.743821532647*************************
+******************* THE TIME IS NOW ********************** 4203.701028640746
+Heart patient has left server 2
+*********************** The time is 4203.701028640746*************************
+******************* THE TIME IS NOW ********************** 4205.747499779743
+Heart patient has left server 1. Number in Queue: 0
+*********************** The time is 4205.747499779743*************************
+******************* THE TIME IS NOW ********************** 4229.130952257362
+Gastro patient enters server 1
+The next patient is a Heart. Patient is arriving at 4230.3715191407455
+*********************** The time is 4229.130952257362*************************
+******************* THE TIME IS NOW ********************** 4230.3715191407455
+Bleeding patient enters server 2
+The next patient is a Bleeding. Patient is arriving at 4231.4750932498255
+*********************** The time is 4230.3715191407455*************************
+******************* THE TIME IS NOW ********************** 4231.035964916798
+Heart patient has left server 1. Number in Queue: 0
+*********************** The time is 4231.035964916798*************************
+******************* THE TIME IS NOW ********************** 4231.4750932498255
+Bleeding patient enters server 1
+The next patient is a Gastro. Patient is arriving at 4243.056995366723
+*********************** The time is 4231.4750932498255*************************
+******************* THE TIME IS NOW ********************** 4234.907163061452
+Bleeding patient has left server 2
+*********************** The time is 4234.907163061452*************************
+******************* THE TIME IS NOW ********************** 4239.821061025869
+Gastro patient has left server 1. Number in Queue: 0
+*********************** The time is 4239.821061025869*************************
+******************* THE TIME IS NOW ********************** 4243.056995366723
+Gastro patient enters server 1
+The next patient is a Heart. Patient is arriving at 4245.137505824869
+*********************** The time is 4243.056995366723*************************
+******************* THE TIME IS NOW ********************** 4245.137505824869
+Heart patient enters server 2
+The next patient is a Gastro. Patient is arriving at 4286.8264228670405
+*********************** The time is 4245.137505824869*************************
+******************* THE TIME IS NOW ********************** 4259.26836721602
+Heart patient has left server 1. Number in Queue: 0
+*********************** The time is 4259.26836721602*************************
+******************* THE TIME IS NOW ********************** 4273.958603406323
+Gastro patient has left server 2
+*********************** The time is 4273.958603406323*************************
+******************* THE TIME IS NOW ********************** 4286.8264228670405
+Bleeding patient enters server 1
+The next patient is a Gastro. Patient is arriving at 4293.647755676139
+*********************** The time is 4286.8264228670405*************************
+******************* THE TIME IS NOW ********************** 4291.6149041579765
+Gastro patient has left server 1. Number in Queue: 0
+*********************** The time is 4291.6149041579765*************************
+******************* THE TIME IS NOW ********************** 4293.647755676139
+Heart patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 4296.643907487317
+*********************** The time is 4293.647755676139*************************
+******************* THE TIME IS NOW ********************** 4296.643907487317
+Bleeding patient enters server 2
+The next patient is a Bleeding. Patient is arriving at 4310.413681377662
+*********************** The time is 4296.643907487317*************************
+******************* THE TIME IS NOW ********************** 4300.24466763173
+Bleeding patient has left server 2
+*********************** The time is 4300.24466763173*************************
+******************* THE TIME IS NOW ********************** 4310.413681377662
+Bleeding patient enters server 2
+The next patient is a Bleeding. Patient is arriving at 4333.519163034544
+*********************** The time is 4310.413681377662*************************
+******************* THE TIME IS NOW ********************** 4311.400198126158
+Bleeding patient has left server 2
+*********************** The time is 4311.400198126158*************************
+******************* THE TIME IS NOW ********************** 4311.701915287659
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 4311.701915287659*************************
+******************* THE TIME IS NOW ********************** 4333.519163034544
+Bleeding patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 4339.3183474817115
+*********************** The time is 4333.519163034544*************************
+******************* THE TIME IS NOW ********************** 4339.089482939928
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 4339.089482939928*************************
+******************* THE TIME IS NOW ********************** 4339.3183474817115
+Heart patient enters server 1
+The next patient is a Gastro. Patient is arriving at 4409.138596308046
+*********************** The time is 4339.3183474817115*************************
+******************* THE TIME IS NOW ********************** 4382.389008105892
+Gastro patient has left server 1. Number in Queue: 0
+*********************** The time is 4382.389008105892*************************
+******************* THE TIME IS NOW ********************** 4409.138596308046
+Heart patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 4411.102411901398
+*********************** The time is 4409.138596308046*************************
+******************* THE TIME IS NOW ********************** 4411.102411901398
+Bleeding patient enters server 2
+The next patient is a Gastro. Patient is arriving at 4451.93056529002
+*********************** The time is 4411.102411901398*************************
+******************* THE TIME IS NOW ********************** 4418.145911882485
+Gastro patient has left server 2
+*********************** The time is 4418.145911882485*************************
+******************* THE TIME IS NOW ********************** 4421.935663217298
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 4421.935663217298*************************
+******************* THE TIME IS NOW ********************** 4451.93056529002
+Heart patient enters server 1
+The next patient is a Heart. Patient is arriving at 4466.583321349154
+*********************** The time is 4451.93056529002*************************
+******************* THE TIME IS NOW ********************** 4466.583321349154
+Gastro patient enters server 2
+The next patient is a Bleeding. Patient is arriving at 4477.808426664436
+*********************** The time is 4466.583321349154*************************
+******************* THE TIME IS NOW ********************** 4472.973921151101
+Heart patient has left server 1. Number in Queue: 0
+*********************** The time is 4472.973921151101*************************
+******************* THE TIME IS NOW ********************** 4475.670198084897
+Bleeding patient has left server 2
+*********************** The time is 4475.670198084897*************************
+******************* THE TIME IS NOW ********************** 4477.808426664436
+Bleeding patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 4496.591608637935
+*********************** The time is 4477.808426664436*************************
+******************* THE TIME IS NOW ********************** 4483.437366367172
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 4483.437366367172*************************
+******************* THE TIME IS NOW ********************** 4496.591608637935
+Heart patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 4500.884229121837
+*********************** The time is 4496.591608637935*************************
+******************* THE TIME IS NOW ********************** 4497.549115243503
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 4497.549115243503*************************
+******************* THE TIME IS NOW ********************** 4500.884229121837
+Bleeding patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 4518.145697893018
+*********************** The time is 4500.884229121837*************************
+******************* THE TIME IS NOW ********************** 4512.082999341279
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 4512.082999341279*************************
+******************* THE TIME IS NOW ********************** 4518.145697893018
+Gastro patient enters server 1
+The next patient is a Heart. Patient is arriving at 4529.4704604025455
+*********************** The time is 4518.145697893018*************************
+******************* THE TIME IS NOW ********************** 4526.729349519276
+Heart patient has left server 1. Number in Queue: 0
+*********************** The time is 4526.729349519276*************************
+******************* THE TIME IS NOW ********************** 4529.4704604025455
+Bleeding patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 4569.281332313802
+*********************** The time is 4529.4704604025455*************************
+******************* THE TIME IS NOW ********************** 4531.097393526567
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 4531.097393526567*************************
+******************* THE TIME IS NOW ********************** 4569.281332313802
+Bleeding patient enters server 1
+The next patient is a Heart. Patient is arriving at 4587.362279332393
+*********************** The time is 4569.281332313802*************************
+******************* THE TIME IS NOW ********************** 4569.446291458922
+Heart patient has left server 1. Number in Queue: 0
+*********************** The time is 4569.446291458922*************************
+******************* THE TIME IS NOW ********************** 4587.362279332393
+Gastro patient enters server 1
+The next patient is a Heart. Patient is arriving at 4592.538141454384
+*********************** The time is 4587.362279332393*************************
+******************* THE TIME IS NOW ********************** 4592.538141454384
+Gastro patient enters server 2
+The next patient is a Bleeding. Patient is arriving at 4603.553828558501
+*********************** The time is 4592.538141454384*************************
+******************* THE TIME IS NOW ********************** 4596.213679476773
+Bleeding patient has left server 2
+*********************** The time is 4596.213679476773*************************
+******************* THE TIME IS NOW ********************** 4603.553828558501
+Bleeding patient enters server 2
+The next patient is a Bleeding. Patient is arriving at 4604.773568972207
+*********************** The time is 4603.553828558501*************************
+******************* THE TIME IS NOW ********************** 4603.7577991305825
+Bleeding patient has left server 2
+*********************** The time is 4603.7577991305825*************************
+******************* THE TIME IS NOW ********************** 4604.773568972207
+Bleeding patient enters server 2
+The next patient is a Heart. Patient is arriving at 4627.206261792876
+*********************** The time is 4604.773568972207*************************
+******************* THE TIME IS NOW ********************** 4617.138475017881
+Heart patient has left server 2
+*********************** The time is 4617.138475017881*************************
+******************* THE TIME IS NOW ********************** 4618.906883801234
+Heart patient has left server 1. Number in Queue: 0
+*********************** The time is 4618.906883801234*************************
+******************* THE TIME IS NOW ********************** 4627.206261792876
+Bleeding patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 4641.207031859117
+*********************** The time is 4627.206261792876*************************
+******************* THE TIME IS NOW ********************** 4635.811017588027
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 4635.811017588027*************************
+******************* THE TIME IS NOW ********************** 4641.207031859117
+Bleeding patient enters server 1
+The next patient is a Heart. Patient is arriving at 4660.129978231949
+*********************** The time is 4641.207031859117*************************
+******************* THE TIME IS NOW ********************** 4643.30170371811
+Heart patient has left server 1. Number in Queue: 0
+*********************** The time is 4643.30170371811*************************
+******************* THE TIME IS NOW ********************** 4660.129978231949
+Gastro patient enters server 1
+The next patient is a Heart. Patient is arriving at 4684.373249857955
+*********************** The time is 4660.129978231949*************************
+******************* THE TIME IS NOW ********************** 4680.420275613843
+Heart patient has left server 1. Number in Queue: 0
+*********************** The time is 4680.420275613843*************************
+******************* THE TIME IS NOW ********************** 4684.373249857955
+Bleeding patient enters server 1
+The next patient is a Heart. Patient is arriving at 4708.282759269136
+*********************** The time is 4684.373249857955*************************
+******************* THE TIME IS NOW ********************** 4702.454735831905
+Heart patient has left server 1. Number in Queue: 0
+*********************** The time is 4702.454735831905*************************
+******************* THE TIME IS NOW ********************** 4708.282759269136
+Heart patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 4714.380181568325
+*********************** The time is 4708.282759269136*************************
+******************* THE TIME IS NOW ********************** 4714.380181568325
+Gastro patient enters server 2
+The next patient is a Bleeding. Patient is arriving at 4727.98078006353
+*********************** The time is 4714.380181568325*************************
+******************* THE TIME IS NOW ********************** 4716.718949369393
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 4716.718949369393*************************
+******************* THE TIME IS NOW ********************** 4725.021791901171
+Bleeding patient has left server 2
+*********************** The time is 4725.021791901171*************************
+******************* THE TIME IS NOW ********************** 4727.98078006353
+Gastro patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 4741.748396887257
+*********************** The time is 4727.98078006353*************************
+******************* THE TIME IS NOW ********************** 4733.097918723009
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 4733.097918723009*************************
+******************* THE TIME IS NOW ********************** 4741.748396887257
+Gastro patient enters server 1
+The next patient is a Gastro. Patient is arriving at 4766.18112419728
+*********************** The time is 4741.748396887257*************************
+******************* THE TIME IS NOW ********************** 4744.902303003699
+Gastro patient has left server 1. Number in Queue: 0
+*********************** The time is 4744.902303003699*************************
+******************* THE TIME IS NOW ********************** 4766.18112419728
+Gastro patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 4787.218670787601
+*********************** The time is 4766.18112419728*************************
+******************* THE TIME IS NOW ********************** 4776.717901009384
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 4776.717901009384*************************
+******************* THE TIME IS NOW ********************** 4787.218670787601
+Heart patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 4788.47260763009
+*********************** The time is 4787.218670787601*************************
+******************* THE TIME IS NOW ********************** 4788.47260763009
+Bleeding patient enters server 2
+The next patient is a Heart. Patient is arriving at 4800.759966161887
+*********************** The time is 4788.47260763009*************************
+******************* THE TIME IS NOW ********************** 4796.451429610174
+Heart patient has left server 2
+*********************** The time is 4796.451429610174*************************
+******************* THE TIME IS NOW ********************** 4800.759966161887
+Bleeding patient enters server 2
+The next patient is a Bleeding. Patient is arriving at 4821.251051487746
+*********************** The time is 4800.759966161887*************************
+******************* THE TIME IS NOW ********************** 4809.036884140209
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 4809.036884140209*************************
+******************* THE TIME IS NOW ********************** 4820.877985828057
+Bleeding patient has left server 2
+*********************** The time is 4820.877985828057*************************
+******************* THE TIME IS NOW ********************** 4821.251051487746
+Bleeding patient enters server 1
+The next patient is a Gastro. Patient is arriving at 4829.293535213004
+*********************** The time is 4821.251051487746*************************
+******************* THE TIME IS NOW ********************** 4824.479748609746
+Gastro patient has left server 1. Number in Queue: 0
+*********************** The time is 4824.479748609746*************************
+******************* THE TIME IS NOW ********************** 4829.293535213004
+Bleeding patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 4842.021519129408
+*********************** The time is 4829.293535213004*************************
+******************* THE TIME IS NOW ********************** 4832.6222892548685
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 4832.6222892548685*************************
+******************* THE TIME IS NOW ********************** 4842.021519129408
+Bleeding patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 4851.59623076252
+*********************** The time is 4842.021519129408*************************
+******************* THE TIME IS NOW ********************** 4846.081456494325
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 4846.081456494325*************************
+******************* THE TIME IS NOW ********************** 4851.59623076252
+Heart patient enters server 1
+The next patient is a Gastro. Patient is arriving at 4891.021788396388
+*********************** The time is 4851.59623076252*************************
+******************* THE TIME IS NOW ********************** 4852.230621058513
+Gastro patient has left server 1. Number in Queue: 0
+*********************** The time is 4852.230621058513*************************
+******************* THE TIME IS NOW ********************** 4891.021788396388
+Bleeding patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 4919.750819032103
+*********************** The time is 4891.021788396388*************************
+******************* THE TIME IS NOW ********************** 4895.4644398925175
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 4895.4644398925175*************************
+******************* THE TIME IS NOW ********************** 4919.750819032103
+Bleeding patient enters server 1
+The next patient is a Gastro. Patient is arriving at 4964.865444538704
+*********************** The time is 4919.750819032103*************************
+******************* THE TIME IS NOW ********************** 4920.749186265218
+Gastro patient has left server 1. Number in Queue: 0
+*********************** The time is 4920.749186265218*************************
+******************* THE TIME IS NOW ********************** 4964.865444538704
+Bleeding patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 5012.878500200193
+*********************** The time is 4964.865444538704*************************
+******************* THE TIME IS NOW ********************** 4970.598754956589
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 4970.598754956589*************************
+******************* THE TIME IS NOW ********************** 5012.878500200193
+Bleeding patient enters server 1
+The next patient is a Heart. Patient is arriving at 5014.390063124562
+*********************** The time is 5012.878500200193*************************
+******************* THE TIME IS NOW ********************** 5014.390063124562
+Gastro patient enters server 2
+The next patient is a Heart. Patient is arriving at 5034.770963124201
+*********************** The time is 5014.390063124562*************************
+******************* THE TIME IS NOW ********************** 5024.644568177043
+Heart patient has left server 2
+*********************** The time is 5024.644568177043*************************
+******************* THE TIME IS NOW ********************** 5026.287658828336
+Heart patient has left server 1. Number in Queue: 0
+*********************** The time is 5026.287658828336*************************
+******************* THE TIME IS NOW ********************** 5034.770963124201
+Bleeding patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 5050.705565300608
+*********************** The time is 5034.770963124201*************************
+******************* THE TIME IS NOW ********************** 5035.719001434512
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 5035.719001434512*************************
+******************* THE TIME IS NOW ********************** 5050.705565300608
+Heart patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 5063.73665482647
+*********************** The time is 5050.705565300608*************************
+******************* THE TIME IS NOW ********************** 5063.73665482647
+Heart patient enters server 2
+The next patient is a Gastro. Patient is arriving at 5070.090884669205
+*********************** The time is 5063.73665482647*************************
+******************* THE TIME IS NOW ********************** 5067.75589599169
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 5067.75589599169*************************
+******************* THE TIME IS NOW ********************** 5070.090884669205
+Heart patient enters server 1
+The next patient is a Gastro. Patient is arriving at 5094.195765423746
+*********************** The time is 5070.090884669205*************************
+******************* THE TIME IS NOW ********************** 5084.862978641692
+Gastro patient has left server 1. Number in Queue: 0
+*********************** The time is 5084.862978641692*************************
+******************* THE TIME IS NOW ********************** 5094.195765423746
+Bleeding patient enters server 1
+The next patient is a Gastro. Patient is arriving at 5117.363774576833
+*********************** The time is 5094.195765423746*************************
+******************* THE TIME IS NOW ********************** 5112.250353148684
+Gastro patient has left server 1. Number in Queue: 0
+*********************** The time is 5112.250353148684*************************
+******************* THE TIME IS NOW ********************** 5117.363774576833
+Gastro patient enters server 1
+The next patient is a Heart. Patient is arriving at 5137.572987505608
+*********************** The time is 5117.363774576833*************************
+******************* THE TIME IS NOW ********************** 5121.903164586942
+Heart patient has left server 1. Number in Queue: 0
+*********************** The time is 5121.903164586942*************************
+******************* THE TIME IS NOW ********************** 5137.572987505608
+Bleeding patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 5182.674590939976
+*********************** The time is 5137.572987505608*************************
+******************* THE TIME IS NOW ********************** 5142.876392336219
+Gastro patient has left server 2
+*********************** The time is 5142.876392336219*************************
+******************* THE TIME IS NOW ********************** 5144.2715871495
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 5144.2715871495*************************
+******************* THE TIME IS NOW ********************** 5182.674590939976
+Gastro patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 5184.562237198728
+*********************** The time is 5182.674590939976*************************
+******************* THE TIME IS NOW ********************** 5184.562237198728
+Bleeding patient enters server 2
+The next patient is a Bleeding. Patient is arriving at 5228.170265611529
+*********************** The time is 5184.562237198728*************************
+******************* THE TIME IS NOW ********************** 5203.92015901096
+Bleeding patient has left server 2
+*********************** The time is 5203.92015901096*************************
+******************* THE TIME IS NOW ********************** 5207.698761355964
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 5207.698761355964*************************
+******************* THE TIME IS NOW ********************** 5228.170265611529
+Heart patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 5240.630551693993
+*********************** The time is 5228.170265611529*************************
+******************* THE TIME IS NOW ********************** 5240.630551693993
+Heart patient enters server 2
+The next patient is a Bleeding. Patient is arriving at 5246.865015036225
+*********************** The time is 5240.630551693993*************************
+******************* THE TIME IS NOW ********************** 5245.347528663646
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 5245.347528663646*************************
+******************* THE TIME IS NOW ********************** 5246.865015036225
+Bleeding patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 5272.3373686983505
+*********************** The time is 5246.865015036225*************************
+******************* THE TIME IS NOW ********************** 5252.460169721658
+Bleeding patient has left server 2
+*********************** The time is 5252.460169721658*************************
+******************* THE TIME IS NOW ********************** 5253.616043131852
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 5253.616043131852*************************
+******************* THE TIME IS NOW ********************** 5272.3373686983505
+Bleeding patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 5295.589052159913
+*********************** The time is 5272.3373686983505*************************
+******************* THE TIME IS NOW ********************** 5285.006758610184
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 5285.006758610184*************************
+******************* THE TIME IS NOW ********************** 5295.589052159913
+Heart patient enters server 1
+The next patient is a Gastro. Patient is arriving at 5305.064315647426
+*********************** The time is 5295.589052159913*************************
+******************* THE TIME IS NOW ********************** 5305.064315647426
+Bleeding patient enters server 2
+The next patient is a Heart. Patient is arriving at 5306.339370032471
+*********************** The time is 5305.064315647426*************************
+******************* THE TIME IS NOW ********************** 5306.339370032471
+Heart patient has entered the line...
+The next patient is a Bleeding. Patient is arriving at 5326.125699186053
+*********************** The time is 5306.339370032471*************************
+******************* THE TIME IS NOW ********************** 5314.207093373823
+Heart patient has left server 2
+*********************** The time is 5314.207093373823*************************
+******************* THE TIME IS NOW ********************** 5314.217093373823
+Heart patient has entered service bay 2 from the line
+*********************** The time is 5314.217093373823*************************
+******************* THE TIME IS NOW ********************** 5318.335227566994
+Bleeding patient has left server 2
+*********************** The time is 5318.335227566994*************************
+******************* THE TIME IS NOW ********************** 5326.125699186053
+Gastro patient enters server 2
+The next patient is a Heart. Patient is arriving at 5330.589611930367
+*********************** The time is 5326.125699186053*************************
+******************* THE TIME IS NOW ********************** 5330.589611930367
+Gastro patient has entered the line...
+The next patient is a Bleeding. Patient is arriving at 5356.8555354042255
+*********************** The time is 5330.589611930367*************************
+******************* THE TIME IS NOW ********************** 5332.109881093081
+Bleeding patient has left server 2
+*********************** The time is 5332.109881093081*************************
+******************* THE TIME IS NOW ********************** 5332.119881093081
+Gastro patient has entered service bay 2 from the line
+*********************** The time is 5332.119881093081*************************
+******************* THE TIME IS NOW ********************** 5340.638858108242
+Bleeding patient has left server 2
+*********************** The time is 5340.638858108242*************************
+******************* THE TIME IS NOW ********************** 5356.8555354042255
+Bleeding patient enters server 2
+The next patient is a Gastro. Patient is arriving at 5370.941675615971
+*********************** The time is 5356.8555354042255*************************
+******************* THE TIME IS NOW ********************** 5360.132651924965
+Gastro patient has left server 1. Number in Queue: 0
+*********************** The time is 5360.132651924965*************************
+******************* THE TIME IS NOW ********************** 5365.612601641396
+Gastro patient has left server 2
+*********************** The time is 5365.612601641396*************************
+******************* THE TIME IS NOW ********************** 5370.941675615971
+Gastro patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 5377.0185350490665
+*********************** The time is 5370.941675615971*************************
+******************* THE TIME IS NOW ********************** 5373.174019974303
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 5373.174019974303*************************
+******************* THE TIME IS NOW ********************** 5377.0185350490665
+Heart patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 5393.543018309564
+*********************** The time is 5377.0185350490665*************************
+******************* THE TIME IS NOW ********************** 5393.543018309564
+Bleeding patient enters server 2
+The next patient is a Gastro. Patient is arriving at 5404.971998013121
+*********************** The time is 5393.543018309564*************************
+******************* THE TIME IS NOW ********************** 5400.953779824145
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 5400.953779824145*************************
+******************* THE TIME IS NOW ********************** 5404.971998013121
+Bleeding patient enters server 1
+The next patient is a Gastro. Patient is arriving at 5418.433251848466
+*********************** The time is 5404.971998013121*************************
+******************* THE TIME IS NOW ********************** 5409.966974965006
+Gastro patient has left server 1. Number in Queue: 0
+*********************** The time is 5409.966974965006*************************
+******************* THE TIME IS NOW ********************** 5416.459024158532
+Gastro patient has left server 2
+*********************** The time is 5416.459024158532*************************
+******************* THE TIME IS NOW ********************** 5418.433251848466
+Bleeding patient enters server 1
+The next patient is a Heart. Patient is arriving at 5441.546160139074
+*********************** The time is 5418.433251848466*************************
+******************* THE TIME IS NOW ********************** 5421.112772301567
+Heart patient has left server 1. Number in Queue: 0
+*********************** The time is 5421.112772301567*************************
+******************* THE TIME IS NOW ********************** 5441.546160139074
+Heart patient enters server 1
+The next patient is a Heart. Patient is arriving at 5458.37198999886
+*********************** The time is 5441.546160139074*************************
+******************* THE TIME IS NOW ********************** 5458.37198999886
+Bleeding patient enters server 2
+The next patient is a Bleeding. Patient is arriving at 5477.329181423468
+*********************** The time is 5458.37198999886*************************
+******************* THE TIME IS NOW ********************** 5466.119503672619
+Bleeding patient has left server 2
+*********************** The time is 5466.119503672619*************************
+******************* THE TIME IS NOW ********************** 5470.572635672509
+Heart patient has left server 1. Number in Queue: 0
+*********************** The time is 5470.572635672509*************************
+******************* THE TIME IS NOW ********************** 5477.329181423468
+Heart patient enters server 1
+The next patient is a Gastro. Patient is arriving at 5496.662196400914
+*********************** The time is 5477.329181423468*************************
+******************* THE TIME IS NOW ********************** 5479.7879587117495
+Gastro patient has left server 1. Number in Queue: 0
+*********************** The time is 5479.7879587117495*************************
+******************* THE TIME IS NOW ********************** 5496.662196400914
+Heart patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 5523.049694857834
+*********************** The time is 5496.662196400914*************************
+******************* THE TIME IS NOW ********************** 5523.049694857834
+Bleeding patient enters server 2
+The next patient is a Gastro. Patient is arriving at 5523.5298034364205
+*********************** The time is 5523.049694857834*************************
+******************* THE TIME IS NOW ********************** 5523.5298034364205
+Gastro patient has entered the line...
+The next patient is a Bleeding. Patient is arriving at 5541.0489720424475
+*********************** The time is 5523.5298034364205*************************
+******************* THE TIME IS NOW ********************** 5529.323390776948
+Heart patient has left server 1. Number in Queue: 1
+*********************** The time is 5529.323390776948*************************
+******************* THE TIME IS NOW ********************** 5529.333390776948
+The first Gastro patient in line has entered server 1
+*********************** The time is 5529.333390776948*************************
+******************* THE TIME IS NOW ********************** 5531.660878245685
+Heart patient has left server 1. Number in Queue: 0
+*********************** The time is 5531.660878245685*************************
+******************* THE TIME IS NOW ********************** 5535.141276481698
+Gastro patient has left server 2
+*********************** The time is 5535.141276481698*************************
+******************* THE TIME IS NOW ********************** 5541.0489720424475
+Gastro patient enters server 1
+The next patient is a Heart. Patient is arriving at 5560.572653098554
+*********************** The time is 5541.0489720424475*************************
+******************* THE TIME IS NOW ********************** 5543.499247155448
+Heart patient has left server 1. Number in Queue: 0
+*********************** The time is 5543.499247155448*************************
+******************* THE TIME IS NOW ********************** 5560.572653098554
+Gastro patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 5566.9882497256485
+*********************** The time is 5560.572653098554*************************
+******************* THE TIME IS NOW ********************** 5563.442855392718
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 5563.442855392718*************************
+******************* THE TIME IS NOW ********************** 5566.9882497256485
+Bleeding patient enters server 1
+The next patient is a Heart. Patient is arriving at 5585.300814756267
+*********************** The time is 5566.9882497256485*************************
+******************* THE TIME IS NOW ********************** 5585.300814756267
+Bleeding patient enters server 2
+The next patient is a Bleeding. Patient is arriving at 5585.822867111399
+*********************** The time is 5585.300814756267*************************
+******************* THE TIME IS NOW ********************** 5585.822867111399
+Gastro patient has entered the line...
+The next patient is a Bleeding. Patient is arriving at 5590.875323029981
+*********************** The time is 5585.822867111399*************************
+******************* THE TIME IS NOW ********************** 5586.696122907596
+Heart patient has left server 1. Number in Queue: 1
+*********************** The time is 5586.696122907596*************************
+******************* THE TIME IS NOW ********************** 5586.706122907596
+The first Gastro patient in line has entered server 1
+*********************** The time is 5586.706122907596*************************
+******************* THE TIME IS NOW ********************** 5587.796067752488
+Gastro patient has left server 1. Number in Queue: 0
+*********************** The time is 5587.796067752488*************************
+******************* THE TIME IS NOW ********************** 5590.875323029981
+Heart patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 5591.913112358275
+*********************** The time is 5590.875323029981*************************
+******************* THE TIME IS NOW ********************** 5591.913112358275
+Bleeding patient has entered the line...
+The next patient is a Bleeding. Patient is arriving at 5604.1869407795975
+*********************** The time is 5591.913112358275*************************
+******************* THE TIME IS NOW ********************** 5594.5928266662
+Heart patient has left server 2
+*********************** The time is 5594.5928266662*************************
+******************* THE TIME IS NOW ********************** 5594.602826666201
+Bleeding patient has entered service bay 2 from the line
+*********************** The time is 5594.602826666201*************************
+******************* THE TIME IS NOW ********************** 5597.048902277066
+Bleeding patient has left server 2
+*********************** The time is 5597.048902277066*************************
+******************* THE TIME IS NOW ********************** 5604.1869407795975
+Heart patient enters server 2
+The next patient is a Heart. Patient is arriving at 5604.44274857551
+*********************** The time is 5604.1869407795975*************************
+******************* THE TIME IS NOW ********************** 5604.44274857551
+Heart patient has entered the line...
+The next patient is a Bleeding. Patient is arriving at 5633.207196573344
+*********************** The time is 5604.44274857551*************************
+******************* THE TIME IS NOW ********************** 5605.784160117558
+Bleeding patient has left server 2
+*********************** The time is 5605.784160117558*************************
+******************* THE TIME IS NOW ********************** 5605.794160117558
+Heart patient has entered service bay 2 from the line
+*********************** The time is 5605.794160117558*************************
+******************* THE TIME IS NOW ********************** 5612.203599863836
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 5612.203599863836*************************
+******************* THE TIME IS NOW ********************** 5633.207196573344
+Bleeding patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 5633.768834640135
+*********************** The time is 5633.207196573344*************************
+******************* THE TIME IS NOW ********************** 5633.768834640135
+Gastro patient has entered the line...
+The next patient is a Bleeding. Patient is arriving at 5635.7260007090235
+*********************** The time is 5633.768834640135*************************
+******************* THE TIME IS NOW ********************** 5635.7260007090235
+Bleeding patient has entered the line...
+The next patient is a Bleeding. Patient is arriving at 5642.221979791633
+*********************** The time is 5635.7260007090235*************************
+******************* THE TIME IS NOW ********************** 5635.957971118609
+Bleeding patient has left server 1. Number in Queue: 2
+*********************** The time is 5635.957971118609*************************
+******************* THE TIME IS NOW ********************** 5635.967971118609
+The first Gastro patient in line has entered server 1
+*********************** The time is 5635.967971118609*************************
+******************* THE TIME IS NOW ********************** 5642.221979791633
+Bleeding patient has entered the line...
+The next patient is a Bleeding. Patient is arriving at 5642.239126781904
+*********************** The time is 5642.221979791633*************************
+******************* THE TIME IS NOW ********************** 5642.239126781904
+Bleeding patient has entered the line...
+The next patient is a Bleeding. Patient is arriving at 5654.006955737032
+*********************** The time is 5642.239126781904*************************
+******************* THE TIME IS NOW ********************** 5652.426288659956
+Gastro patient has left server 2
+*********************** The time is 5652.426288659956*************************
+******************* THE TIME IS NOW ********************** 5652.4362886599565
+Bleeding patient has entered service bay 2 from the line
+*********************** The time is 5652.4362886599565*************************
+******************* THE TIME IS NOW ********************** 5654.006955737032
+Bleeding patient has entered the line...
+The next patient is a Bleeding. Patient is arriving at 5654.927864139816
+*********************** The time is 5654.006955737032*************************
+******************* THE TIME IS NOW ********************** 5654.927864139816
+Gastro patient has entered the line...
+The next patient is a Bleeding. Patient is arriving at 5657.370082190116
+*********************** The time is 5654.927864139816*************************
+******************* THE TIME IS NOW ********************** 5657.370082190116
+Heart patient has entered the line...
+The next patient is a Bleeding. Patient is arriving at 5659.409485578419
+*********************** The time is 5657.370082190116*************************
+******************* THE TIME IS NOW ********************** 5659.409485578419
+Gastro patient has entered the line...
+The next patient is a Bleeding. Patient is arriving at 5660.757755400144
+*********************** The time is 5659.409485578419*************************
+******************* THE TIME IS NOW ********************** 5660.757755400144
+Bleeding patient has entered the line...
+The next patient is a Bleeding. Patient is arriving at 5661.791508204057
+*********************** The time is 5660.757755400144*************************
+******************* THE TIME IS NOW ********************** 5661.791508204057
+Gastro patient has entered the line...
+The next patient is a Bleeding. Patient is arriving at 5690.898617824503
+*********************** The time is 5661.791508204057*************************
+******************* THE TIME IS NOW ********************** 5667.522972452763
+Heart patient has left server 2
+*********************** The time is 5667.522972452763*************************
+******************* THE TIME IS NOW ********************** 5667.532972452763
+Bleeding patient has entered service bay 2 from the line
+*********************** The time is 5667.532972452763*************************
+******************* THE TIME IS NOW ********************** 5674.242975723183
+Gastro patient has left server 2
+*********************** The time is 5674.242975723183*************************
+******************* THE TIME IS NOW ********************** 5674.252975723183
+Bleeding patient has entered service bay 2 from the line
+*********************** The time is 5674.252975723183*************************
+******************* THE TIME IS NOW ********************** 5675.556670750078
+Heart patient has left server 2
+*********************** The time is 5675.556670750078*************************
+******************* THE TIME IS NOW ********************** 5675.566670750079
+Bleeding patient has entered service bay 2 from the line
+*********************** The time is 5675.566670750079*************************
+******************* THE TIME IS NOW ********************** 5676.041605658463
+Gastro patient has left server 2
+*********************** The time is 5676.041605658463*************************
+******************* THE TIME IS NOW ********************** 5676.051605658463
+Gastro patient has entered service bay 2 from the line
+*********************** The time is 5676.051605658463*************************
+******************* THE TIME IS NOW ********************** 5690.898617824503
+Bleeding patient has entered the line...
+The next patient is a Bleeding. Patient is arriving at 5711.688241340844
+*********************** The time is 5690.898617824503*************************
+******************* THE TIME IS NOW ********************** 5692.370082190116
+*********************** The time is 5692.370082190116*************************
+******************* THE TIME IS NOW ********************** 5696.889003146194
+Bleeding patient has left server 2
+*********************** The time is 5696.889003146194*************************
+******************* THE TIME IS NOW ********************** 5696.899003146194
+Gastro patient has entered service bay 2 from the line
+*********************** The time is 5696.899003146194*************************
+******************* THE TIME IS NOW ********************** 5711.688241340844
+Heart patient has entered the line...
+The next patient is a Bleeding. Patient is arriving at 5719.834239476484
+*********************** The time is 5711.688241340844*************************
+******************* THE TIME IS NOW ********************** 5712.25298962159
+Bleeding patient has left server 2
+*********************** The time is 5712.25298962159*************************
+******************* THE TIME IS NOW ********************** 5712.26298962159
+Bleeding patient has entered service bay 2 from the line
+*********************** The time is 5712.26298962159*************************
+******************* THE TIME IS NOW ********************** 5719.834239476484
+Heart patient has entered the line...
+The next patient is a Bleeding. Patient is arriving at 5731.6511626334095
+*********************** The time is 5719.834239476484*************************
+******************* THE TIME IS NOW ********************** 5721.352621246911
+Bleeding patient has left server 2
+*********************** The time is 5721.352621246911*************************
+******************* THE TIME IS NOW ********************** 5721.362621246912
+Gastro patient has entered service bay 2 from the line
+*********************** The time is 5721.362621246912*************************
+******************* THE TIME IS NOW ********************** 5731.6511626334095
+Heart patient has entered the line...
+The next patient is a Bleeding. Patient is arriving at 5733.626460119799
+*********************** The time is 5731.6511626334095*************************
+******************* THE TIME IS NOW ********************** 5733.626460119799
+Bleeding patient has entered the line...
+The next patient is a Bleeding. Patient is arriving at 5749.788180644539
+*********************** The time is 5733.626460119799*************************
+******************* THE TIME IS NOW ********************** 5746.688241340844
+*********************** The time is 5746.688241340844*************************
+******************* THE TIME IS NOW ********************** 5749.788180644539
+Heart patient has entered the line...
+The next patient is a Bleeding. Patient is arriving at 5754.685602884243
+*********************** The time is 5749.788180644539*************************
+******************* THE TIME IS NOW ********************** 5750.898617824503
+*********************** The time is 5750.898617824503*************************
+******************* THE TIME IS NOW ********************** 5751.3410262198195
+Gastro patient has left server 2
+*********************** The time is 5751.3410262198195*************************
+******************* THE TIME IS NOW ********************** 5751.35102621982
+Heart patient has entered service bay 2 from the line
+*********************** The time is 5751.35102621982*************************
+******************* THE TIME IS NOW ********************** 5754.685602884243
+Heart patient has entered the line...
+The next patient is a Bleeding. Patient is arriving at 5777.284425343447
+*********************** The time is 5754.685602884243*************************
+******************* THE TIME IS NOW ********************** 5760.0262002999625
+Heart patient has left server 1. Number in Queue: 4
+*********************** The time is 5760.0262002999625*************************
+******************* THE TIME IS NOW ********************** 5760.036200299963
+The first Heart patient in line has entered server 1
+*********************** The time is 5760.036200299963*************************
+******************* THE TIME IS NOW ********************** 5760.059321366282
+Bleeding patient has left server 1. Number in Queue: 3
+*********************** The time is 5760.059321366282*************************
+******************* THE TIME IS NOW ********************** 5760.069321366283
+The first Bleeding patient in line has entered server 1
+*********************** The time is 5760.069321366283*************************
+******************* THE TIME IS NOW ********************** 5761.576839212376
+Bleeding patient has left server 1. Number in Queue: 2
+*********************** The time is 5761.576839212376*************************
+******************* THE TIME IS NOW ********************** 5761.586839212377
+The first Heart patient in line has entered server 1
+*********************** The time is 5761.586839212377*************************
+******************* THE TIME IS NOW ********************** 5777.284425343447
+Gastro patient has entered the line...
+The next patient is a Bleeding. Patient is arriving at 5793.390829686829
+*********************** The time is 5777.284425343447*************************
+******************* THE TIME IS NOW ********************** 5786.050584050843
+Gastro patient has left server 2
+*********************** The time is 5786.050584050843*************************
+******************* THE TIME IS NOW ********************** 5786.060584050843
+Heart patient has entered service bay 2 from the line
+*********************** The time is 5786.060584050843*************************
+******************* THE TIME IS NOW ********************** 5792.720431727558
+Gastro patient has left server 1. Number in Queue: 1
+*********************** The time is 5792.720431727558*************************
+******************* THE TIME IS NOW ********************** 5792.730431727558
+The first Gastro patient in line has entered server 1
+*********************** The time is 5792.730431727558*************************
+******************* THE TIME IS NOW ********************** 5793.390829686829
+Bleeding patient has entered the line...
+The next patient is a Bleeding. Patient is arriving at 5803.465477319788
+*********************** The time is 5793.390829686829*************************
+******************* THE TIME IS NOW ********************** 5798.485900099691
+Heart patient has left server 1. Number in Queue: 1
+*********************** The time is 5798.485900099691*************************
+******************* THE TIME IS NOW ********************** 5798.495900099691
+The first Bleeding patient in line has entered server 1
+*********************** The time is 5798.495900099691*************************
+******************* THE TIME IS NOW ********************** 5800.031416333442
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 5800.031416333442*************************
+******************* THE TIME IS NOW ********************** 5803.465477319788
+Bleeding patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 5821.090418328837
+*********************** The time is 5803.465477319788*************************
+******************* THE TIME IS NOW ********************** 5811.345193676668
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 5811.345193676668*************************
+******************* THE TIME IS NOW ********************** 5817.932863561218
+Heart patient has left server 2
+*********************** The time is 5817.932863561218*************************
+******************* THE TIME IS NOW ********************** 5821.090418328837
+Gastro patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 5827.997867086929
+*********************** The time is 5821.090418328837*************************
+******************* THE TIME IS NOW ********************** 5827.997867086929
+Bleeding patient enters server 2
+The next patient is a Bleeding. Patient is arriving at 5854.045952750211
+*********************** The time is 5827.997867086929*************************
+******************* THE TIME IS NOW ********************** 5828.943994301857
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 5828.943994301857*************************
+******************* THE TIME IS NOW ********************** 5835.413209312938
+Bleeding patient has left server 2
+*********************** The time is 5835.413209312938*************************
+******************* THE TIME IS NOW ********************** 5854.045952750211
+Heart patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 5862.653864228074
+*********************** The time is 5854.045952750211*************************
+******************* THE TIME IS NOW ********************** 5862.653864228074
+Gastro patient enters server 2
+The next patient is a Gastro. Patient is arriving at 5879.671920700126
+*********************** The time is 5862.653864228074*************************
+******************* THE TIME IS NOW ********************** 5879.671920700126
+Bleeding patient has entered the line...
+The next patient is a Bleeding. Patient is arriving at 5908.735919831332
+*********************** The time is 5879.671920700126*************************
+******************* THE TIME IS NOW ********************** 5881.356604041972
+Bleeding patient has left server 2
+*********************** The time is 5881.356604041972*************************
+******************* THE TIME IS NOW ********************** 5881.366604041972
+Bleeding patient has entered service bay 2 from the line
+*********************** The time is 5881.366604041972*************************
+******************* THE TIME IS NOW ********************** 5883.572227940633
+Heart patient has left server 2
+*********************** The time is 5883.572227940633*************************
+******************* THE TIME IS NOW ********************** 5889.6324011059005
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 5889.6324011059005*************************
+******************* THE TIME IS NOW ********************** 5908.735919831332
+Bleeding patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 5917.107572954458
+*********************** The time is 5908.735919831332*************************
+******************* THE TIME IS NOW ********************** 5913.567827104926
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 5913.567827104926*************************
+******************* THE TIME IS NOW ********************** 5917.107572954458
+Bleeding patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 5924.49733100319
+*********************** The time is 5917.107572954458*************************
+******************* THE TIME IS NOW ********************** 5920.143217964739
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 5920.143217964739*************************
+******************* THE TIME IS NOW ********************** 5924.49733100319
+Bleeding patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 5931.768262778647
+*********************** The time is 5924.49733100319*************************
+******************* THE TIME IS NOW ********************** 5926.763122686403
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 5926.763122686403*************************
+******************* THE TIME IS NOW ********************** 5931.768262778647
+Heart patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 5948.948125624883
+*********************** The time is 5931.768262778647*************************
+******************* THE TIME IS NOW ********************** 5948.217905551224
+Bleeding patient has left server 1. Number in Queue: 0
+*********************** The time is 5948.217905551224*************************
+******************* THE TIME IS NOW ********************** 5948.948125624883
+Heart patient enters server 1
+The next patient is a Bleeding. Patient is arriving at 5980.473541200701
+*********************** The time is 5948.948125624883*************************
+******************* THE TIME IS NOW ********************** 5980.473541200701
+Heart patient enters server 2
+The next patient is a Bleeding. Patient is arriving at 6013.407038711217
+*********************** The time is 5980.473541200701*************************
+Printing the Statistics for this Run:
+There were a total of 84 patients going through the line.
+These patients spent an average time in line of 11.67036851479611
+There was a total of 4 patients balking.
+Patients spent an average of 13.01672177872248 in the servers.
+There were a total of 20 Hearts patients serviced.
+There were a total of 26 Gastro patients serviced.
+There were a total of 34 Bleeding patients serviced.
+There were a total of 0 Heart patients balking.
+There were a total of 0 Gastro patients balking.
+There were a total of 4 Heart patients balking.
+Heart patients spent an average time in queue of 14.491644059304122
+Gastro patients spent an average time in queue of 8.403983329315034
+Bleeding patients spent an average time in queue of 13.881603161605877
